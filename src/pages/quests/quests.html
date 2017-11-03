@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Hub Quests</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+  <ion-list>
+  <button ion-item *ngFor="let quest of quests" (click)="questSelected(quest)">
+    <ion-icon name="star"></ion-icon>
+    {{ quest.title }}
+  </button>
+</ion-list>
+
+</ion-content>
