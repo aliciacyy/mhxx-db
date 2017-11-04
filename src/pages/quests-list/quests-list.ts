@@ -1,12 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the QuestsListPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import { QuestDetailPage } from '../quest-detail/quest-detail';
 
 @IonicPage()
 @Component({
@@ -14,13 +8,23 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
   templateUrl: 'quests-list.html',
 })
 export class QuestsListPage {
-  quest: any;
+  quest: Quest;
+  listOfQuests: ListOfQuests[];
   constructor(public navCtrl: NavController, public navParams: NavParams) {
     this.quest = navParams.get('quest');
+    this.listOfQuests = this.quest.listOfQuests;
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad QuestsListPage');
+  }
+
+  questSelected(listOfQuests) {
+    console.log('From the list page');
+    console.log(listOfQuests);
+    this.navCtrl.push(QuestDetailPage, {
+      listOfQuests: listOfQuests
+    });
   }
 
 }

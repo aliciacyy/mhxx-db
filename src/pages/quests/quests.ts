@@ -1,19 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { QuestsListPage } from '../quests-list/quests-list';
-
-/**
- * Generated class for the QuestsPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
-
- interface ListOfQuests {
- titleJa: string,
- titleEn: string,
- main: string
- }
+import { DataProvider } from '../../providers/data/data';
 
 @IonicPage()
 @Component({
@@ -22,35 +10,19 @@ import { QuestsListPage } from '../quests-list/quests-list';
 })
 export class QuestsPage {
   quests: Array<{title: string, listOfQuests: ListOfQuests[]}>;
+  questItem: any;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, private dataProvider: DataProvider) {
     this.quests = [];
-    for (let i = 1; i < 8; i++) {
-      this.quests.push({
-        title: String(i),
-        listOfQuests: [{
-          titleJa: "心火の斬竜炉",
-          titleEn: "Flames of Glavenus Passion",
-          main: "Hunt a Glavenus"
-        },
-        {
-          titleJa: "轟竜ティガレックス",
-          titleEn: "Tigrex by the Tail ",
-          main: "Hunt a Tigrex"
+
+    this.dataProvider.getFromDatabase()
+    .subscribe(data => {
+      this.questItem = data.json();
+      for (let i = 0; i < this.questItem.length; i++) {
+          this.quests.push(this.questItem[i]);
         }
-      ]
-      });
-    }
-    for (let i = 1; i < 5; i++) {
-      this.quests.push({
-        title: 'G' + String(i),
-        listOfQuests: [{
-          titleJa: "心火の斬竜炉",
-          titleEn: "Flames of Glavenus Passion",
-          main: "Hunt a Glavenus"
-        }]
-      });
-    }
+    });
+
   }
 
   ionViewDidLoad() {

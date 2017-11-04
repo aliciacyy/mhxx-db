@@ -1,26 +1,11 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+## MHXX Database App
 
-## How to use this template
+This is a personal project by us to learn how to develop mobile apps.
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+Greatly inspired by MHGen Database app for Android.
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+But nobody made an app for MHXX.
 
-### With the Ionic CLI:
+### Credits
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
-
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start mySideMenu sidemenu
-```
-
-Then, to run it, cd into `mySideMenu` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
+All information was sourced from Kiranico.
