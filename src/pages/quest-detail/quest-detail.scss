@@ -1,0 +1,25 @@
+page-quest-detail {
+  font-size: 16px;
+  .quest-title-ja {
+    font-size: 20px;
+  }
+  .quest-title-en {
+    margin-bottom: 8px;
+  }
+  .quest-sub {
+    margin-bottom: 16px;
+  }
+  .quest-reward-label {
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+  .quest-header {
+    font-weight: bold;
+  }
+  .quest-location, .quest-main, .quest-sub {
+    margin-bottom: 4px;
+  }
+  .list-md .input-wrapper{
+    font-size: 14px;
+  }
+}

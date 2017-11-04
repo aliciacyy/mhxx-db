@@ -2,5 +2,7 @@
   "name": "mhxx-database",
   "app_id": "37fa0466",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }

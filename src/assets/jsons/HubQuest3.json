@@ -1,0 +1,115 @@
+[{
+  "title": 1,
+  "listOfQuests": [{
+    "rank": 1,
+    "titleJa": "轟竜ティガレックス",
+    "titleEn": "Tigrex by the Tail",
+    "location": "J. Frontier Night",
+    "type": "Hunt",
+    "main": "Hunt a Tigrex",
+    "sub": "Deliver 1 Wyvern Tear",
+    "rewardA": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      },
+      {
+        "nameJa": "轟竜の鱗",
+        "nameEn": "Tigrex Scale",
+        "chance": 30
+      }
+    ],
+    "rewardB": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      }
+    ],
+    "subReward": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      }
+    ]
+  }]
+},
+{
+  "title": 2,
+  "listOfQuests": [{
+    "rank": 2,
+    "titleJa": "轟竜ティガレックス",
+    "titleEn": "Tigrex by the Tail",
+    "location": "J. Frontier Night",
+    "type": "Hunt",
+    "main": "Hunt a Tigrex",
+    "sub": "Deliver 1 Wyvern Tear",
+    "rewardA": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      },
+      {
+        "nameJa": "轟竜の鱗",
+        "nameEn": "Tigrex Scale",
+        "chance": 30
+      }
+    ],
+    "rewardB": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      }
+    ],
+    "subReward": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      }
+    ]
+  }]
+},
+{
+  "title": 3,
+  "listOfQuests": [{
+    "rank": 3,
+    "titleJa": "轟竜ティガレックス",
+    "titleEn": "Tigrex by the Tail",
+    "location": "J. Frontier Night",
+    "type": "Hunt",
+    "main": "Hunt a Tigrex",
+    "sub": "Deliver 1 Wyvern Tear",
+    "rewardA": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      },
+      {
+        "nameJa": "轟竜の鱗",
+        "nameEn": "Tigrex Scale",
+        "chance": 30
+      }
+    ],
+    "rewardB": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      }
+    ],
+    "subReward": [
+      {
+        "nameJa": "轟竜の甲殻",
+        "nameEn": "Tigrex Shell",
+        "chance": 100
+      }
+    ]
+  }]
+}
+]
