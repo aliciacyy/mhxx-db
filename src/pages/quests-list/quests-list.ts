@@ -20,8 +20,6 @@ export class QuestsListPage {
   }
 
   questSelected(listOfQuests) {
-    console.log('From the list page');
-    console.log(listOfQuests);
     this.navCtrl.push(QuestDetailPage, {
       listOfQuests: listOfQuests
     });
