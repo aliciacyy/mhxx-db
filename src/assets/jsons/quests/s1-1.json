@@ -1,10 +1,10 @@
 {
   "id": "s1-1",
-  "rank": "★１",
+  "rank": "★ 1",
   "questList": [
     {
-      "titleEn": "【Hub★１】Harvest Tour: Jurassic Frontier",
-      "titleJa": "【集★１】古代林の採集ツアー",
+      "titleEn": "Harvest Tour: Jurassic Frontier",
+      "titleJa": "古代林の採集ツアー",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Harvest Tour: Dunes",
-      "titleJa": "【集★１】旧砂漠の採集ツアー",
+      "titleEn": "Harvest Tour: Dunes",
+      "titleJa": "旧砂漠の採集ツアー",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -149,8 +149,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Harvest Tour: Verdant Hills",
-      "titleJa": "【集★１】森丘の採集ツアー",
+      "titleEn": "Harvest Tour: Verdant Hills",
+      "titleJa": "森丘の採集ツアー",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -222,8 +222,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Harvest Tour: Arctic Ridge",
-      "titleJa": "【集★１】雪山の採集ツアー",
+      "titleEn": "Harvest Tour: Arctic Ridge",
+      "titleJa": "雪山の採集ツアー",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -295,8 +295,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Harvest Tour: Misty Peaks",
-      "titleJa": "【集★１】渓流の採集ツアー",
+      "titleEn": "Harvest Tour: Misty Peaks",
+      "titleJa": "渓流の採集ツアー",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -368,8 +368,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Boot to the Head",
-      "titleJa": "【集★１】スピードキッカー",
+      "titleEn": "Boot to the Head",
+      "titleJa": "スピードキッカー",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Great Maccao",
@@ -545,8 +545,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Tackling the Tetsucabra",
-      "titleJa": "【集★１】鬼蛙テツカブラの狩猟",
+      "titleEn": "Tackling the Tetsucabra",
+      "titleJa": "鬼蛙テツカブラの狩猟",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -728,8 +728,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Lost in the Jurassic Frontier",
-      "titleJa": "【集★１】盗まれて古代林！",
+      "titleEn": "Lost in the Jurassic Frontier",
+      "titleJa": "盗まれて古代林！",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Gypceros",
@@ -923,8 +923,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Red-Faced Ruffians",
-      "titleJa": "【集★１】真っ赤な顔の荒くれ者",
+      "titleEn": "Red-Faced Ruffians",
+      "titleJa": "真っ赤な顔の荒くれ者",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Slay 20 Maccao",
@@ -1106,8 +1106,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】A Fern is Forever",
-      "titleJa": "【集★１】ゼンマイ肴に古代を感じて",
+      "titleEn": "A Fern is Forever",
+      "titleJa": "ゼンマイ肴に古代を感じて",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Deliver 20 Unique Ferns",
@@ -1289,8 +1289,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Gendrome Roadblock",
-      "titleJa": "【集★１】ドスゲネポスを狩れ！",
+      "titleEn": "Gendrome Roadblock",
+      "titleJa": "ドスゲネポスを狩れ！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Gendrome",
@@ -1472,8 +1472,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】In Pursuit of the Sand Wyvern",
-      "titleJa": "【集★１】砂の竜を追跡せよ！",
+      "titleEn": "In Pursuit of the Sand Wyvern",
+      "titleJa": "砂の竜を追跡せよ！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Cephadrome",
@@ -1643,8 +1643,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Shells of Steel",
-      "titleJa": "【集★１】鉄壁の盾蟹",
+      "titleEn": "Shells of Steel",
+      "titleJa": "鉄壁の盾蟹",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Daimyo Hermitaur",
@@ -1820,8 +1820,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Hermitaur Party",
-      "titleJa": "【集★１】盾蟹たちの集い",
+      "titleEn": "Hermitaur Party",
+      "titleJa": "盾蟹たちの集い",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Slay 20 Hermitaurs",
@@ -1985,8 +1985,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Ingredient Hunter",
-      "titleJa": "【集★１】新たな食材ハンターの誕生！？",
+      "titleEn": "Ingredient Hunter",
+      "titleJa": "新たな食材ハンターの誕生！？",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Deliver 20 Tropical Berries",
@@ -2150,8 +2150,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Hunt Down the Velocidrome!",
-      "titleJa": "【集★１】ドスランポスを狩猟せよ！",
+      "titleEn": "Hunt Down the Velocidrome!",
+      "titleJa": "ドスランポスを狩猟せよ！",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Velocidrome",
@@ -2333,8 +2333,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Local Threat",
-      "titleJa": "【集★１】大怪鳥イャンクックを倒せ！",
+      "titleEn": "Local Threat",
+      "titleJa": "大怪鳥イャンクックを倒せ！",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku",
@@ -2528,8 +2528,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Financial Focus on Fungus",
-      "titleJa": "【集★１】キノコ探しで大もうけ！？",
+      "titleEn": "Financial Focus on Fungus",
+      "titleJa": "キノコ探しで大もうけ！？",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Deliver 20 Unique Mushrooms",
@@ -2699,8 +2699,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Farming Frustrations",
-      "titleJa": "【集★１】狡猾な襲撃者たち",
+      "titleEn": "Farming Frustrations",
+      "titleJa": "狡猾な襲撃者たち",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Slay 20 Velociprey",
@@ -2888,8 +2888,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Snow with Occasional Lagombi",
-      "titleJa": "【集★１】雪のちウルクスス",
+      "titleEn": "Snow with Occasional Lagombi",
+      "titleJa": "雪のちウルクスス",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Lagombi",
@@ -3071,8 +3071,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Preying on Giaprey",
-      "titleJa": "【集★１】肉食竜の討伐！",
+      "titleEn": "Preying on Giaprey",
+      "titleJa": "肉食竜の討伐！",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay 20 Giaprey",
@@ -3254,8 +3254,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Special Home Brew",
-      "titleJa": "【集★１】雪山草を探せ！",
+      "titleEn": "Special Home Brew",
+      "titleJa": "雪山草を探せ！",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Deliver 20 Mountain Herbs",
@@ -3431,8 +3431,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Bulldrome of the Peaks",
-      "titleJa": "【集★１】渓流の頭、ドスファンゴ",
+      "titleEn": "Bulldrome of the Peaks",
+      "titleJa": "渓流の頭、ドスファンゴ",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Bulldrome",
@@ -3590,8 +3590,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】The Ingredient of Legend",
-      "titleJa": "【集★１】伝説のメニューに不可欠なモノ",
+      "titleEn": "The Ingredient of Legend",
+      "titleJa": "伝説のメニューに不可欠なモノ",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt an Arzuros",
@@ -3761,8 +3761,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Royal Spit Take",
-      "titleJa": "【集★１】ロアルドロスを狩猟せよ！",
+      "titleEn": "Royal Spit Take",
+      "titleJa": "ロアルドロスを狩猟せよ！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Royal Ludroth",
@@ -3932,8 +3932,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】A Mother's Woes",
-      "titleJa": "【集★１】ルドロス討伐作戦！",
+      "titleEn": "A Mother's Woes",
+      "titleJa": "ルドロス討伐作戦！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Slay 10 Ludroth",
@@ -4097,8 +4097,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Jaggi Junket",
-      "titleJa": "【集★１】渓流のジャギィ討伐作戦",
+      "titleEn": "Jaggi Junket",
+      "titleJa": "渓流のジャギィ討伐作戦",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Slay 20 Jaggi",
@@ -4292,8 +4292,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】The Next Best Thing",
-      "titleJa": "【集★１】花の香りを掘り当てて",
+      "titleEn": "The Next Best Thing",
+      "titleJa": "花の香りを掘り当てて",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Deliver 10 Balmstone Pieces",
@@ -4475,8 +4475,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★１】Dance: The Final Frontier",
-      "titleJa": "【集★１】古代林のダンスパーティ",
+      "titleEn": "Dance: The Final Frontier",
+      "titleJa": "古代林のダンスパーティ",
       "location": "J. Frontier",
       "prowler": true,
       "mainObjective": "Slay 15 Maccao",
@@ -4615,8 +4615,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Taste the Mountains",
-      "titleJa": "【集★１】薬膳スープは雪山草仕立て",
+      "titleEn": "Taste the Mountains",
+      "titleJa": "薬膳スープは雪山草仕立て",
       "location": "A. Ridge",
       "prowler": true,
       "mainObjective": "Deliver 10 Mountain Herbs",
@@ -4756,8 +4756,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★１】Lucky Mountain Cat",
-      "titleJa": "【集★１】渓流のポイント招きネコ",
+      "titleEn": "Lucky Mountain Cat",
+      "titleJa": "渓流のポイント招きネコ",
       "location": "M. Peaks",
       "prowler": true,
       "mainObjective": "Earn 1500 Wycademy Points",

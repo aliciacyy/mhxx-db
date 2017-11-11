@@ -1,10 +1,10 @@
 {
   "id": "s1-3",
-  "rank": "★３",
+  "rank": "★ 3",
   "questList": [
     {
-      "titleEn": "【Hub★３】Harvest Tour: Volcano",
-      "titleJa": "【集★３】火山の採集ツアー",
+      "titleEn": "Harvest Tour: Volcano",
+      "titleJa": "火山の採集ツアー",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Flames of Glavenus Passion",
-      "titleJa": "【集★３】心火の斬竜炉",
+      "titleEn": "Flames of Glavenus Passion",
+      "titleJa": "心火の斬竜炉",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus",
@@ -271,8 +271,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Tigrex by the Tail",
-      "titleJa": "【集★３】轟竜ティガレックス",
+      "titleEn": "Tigrex by the Tail",
+      "titleJa": "轟竜ティガレックス",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Tigrex",
@@ -472,8 +472,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Dark Wings, Dark Work",
-      "titleJa": "【集★３】黒き衣を纏う竜",
+      "titleEn": "Dark Wings, Dark Work",
+      "titleJa": "黒き衣を纏う竜",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -612,8 +612,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Fossilized Memories",
-      "titleJa": "【集★３】化石に眠る太古の記憶",
+      "titleEn": "Fossilized Memories",
+      "titleJa": "化石に眠る太古の記憶",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Deliver 3 Eternal Fossils",
@@ -771,8 +771,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】A Thousand Scales of Dread",
-      "titleJa": "【集★３】千刃、襲来",
+      "titleEn": "A Thousand Scales of Dread",
+      "titleJa": "千刃、襲来",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Seregios",
@@ -954,8 +954,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】A Shocking Scoundrel",
-      "titleJa": "【集★３】電の反逆者",
+      "titleEn": "A Shocking Scoundrel",
+      "titleJa": "電の反逆者",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -1149,8 +1149,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】The King's Domain",
-      "titleJa": "【集★３】王の領域",
+      "titleEn": "The King's Domain",
+      "titleJa": "王の領域",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos",
@@ -1301,8 +1301,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Fury Run Afoul",
-      "titleJa": "【集★３】憤激する巨獣",
+      "titleEn": "Fury Run Afoul",
+      "titleJa": "憤激する巨獣",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth",
@@ -1490,8 +1490,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Lagiacrus Lethargy",
-      "titleJa": "【集★３】驚浪雷奔ラギアクルス",
+      "titleEn": "Lagiacrus Lethargy",
+      "titleJa": "驚浪雷奔ラギアクルス",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -1685,8 +1685,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Moonlit Bubble Bath",
-      "titleJa": "【集★３】月夜に映える泡の華",
+      "titleEn": "Moonlit Bubble Bath",
+      "titleJa": "月夜に映える泡の華",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -1868,8 +1868,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Topple the Monarch",
-      "titleJa": "【集★３】狩られる前に狩れ！",
+      "titleEn": "Topple the Monarch",
+      "titleJa": "狩られる前に狩れ！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre",
@@ -2057,8 +2057,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Lagiacrushed",
-      "titleJa": "【集★３】孤島に渦巻く恐怖",
+      "titleEn": "Lagiacrushed",
+      "titleJa": "孤島に渦巻く恐怖",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -2222,8 +2222,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Tuff Turf",
-      "titleJa": "【集★３】縄張りに進入するべからず",
+      "titleEn": "Tuff Turf",
+      "titleJa": "縄張りに進入するべからず",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Capture a Zinogre",
@@ -2362,8 +2362,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Isle About that Bass",
-      "titleJa": "【集★３】孤島を揺るがす剛音",
+      "titleEn": "Isle About that Bass",
+      "titleJa": "孤島を揺るがす剛音",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Brachydios",
@@ -2570,8 +2570,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Heaven and Earth",
-      "titleJa": "【集★３】天と地の領域！",
+      "titleEn": "Heaven and Earth",
+      "titleJa": "天と地の領域！",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos and a Rathian",
@@ -2785,8 +2785,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Fro Shizzle",
-      "titleJa": "【集★３】パッション炸裂☆究極アフロ",
+      "titleEn": "Fro Shizzle",
+      "titleJa": "パッション炸裂☆究極アフロ",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -2980,8 +2980,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Bladed Glavenus",
-      "titleJa": "【集★３】ブレイド・ディノバルド",
+      "titleEn": "Bladed Glavenus",
+      "titleJa": "ブレイド・ディノバルド",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Capture a Glavenus",
@@ -3126,8 +3126,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Fight or Uragaan!",
-      "titleJa": "【集★３】脅威！　火山の鉄槌！",
+      "titleEn": "Fight or Uragaan!",
+      "titleJa": "脅威！　火山の鉄槌！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt an Uragaan",
@@ -3291,8 +3291,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】The Shogun's Encampment",
-      "titleJa": "【集★３】鎌将軍の包囲陣",
+      "titleEn": "The Shogun's Encampment",
+      "titleJa": "鎌将軍の包囲陣",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt 2 Shogun Ceanataurs",
@@ -3451,8 +3451,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Crustacean Infestation",
-      "titleJa": "【集★３】ガミザミの群れを掃討せよ！",
+      "titleEn": "Crustacean Infestation",
+      "titleJa": "ガミザミの群れを掃討せよ！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Slay 20 Ceanataurs",
@@ -3616,8 +3616,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Scavengers United",
-      "titleJa": "【集★３】スカヴェンジャーズ軍団！",
+      "titleEn": "Scavengers United",
+      "titleJa": "スカヴェンジャーズ軍団！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Slay a total of 20 Remobra or Uroktor",
@@ -3787,8 +3787,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】More Coal Please",
-      "titleJa": "【集★３】燃石炭採掘指令",
+      "titleEn": "More Coal Please",
+      "titleJa": "燃石炭採掘指令",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Deliver 20 pieces of Coal",
@@ -4006,8 +4006,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】An Early Jurassic Excursion",
-      "titleJa": "【集★３】ドス来い！　真昼の古代林",
+      "titleEn": "An Early Jurassic Excursion",
+      "titleJa": "ドス来い！　真昼の古代林",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4232,8 +4232,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Wyvern Sand Runners",
-      "titleJa": "【集★３】砂上の竜脚",
+      "titleEn": "Wyvern Sand Runners",
+      "titleJa": "砂上の竜脚",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4458,8 +4458,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Zinogre, Bearly Fazed",
-      "titleJa": "【集★３】雷狼の尾を踏む青熊",
+      "titleEn": "Zinogre, Bearly Fazed",
+      "titleJa": "雷狼の尾を踏む青熊",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4684,8 +4684,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Making it Safe for Swine",
-      "titleJa": "【集★３】沼地をめぐる攻防",
+      "titleEn": "Making it Safe for Swine",
+      "titleJa": "沼地をめぐる攻防",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4910,8 +4910,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Rumble in the Volcano",
-      "titleJa": "【集★３】ボルケーノブロー",
+      "titleEn": "Rumble in the Volcano",
+      "titleJa": "ボルケーノブロー",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -5136,8 +5136,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】It's Electric",
-      "titleJa": "【集★３】雷電",
+      "titleEn": "It's Electric",
+      "titleJa": "雷電",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -5253,8 +5253,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】The White Brute",
-      "titleJa": "【集★３】白き霊獣",
+      "titleEn": "The White Brute",
+      "titleJa": "白き霊獣",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -5425,8 +5425,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】The Frozen Dictator",
-      "titleJa": "【集★３】氷点下の支配者",
+      "titleEn": "The Frozen Dictator",
+      "titleJa": "氷点下の支配者",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kushala Daora or repel it",
@@ -5706,8 +5706,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】The Elder Dragon of Mist",
-      "titleJa": "【集★３】古の霞龍、オオナズチ",
+      "titleEn": "The Elder Dragon of Mist",
+      "titleJa": "古の霞龍、オオナズチ",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Slay a Chameleos or repel it",
@@ -5993,8 +5993,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Emperor of Flame",
-      "titleJa": "【集★３】煉獄の主、怒れる炎帝",
+      "titleEn": "Emperor of Flame",
+      "titleJa": "煉獄の主、怒れる炎帝",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Slay a Teostra or repel it",
@@ -6262,8 +6262,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Stop the Wheel",
-      "titleJa": "【集★３】廻り集いて回帰せん",
+      "titleEn": "Stop the Wheel",
+      "titleJa": "廻り集いて回帰せん",
       "location": "Sanctuary",
       "prowler": false,
       "mainObjective": "Slay a Shagaru Magala",
@@ -6470,8 +6470,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Two-headed Carcass",
-      "titleJa": "【集★３】双頭の骸",
+      "titleEn": "Two-headed Carcass",
+      "titleJa": "双頭の骸",
       "location": "Wyvern's End",
       "prowler": false,
       "mainObjective": "Repel Nakarkos",
@@ -6696,8 +6696,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★３】Hot Scales & Sharp Pincers",
-      "titleJa": "【集★３】熱いウロコと鋭いハサミ",
+      "titleEn": "Hot Scales & Sharp Pincers",
+      "titleJa": "熱いウロコと鋭いハサミ",
       "location": "Volcano",
       "prowler": true,
       "mainObjective": "Slay a total of 15 Ceanataurs or Uroktor",
@@ -6873,8 +6873,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】There's Always Room for Fish",
-      "titleJa": "【集★３】サカニャが食べたい腹いっぱい",
+      "titleEn": "There's Always Room for Fish",
+      "titleJa": "サカニャが食べたい腹いっぱい",
       "location": "Marshlands",
       "prowler": true,
       "mainObjective": "Deliver 4 Goldenfish",
@@ -7026,8 +7026,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★３】Out of the Frying Pan",
-      "titleJa": "【集★３】闘技場の牙獣と牙獣",
+      "titleEn": "Out of the Frying Pan",
+      "titleJa": "闘技場の牙獣と牙獣",
       "location": "Arena",
       "prowler": true,
       "mainObjective": "Hunt all large monsters",

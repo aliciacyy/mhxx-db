@@ -1,10 +1,10 @@
 {
   "id": "s1-14",
-  "rank": "Ｇ★４",
+  "rank": "G ★ 4",
   "questList": [
     {
-      "titleEn": "【HubＧ★４】Heaven Piercer",
-      "titleJa": "【集Ｇ★４】天を貫く凶星",
+      "titleEn": "Heaven Piercer",
+      "titleJa": "天を貫く凶星",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Valfalk or repel it",
@@ -319,8 +319,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Way of the Comet",
-      "titleJa": "【集Ｇ★４】天彗龍流　狩人道場",
+      "titleEn": "Way of the Comet",
+      "titleJa": "天彗龍流　狩人道場",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Slay a Valfalk or repel it",
@@ -732,8 +732,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Supersonic",
-      "titleJa": "【集Ｇ★４】スーパーソニック",
+      "titleEn": "Supersonic",
+      "titleJa": "スーパーソニック",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Slay a Valfalk or repel it",
@@ -1145,8 +1145,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Dazzling Comet",
-      "titleJa": "【集Ｇ★４】天彗龍に目が眩む",
+      "titleEn": "Dazzling Comet",
+      "titleJa": "天彗龍に目が眩む",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Valfalk or repel it",
@@ -1558,8 +1558,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Sharper than a Katana",
-      "titleJa": "【集Ｇ★４】千刃は刀よりも鋭く",
+      "titleEn": "Sharper than a Katana",
+      "titleJa": "千刃は刀よりも鋭く",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Seregios",
@@ -1821,8 +1821,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Horns by the Sand",
-      "titleJa": "【集Ｇ★４】砂上に見ゆるは猛き双角",
+      "titleEn": "Horns by the Sand",
+      "titleJa": "砂上に見ゆるは猛き双角",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Diablos",
@@ -2090,8 +2090,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Ebony Devil",
-      "titleJa": "【集Ｇ★４】イビルジョーの狩猟",
+      "titleEn": "Ebony Devil",
+      "titleJa": "イビルジョーの狩猟",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho",
@@ -2341,8 +2341,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Stained in Gold",
-      "titleJa": "【集Ｇ★４】金色に染まる",
+      "titleEn": "Stained in Gold",
+      "titleJa": "金色に染まる",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Rajang",
@@ -2580,8 +2580,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Bounce Bounce Tigrex",
-      "titleJa": "【集Ｇ★４】轟竜の軌跡を追いかけて",
+      "titleEn": "Bounce Bounce Tigrex",
+      "titleJa": "轟竜の軌跡を追いかけて",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Tigrex",
@@ -2855,8 +2855,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Roaring Rampage",
-      "titleJa": "【集Ｇ★４】氷海を爆走、暴走轟竜！",
+      "titleEn": "Roaring Rampage",
+      "titleJa": "氷海を爆走、暴走轟竜！",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Tigrex",
@@ -3130,8 +3130,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】No Entry: Seregios",
-      "titleJa": "【集Ｇ★４】この先、千刃竜以外立入禁止",
+      "titleEn": "No Entry: Seregios",
+      "titleJa": "この先、千刃竜以外立入禁止",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Seregios",
@@ -3393,8 +3393,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Shiny Slime Study",
-      "titleJa": "【集Ｇ★４】光る粘菌のナゾを追え",
+      "titleEn": "Shiny Slime Study",
+      "titleJa": "光る粘菌のナゾを追え",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Capture a Brachydios",
@@ -3656,8 +3656,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Surging Rage",
-      "titleJa": "【集Ｇ★４】角竜怒涛",
+      "titleEn": "Surging Rage",
+      "titleJa": "角竜怒涛",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Capture a Diablos",
@@ -3955,8 +3955,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Artic Ridge Relief",
-      "titleJa": "【集Ｇ★４】雪山からの救援要請",
+      "titleEn": "Artic Ridge Relief",
+      "titleJa": "雪山からの救援要請",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Rajang",
@@ -4194,8 +4194,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Tempted by the Shade",
-      "titleJa": "【集Ｇ★４】小山も陽気に誘われて",
+      "titleEn": "Tempted by the Shade",
+      "titleJa": "小山も陽気に誘われて",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Duramboros",
@@ -4457,8 +4457,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Competitive Eater",
-      "titleJa": "【集Ｇ★４】暴飲暴食ご用心",
+      "titleEn": "Competitive Eater",
+      "titleJa": "暴飲暴食ご用心",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho",
@@ -4702,8 +4702,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Dressed in Magma",
-      "titleJa": "【集Ｇ★４】マグマまといし竜",
+      "titleEn": "Dressed in Magma",
+      "titleJa": "マグマまといし竜",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt an Agnaktor",
@@ -4977,8 +4977,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】BrachyDIOs the Invader",
-      "titleJa": "【集Ｇ★４】火山の脅威・ブラキディオス",
+      "titleEn": "BrachyDIOs the Invader",
+      "titleJa": "火山の脅威・ブラキディオス",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Brachydios",
@@ -5240,8 +5240,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Sword vs Armor",
-      "titleJa": "【集Ｇ★４】斬鉄の剣、不壊の鎧",
+      "titleEn": "Sword vs Armor",
+      "titleJa": "斬鉄の剣、不壊の鎧",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus and a Gravios",
@@ -5497,8 +5497,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Wheel of Existence",
-      "titleJa": "【集Ｇ★４】天を廻りしその果てに…",
+      "titleEn": "Wheel of Existence",
+      "titleJa": "天を廻りしその果てに…",
       "location": "Sanctuary",
       "prowler": false,
       "mainObjective": "Slay a Shagaru Magala",
@@ -5712,8 +5712,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Halberd vs Hammer",
-      "titleJa": "【集Ｇ★４】戈と槌は相容れず",
+      "titleEn": "Halberd vs Hammer",
+      "titleJa": "戈と槌は相容れず",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt an Agnaktor and a Duramboros",
@@ -5975,8 +5975,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Moment of Inspiration",
-      "titleJa": "【集Ｇ★４】感動の生まれる瞬間",
+      "titleEn": "Moment of Inspiration",
+      "titleJa": "感動の生まれる瞬間",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho and a Rajang",
@@ -6214,8 +6214,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Forest Conspiracy",
-      "titleJa": "【集Ｇ★４】古代林の陰謀",
+      "titleEn": "Forest Conspiracy",
+      "titleJa": "古代林の陰謀",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -6543,8 +6543,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Verdant Hills SOS",
-      "titleJa": "【集Ｇ★４】森丘からの伝書",
+      "titleEn": "Verdant Hills SOS",
+      "titleJa": "森丘からの伝書",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -6872,8 +6872,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Island Battle Royale",
-      "titleJa": "【集Ｇ★４】絆の証！　孤島の大決戦",
+      "titleEn": "Island Battle Royale",
+      "titleJa": "絆の証！　孤島の大決戦",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -7177,8 +7177,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Breaking the Siege",
-      "titleJa": "【集Ｇ★４】鎧・砕・斬の包囲網を越えて",
+      "titleEn": "Breaking the Siege",
+      "titleJa": "鎧・砕・斬の包囲網を越えて",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -7482,8 +7482,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】The Shifting Sands",
-      "titleJa": "【集Ｇ★４】蠢く墟城",
+      "titleEn": "The Shifting Sands",
+      "titleJa": "蠢く墟城",
       "location": "Fort Ruins",
       "prowler": false,
       "mainObjective": "Slay an Atlal Ka",
@@ -7648,8 +7648,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Attack and Defense",
-      "titleJa": "【集Ｇ★４】遺群嶺での攻防",
+      "titleEn": "Attack and Defense",
+      "titleJa": "遺群嶺での攻防",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho",
@@ -7857,8 +7857,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Cut through Everything",
-      "titleJa": "【集Ｇ★４】無心にて森羅万象を断つ",
+      "titleEn": "Cut through Everything",
+      "titleJa": "無心にて森羅万象を断つ",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus",
@@ -8060,8 +8060,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】A Challenger Appears",
-      "titleJa": "【集Ｇ★４】砂漠の死闘と挑戦",
+      "titleEn": "A Challenger Appears",
+      "titleJa": "砂漠の死闘と挑戦",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Diablos",
@@ -8269,8 +8269,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Perma-Rage",
-      "titleJa": "【集Ｇ★４】我怒る、ゆえに我在り",
+      "titleEn": "Perma-Rage",
+      "titleJa": "我怒る、ゆえに我在り",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Rajang",
@@ -8466,8 +8466,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Source of Weapons",
-      "titleJa": "【集Ｇ★４】獰猛な海の王者は武器の素",
+      "titleEn": "Source of Weapons",
+      "titleJa": "獰猛な海の王者は武器の素",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -8693,8 +8693,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Pyroelectric",
-      "titleJa": "【集Ｇ★４】焦電",
+      "titleEn": "Pyroelectric",
+      "titleJa": "焦電",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -8896,8 +8896,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】You Spin Me Round",
-      "titleJa": "【集Ｇ★４】領主の懇願～尾槌竜篇～",
+      "titleEn": "You Spin Me Round",
+      "titleJa": "領主の懇願～尾槌竜篇～",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Duramboros",
@@ -9099,8 +9099,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Killer Queen",
-      "titleJa": "【集Ｇ★４】先生の弱点は獰猛な重甲虫",
+      "titleEn": "Killer Queen",
+      "titleJa": "先生の弱点は獰猛な重甲虫",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Seltas Queen",
@@ -9308,8 +9308,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Shall We Dance?",
-      "titleJa": "【集Ｇ★４】シャル・ウィ・ダンス？",
+      "titleEn": "Shall We Dance?",
+      "titleJa": "シャル・ウィ・ダンス？",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -9517,8 +9517,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Relentless Destruction",
-      "titleJa": "【集Ｇ★４】黒蝕竜は禍々しく猛る",
+      "titleEn": "Relentless Destruction",
+      "titleJa": "黒蝕竜は禍々しく猛る",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -9720,8 +9720,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Knight's Frozen Duel",
-      "titleJa": "【集Ｇ★４】騎士と氷海の決闘",
+      "titleEn": "Knight's Frozen Duel",
+      "titleJa": "騎士と氷海の決闘",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Barioth",
@@ -9923,8 +9923,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Attack on Mammoth",
-      "titleJa": "【集Ｇ★４】巨獣の進攻",
+      "titleEn": "Attack on Mammoth",
+      "titleJa": "巨獣の進攻",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth",
@@ -10126,8 +10126,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Road Roller!",
-      "titleJa": "【集Ｇ★４】採掘場を取り戻せ！",
+      "titleEn": "Road Roller!",
+      "titleJa": "採掘場を取り戻せ！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt an Uragaan",
@@ -10341,8 +10341,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Subterranean Clacker",
-      "titleJa": "【集Ｇ★４】炎戈竜は地底で吠える",
+      "titleEn": "Subterranean Clacker",
+      "titleJa": "炎戈竜は地底で吠える",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt an Agnaktor",
@@ -10544,8 +10544,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】The Culprit is Garuga!",
-      "titleJa": "【集Ｇ★４】犯人は黒狼鳥",
+      "titleEn": "The Culprit is Garuga!",
+      "titleJa": "犯人は黒狼鳥",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Yian Garuga",
@@ -10747,8 +10747,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Death by a Thousand Cuts",
-      "titleJa": "【集Ｇ★４】所により獰猛なセルレギオス",
+      "titleEn": "Death by a Thousand Cuts",
+      "titleJa": "所により獰猛なセルレギオス",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Seregios",
@@ -10962,8 +10962,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】It's A Trap!",
-      "titleJa": "【集Ｇ★４】轟々たる罠",
+      "titleEn": "It's A Trap!",
+      "titleJa": "轟々たる罠",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Tigrex",
@@ -11171,8 +11171,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Lonely Encounter",
-      "titleJa": "【集Ｇ★４】孤島で遭遇！　獰猛な雷狼竜",
+      "titleEn": "Lonely Encounter",
+      "titleJa": "孤島で遭遇！　獰猛な雷狼竜",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre",
@@ -11386,8 +11386,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Gotta Go Fast",
-      "titleJa": "【集Ｇ★４】獰猛な砕竜は、孤島で何を思う",
+      "titleEn": "Gotta Go Fast",
+      "titleJa": "獰猛な砕竜は、孤島で何を思う",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Brachydios",
@@ -11607,8 +11607,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Ka... Me... Ha... Me... HA!!!",
-      "titleJa": "【集Ｇ★４】沼地の冒険",
+      "titleEn": "Ka... Me... Ha... Me... HA!!!",
+      "titleJa": "沼地の冒険",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Gravios",
@@ -11822,8 +11822,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Wondrous Rock",
-      "titleJa": "【集Ｇ★４】火山のすばらしい岩",
+      "titleEn": "Wondrous Rock",
+      "titleJa": "火山のすばらしい岩",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos",
@@ -12025,8 +12025,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Up In Flames",
-      "titleJa": "【集Ｇ★４】天地が焔に染まるとき",
+      "titleEn": "Up In Flames",
+      "titleJa": "天地が焔に染まるとき",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos and a Rathian",
@@ -12228,8 +12228,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Armored Reaper",
-      "titleJa": "【集Ｇ★４】死神は鎧をまとう",
+      "titleEn": "Armored Reaper",
+      "titleJa": "死神は鎧をまとう",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Gravios and a Nerscylla",
@@ -12449,8 +12449,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Hair-Raising Situation",
-      "titleJa": "【集Ｇ★４】戦慄の遺群嶺",
+      "titleEn": "Hair-Raising Situation",
+      "titleJa": "戦慄の遺群嶺",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -12706,8 +12706,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Dormant Hunter's Soul",
-      "titleJa": "【集Ｇ★４】狩魂よ砂中に眠れ",
+      "titleEn": "Dormant Hunter's Soul",
+      "titleJa": "狩魂よ砂中に眠れ",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -12963,8 +12963,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Jungle Breeze",
-      "titleJa": "【集Ｇ★４】風薫る密林",
+      "titleEn": "Jungle Breeze",
+      "titleJa": "風薫る密林",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -13214,8 +13214,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Ridge Battle Royale",
-      "titleJa": "【集Ｇ★４】絆の証？　雪山の獰猛大決戦",
+      "titleEn": "Ridge Battle Royale",
+      "titleJa": "絆の証？　雪山の獰猛大決戦",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -13465,8 +13465,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Arena Battle Royale",
-      "titleJa": "【集Ｇ★４】絆の証！　闘技場の大決戦",
+      "titleEn": "Arena Battle Royale",
+      "titleJa": "絆の証！　闘技場の大決戦",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -13770,8 +13770,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Hunter's Pilgrimage",
-      "titleJa": "【集Ｇ★４】狩人達の究道",
+      "titleEn": "Hunter's Pilgrimage",
+      "titleJa": "狩人達の究道",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -14050,8 +14050,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Heavenly Dance",
-      "titleJa": "【集Ｇ★４】天を舞う白銀",
+      "titleEn": "Heavenly Dance",
+      "titleJa": "天を舞う白銀",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos",
@@ -14289,8 +14289,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Dance of the Earth",
-      "titleJa": "【集Ｇ★４】大地に踊る黄金",
+      "titleEn": "Dance of the Earth",
+      "titleJa": "大地に踊る黄金",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Gold Rathian",
@@ -14528,8 +14528,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Sun and Moon",
-      "titleJa": "【集Ｇ★４】呼び合う太陽と月",
+      "titleEn": "Sun and Moon",
+      "titleJa": "呼び合う太陽と月",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos and a Gold Rathian",
@@ -14779,8 +14779,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Nightfall Corona",
-      "titleJa": "【集Ｇ★４】夜空に浮かぶ銀の太陽",
+      "titleEn": "Nightfall Corona",
+      "titleJa": "夜空に浮かぶ銀の太陽",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos",
@@ -14976,8 +14976,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Gold Experience",
-      "titleJa": "【集Ｇ★４】狩人のための舞台～古代林～",
+      "titleEn": "Gold Experience",
+      "titleJa": "狩人のための舞台～古代林～",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Gold Rathian",
@@ -15173,8 +15173,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Made in Heaven",
-      "titleJa": "【集Ｇ★４】金と銀がもたらす悲哀",
+      "titleEn": "Made in Heaven",
+      "titleJa": "金と銀がもたらす悲哀",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos and a Gold Rathian",
@@ -15370,8 +15370,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Falling into Depravity",
-      "titleJa": "【集Ｇ★４】天を廻りて、冥界に堕つ",
+      "titleEn": "Falling into Depravity",
+      "titleJa": "天を廻りて、冥界に堕つ",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Chaotic Gore Magala",
@@ -15573,8 +15573,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Black Sabbath",
-      "titleJa": "【集Ｇ★４】原生林にて呻くは渾沌の竜",
+      "titleEn": "Black Sabbath",
+      "titleJa": "原生林にて呻くは渾沌の竜",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Chaotic Gore Magala",
@@ -15788,8 +15788,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Golden Superstar",
-      "titleJa": "【集Ｇ★４】金色超巨星",
+      "titleEn": "Golden Superstar",
+      "titleJa": "金色超巨星",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Furious Rajang",
@@ -16027,8 +16027,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Fight for the Future",
-      "titleJa": "【集Ｇ★４】砂漠の死闘と未来",
+      "titleEn": "Fight for the Future",
+      "titleJa": "砂漠の死闘と未来",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Savage Deviljho",
@@ -16278,8 +16278,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Sheer Heart Attack",
-      "titleJa": "【集Ｇ★４】溶岩島で爆ぜる砕光",
+      "titleEn": "Sheer Heart Attack",
+      "titleJa": "溶岩島で爆ぜる砕光",
       "location": "Ingle Isle",
       "prowler": false,
       "mainObjective": "Slay a Raging Brachydios",
@@ -16517,8 +16517,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Calamity Steel",
-      "titleJa": "【集Ｇ★４】禍は鋼鉄よりも硬し",
+      "titleEn": "Calamity Steel",
+      "titleJa": "禍は鋼鉄よりも硬し",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Slay a Kushala Daora or repel it",
@@ -16912,8 +16912,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Weather Report",
-      "titleJa": "【集Ｇ★４】吹雪を呼ぶ者",
+      "titleEn": "Weather Report",
+      "titleJa": "吹雪を呼ぶ者",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kushala Daora or repel it",
@@ -17307,8 +17307,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Purple Haze",
-      "titleJa": "【集Ｇ★４】虚空より現われし者",
+      "titleEn": "Purple Haze",
+      "titleJa": "虚空より現われし者",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Chameleos or repel it",
@@ -17714,8 +17714,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Invisible Threat",
-      "titleJa": "【集Ｇ★４】虚空に消え去りし者",
+      "titleEn": "Invisible Threat",
+      "titleJa": "虚空に消え去りし者",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Slay a Chameleos or repel it",
@@ -18121,8 +18121,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Bite the Dust",
-      "titleJa": "【集Ｇ★４】砂漠に散る爆炎の塵",
+      "titleEn": "Bite the Dust",
+      "titleJa": "砂漠に散る爆炎の塵",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Slay a Teostra or repel it",
@@ -18492,8 +18492,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】King Crimson",
-      "titleJa": "【集Ｇ★４】財宝は爆炎の中に",
+      "titleEn": "King Crimson",
+      "titleJa": "財宝は爆炎の中に",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Slay a Teostra or repel it",
@@ -18863,8 +18863,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Skull-Clad Dragon",
-      "titleJa": "【集Ｇ★４】骸まとう龍",
+      "titleEn": "Skull-Clad Dragon",
+      "titleJa": "骸まとう龍",
       "location": "Wyvern's End",
       "prowler": false,
       "mainObjective": "Slay Nakarkos",
@@ -19102,8 +19102,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Vertex Origin",
-      "titleJa": "【集Ｇ★４】起源にして、頂点",
+      "titleEn": "Vertex Origin",
+      "titleJa": "起源にして、頂点",
       "location": "Ingle Isle",
       "prowler": false,
       "mainObjective": "Slay an Akantor",
@@ -19365,8 +19365,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】The White Walker",
-      "titleJa": "【集Ｇ★４】極天より来たる、崩せし神",
+      "titleEn": "The White Walker",
+      "titleJa": "極天より来たる、崩せし神",
       "location": "Polar Field",
       "prowler": false,
       "mainObjective": "Slay an Ukanlos",
@@ -19616,8 +19616,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】In the Eye of the Storm",
-      "titleJa": "【集Ｇ★４】全てを奪い去る嵐",
+      "titleEn": "In the Eye of the Storm",
+      "titleJa": "全てを奪い去る嵐",
       "location": "Spirit Peak",
       "prowler": false,
       "mainObjective": "Slay an Amatsu",
@@ -19867,8 +19867,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】God Slayer",
-      "titleJa": "【集Ｇ★４】神への抵抗",
+      "titleEn": "God Slayer",
+      "titleJa": "神への抵抗",
       "location": "Ingle Isle",
       "prowler": false,
       "mainObjective": "Slay an Alatreon",
@@ -20124,8 +20124,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★４】Fade to Black",
-      "titleJa": "【集Ｇ★４】伝説の黒龍",
+      "titleEn": "Fade to Black",
+      "titleJa": "伝説の黒龍",
       "location": "C. Schrade",
       "prowler": false,
       "mainObjective": "Slay a Fatalis or repel it",
@@ -20386,8 +20386,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】At Eschaton",
-      "titleJa": "【集Ｇ★４】終末の時",
+      "titleEn": "At Eschaton",
+      "titleJa": "終末の時",
       "location": "Ingle Isle",
       "prowler": false,
       "mainObjective": "Slay a Crimson Fatalis or repel it",
@@ -20624,8 +20624,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】The Ancestral Dragon",
-      "titleJa": "【集Ｇ★４】祖龍",
+      "titleEn": "The Ancestral Dragon",
+      "titleJa": "祖龍",
       "location": "C. Schrade",
       "prowler": false,
       "mainObjective": "Slay a White Fatalis or repel it",
@@ -20862,8 +20862,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Lagiacrus Headbreaker!",
-      "titleJa": "【集Ｇ★４】海竜の頭部破壊に挑戦！",
+      "titleEn": "Lagiacrus Headbreaker!",
+      "titleJa": "海竜の頭部破壊に挑戦！",
       "location": "D. Island",
       "prowler": true,
       "mainObjective": "Wound Lagiacrus' head",
@@ -21057,8 +21057,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Lost in the Snow",
-      "titleJa": "【集Ｇ★４】雪に紛れしドスギアノス",
+      "titleEn": "Lost in the Snow",
+      "titleJa": "雪に紛れしドスギアノス",
       "location": "F. Seaway",
       "prowler": true,
       "mainObjective": "Hunt 2 Giadrome",
@@ -21258,8 +21258,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】A Seltas and Spouse",
-      "titleJa": "【集Ｇ★４】徹甲虫と夫婦の絆",
+      "titleEn": "A Seltas and Spouse",
+      "titleJa": "徹甲虫と夫婦の絆",
       "location": "J. Frontier",
       "prowler": true,
       "mainObjective": "Hunt a Seltas",
@@ -21447,8 +21447,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Gravios Backbreaker",
-      "titleJa": "【集Ｇ★４】鎧竜の背中破壊に挑戦！",
+      "titleEn": "Gravios Backbreaker",
+      "titleJa": "鎧竜の背中破壊に挑戦！",
       "location": "V. Hollow",
       "prowler": true,
       "mainObjective": "Break back of Gravios",
@@ -21648,8 +21648,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★４】Monster Prowler XX",
-      "titleJa": "【集Ｇ★４】モンスターニャンターＸＸ",
+      "titleEn": "Monster Prowler XX",
+      "titleJa": "モンスターニャンターＸＸ",
       "location": "Arena",
       "prowler": true,
       "mainObjective": "Hunt all large monsters",

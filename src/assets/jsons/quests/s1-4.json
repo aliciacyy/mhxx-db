@@ -1,10 +1,10 @@
 {
   "id": "s1-4",
-  "rank": "★４",
+  "rank": "★ 4",
   "questList": [
     {
-      "titleEn": "【Hub★４】Harvest Tour: A. Steppe",
-      "titleJa": "【集★４】遺跡平原の採集ツアー",
+      "titleEn": "Harvest Tour: A. Steppe",
+      "titleJa": "遺跡平原の採集ツアー",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Harvest Tour: Primal Forest",
-      "titleJa": "【集★４】原生林の採集ツアー",
+      "titleEn": "Harvest Tour: Primal Forest",
+      "titleJa": "原生林の採集ツアー",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -149,8 +149,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Harvest Tour: Jurassic Frontier",
-      "titleJa": "【集★４】古代林の採集ツアー",
+      "titleEn": "Harvest Tour: Jurassic Frontier",
+      "titleJa": "古代林の採集ツアー",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -222,8 +222,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Harvest Tour: Dunes",
-      "titleJa": "【集★４】旧砂漠の採集ツアー",
+      "titleEn": "Harvest Tour: Dunes",
+      "titleJa": "旧砂漠の採集ツアー",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -295,8 +295,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Harvest Tour: Verdant Hills",
-      "titleJa": "【集★４】森丘の採集ツアー",
+      "titleEn": "Harvest Tour: Verdant Hills",
+      "titleJa": "森丘の採集ツアー",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -368,8 +368,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Harvest Tour: Arctic Ridge",
-      "titleJa": "【集★４】雪山の採集ツアー",
+      "titleEn": "Harvest Tour: Arctic Ridge",
+      "titleJa": "雪山の採集ツアー",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -441,8 +441,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Harvest Tour: Misty Peaks",
-      "titleJa": "【集★４】渓流の採集ツアー",
+      "titleEn": "Harvest Tour: Misty Peaks",
+      "titleJa": "渓流の採集ツアー",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -514,8 +514,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Swing into Action",
-      "titleJa": "【集★４】悪戯好きの奇猿狐を狩猟せよ",
+      "titleEn": "Swing into Action",
+      "titleJa": "悪戯好きの奇猿狐を狩猟せよ",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Kecha Wacha",
@@ -727,8 +727,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Ruining the Ruins",
-      "titleJa": "【集★４】遺跡の怪鳥、お邪魔もの",
+      "titleEn": "Ruining the Ruins",
+      "titleJa": "遺跡の怪鳥、お邪魔もの",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku",
@@ -934,8 +934,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Bag the Bounding Bandit",
-      "titleJa": "【集★４】ドス来い！　遺跡平原の跳狗竜",
+      "titleEn": "Bag the Bounding Bandit",
+      "titleJa": "ドス来い！　遺跡平原の跳狗竜",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Capture a Great Maccao",
@@ -1111,8 +1111,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Jaggi of the Steppe",
-      "titleJa": "【集★４】遺跡平原の狗竜達",
+      "titleEn": "Jaggi of the Steppe",
+      "titleJa": "遺跡平原の狗竜達",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Slay a total of 20 Jaggia or Jaggi",
@@ -1276,8 +1276,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Ancestral Steppe Fungus Run",
-      "titleJa": "【集★４】遺跡平原でキノコ狩り",
+      "titleEn": "Ancestral Steppe Fungus Run",
+      "titleJa": "遺跡平原でキノコ狩り",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Deliver 20 Unique Mushrooms",
@@ -1453,8 +1453,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Bug Appétit",
-      "titleJa": "【集★４】美味との遭遇？",
+      "titleEn": "Bug Appétit",
+      "titleJa": "美味との遭遇？",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Seltas",
@@ -1654,8 +1654,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Gendrome Roadblock",
-      "titleJa": "【集★４】ドスゲネポスを狩れ！",
+      "titleEn": "Gendrome Roadblock",
+      "titleJa": "ドスゲネポスを狩れ！",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Gendrome",
@@ -1861,8 +1861,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Lost in the Primal Forest",
-      "titleJa": "【集★４】盗まれて原生林！",
+      "titleEn": "Lost in the Primal Forest",
+      "titleJa": "盗まれて原生林！",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Gypceros",
@@ -2074,8 +2074,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Hunt Down the Velocidrome!",
-      "titleJa": "【集★４】ドスランポスを狩猟せよ！",
+      "titleEn": "Hunt Down the Velocidrome!",
+      "titleJa": "ドスランポスを狩猟せよ！",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Velocidrome",
@@ -2281,8 +2281,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Poison Paralysis Pinch",
-      "titleJa": "【集★４】ドクターの毒×麻痺毒研究",
+      "titleEn": "Poison Paralysis Pinch",
+      "titleJa": "ドクターの毒×麻痺毒研究",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Slay a total of 20 Ioprey or Genprey",
@@ -2458,8 +2458,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Crystal Bone Collector",
-      "titleJa": "【集★４】竜骨結晶の納品",
+      "titleEn": "Crystal Bone Collector",
+      "titleJa": "竜骨結晶の納品",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Deliver 10 Crystal Bones",
@@ -2671,8 +2671,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Hair of the Dog",
-      "titleJa": "【集★４】良薬作りに必要なもの",
+      "titleEn": "Hair of the Dog",
+      "titleJa": "良薬作りに必要なもの",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Deliver 10 Slagtoth Oils",
@@ -2860,8 +2860,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Tackling the Tetsucabra",
-      "titleJa": "【集★４】鬼蛙テツカブラの狩猟",
+      "titleEn": "Tackling the Tetsucabra",
+      "titleJa": "鬼蛙テツカブラの狩猟",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -3067,8 +3067,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】So Notable: Great Maccao",
-      "titleJa": "【集★４】超☆メモ帳　～跳狗竜狩猟編～",
+      "titleEn": "So Notable: Great Maccao",
+      "titleJa": "超☆メモ帳　～跳狗竜狩猟編～",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt 2 Great Maccao",
@@ -3238,8 +3238,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】The Land Sharq",
-      "titleJa": "【集★４】大地を泳ぐモンスター",
+      "titleEn": "The Land Sharq",
+      "titleJa": "大地を泳ぐモンスター",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Cephadrome",
@@ -3421,8 +3421,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Shells of Steel",
-      "titleJa": "【集★４】鉄壁の盾蟹",
+      "titleEn": "Shells of Steel",
+      "titleJa": "鉄壁の盾蟹",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Daimyo Hermitaur",
@@ -3616,8 +3616,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Birds of a Feather",
-      "titleJa": "【集★４】迷惑な怪鳥と毒怪鳥",
+      "titleEn": "Birds of a Feather",
+      "titleJa": "迷惑な怪鳥と毒怪鳥",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku and a Gypceros",
@@ -3824,8 +3824,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Bullfango Brigade",
-      "titleJa": "【集★４】ブルファンゴたちの大集会",
+      "titleEn": "Bullfango Brigade",
+      "titleJa": "ブルファンゴたちの大集会",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Slay 20 Bullfango",
@@ -4019,8 +4019,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Delicious White Livers",
-      "titleJa": "【集★４】肴のキモはホワイトレバー",
+      "titleEn": "Delicious White Livers",
+      "titleJa": "肴のキモはホワイトレバー",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Deliver 3 White Livers",
@@ -4226,8 +4226,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】The Bulldrome Charges",
-      "titleJa": "【集★４】猪突猛進！　ドスファンゴ",
+      "titleEn": "The Bulldrome Charges",
+      "titleJa": "猪突猛進！　ドスファンゴ",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Bulldrome",
@@ -4427,8 +4427,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】A Strong Enemy Appears!",
-      "titleJa": "【集★４】強敵、ドスギアノス現る！",
+      "titleEn": "A Strong Enemy Appears!",
+      "titleJa": "強敵、ドスギアノス現る！",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Giadrome",
@@ -4628,8 +4628,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Snow with Occasional Lagombi",
-      "titleJa": "【集★４】雪のちウルクスス",
+      "titleEn": "Snow with Occasional Lagombi",
+      "titleJa": "雪のちウルクスス",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Lagombi",
@@ -4829,8 +4829,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Arzuros Encroaches",
-      "titleJa": "【集★４】アオアシラの浸食",
+      "titleEn": "Arzuros Encroaches",
+      "titleJa": "アオアシラの浸食",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt an Arzuros",
@@ -5036,8 +5036,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Royal Spit Take",
-      "titleJa": "【集★４】ロアルドロスを狩猟せよ！",
+      "titleEn": "Royal Spit Take",
+      "titleJa": "ロアルドロスを狩猟せよ！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Royal Ludroth",
@@ -5237,8 +5237,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Netting Neopterons",
-      "titleJa": "【集★４】飛甲虫討伐ノススメ",
+      "titleEn": "Netting Neopterons",
+      "titleJa": "飛甲虫討伐ノススメ",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Slay 50 Bnahabra",
@@ -5420,8 +5420,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★４】Clash of Rivals",
-      "titleJa": "【集★４】ライバルの激突！！",
+      "titleEn": "Clash of Rivals",
+      "titleJa": "ライバルの激突！！",
       "location": "F. Slayground",
       "prowler": false,
       "mainObjective": "Slay a total of 30 Bullfango or Rhenoplos",
@@ -5523,8 +5523,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】A Powerful Team",
-      "titleJa": "【集★４】集いし強豪",
+      "titleEn": "A Powerful Team",
+      "titleJa": "集いし強豪",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -5735,8 +5735,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】The Grandmeowster's Trials",
-      "titleJa": "【集★４】大師範の試練",
+      "titleEn": "The Grandmeowster's Trials",
+      "titleJa": "大師範の試練",
       "location": "A. Steppe",
       "prowler": true,
       "mainObjective": "Slay 15 Konchu",
@@ -5887,8 +5887,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】We Cat All Be Heroes",
-      "titleJa": "【集★４】ニャンターこそ正義のヒーロー",
+      "titleEn": "We Cat All Be Heroes",
+      "titleJa": "ニャンターこそ正義のヒーロー",
       "location": "A. Steppe",
       "prowler": true,
       "mainObjective": "Hunt a Seltas",
@@ -6052,8 +6052,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Fois Gras Faux Pas",
-      "titleJa": "【集★４】魚竜のキモは鮮度が命",
+      "titleEn": "Fois Gras Faux Pas",
+      "titleJa": "魚竜のキモは鮮度が命",
       "location": "Dunes",
       "prowler": true,
       "mainObjective": "Deliver 12 Piscine Livers",
@@ -6205,8 +6205,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★４】Splash in the Moonlight",
-      "titleJa": "【集★４】スプラッシュパニック！",
+      "titleEn": "Splash in the Moonlight",
+      "titleJa": "スプラッシュパニック！",
       "location": "M. Peaks",
       "prowler": true,
       "mainObjective": "Slay 15 Ludroth",

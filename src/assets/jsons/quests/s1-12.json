@@ -1,10 +1,10 @@
 {
   "id": "s1-12",
-  "rank": "Ｇ★２",
+  "rank": "G ★ 2",
   "questList": [
     {
-      "titleEn": "【HubＧ★２】Harvest Tour: Jungle",
-      "titleJa": "【集Ｇ★２】密林の採集ツアー",
+      "titleEn": "Harvest Tour: Jungle",
+      "titleJa": "密林の採集ツアー",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】Harvest Tour: Frozen Seaway",
-      "titleJa": "【集Ｇ★２】氷海の採集ツアー",
+      "titleEn": "Harvest Tour: Frozen Seaway",
+      "titleJa": "氷海の採集ツアー",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -149,8 +149,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】Harvest Tour: Deserted Island",
-      "titleJa": "【集Ｇ★２】孤島の採集ツアー",
+      "titleEn": "Harvest Tour: Deserted Island",
+      "titleJa": "孤島の採集ツアー",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -222,8 +222,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】Harvest Tour: Marshlands",
-      "titleJa": "【集Ｇ★２】沼地の採集ツアー",
+      "titleEn": "Harvest Tour: Marshlands",
+      "titleJa": "沼地の採集ツアー",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -295,8 +295,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】Harvest Tour: Volcano",
-      "titleJa": "【集Ｇ★２】火山の採集ツアー",
+      "titleEn": "Harvest Tour: Volcano",
+      "titleJa": "火山の採集ツアー",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -368,8 +368,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】King of Apples",
-      "titleJa": "【集Ｇ★２】至宝の林檎王？",
+      "titleEn": "King of Apples",
+      "titleJa": "至宝の林檎王？",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Volvidon",
@@ -576,8 +576,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Sleeping Slaves",
-      "titleJa": "【集Ｇ★２】遺群嶺のトレジャー！　米の巻",
+      "titleEn": "Sleeping Slaves",
+      "titleJa": "遺群嶺のトレジャー！　米の巻",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Malfestio",
@@ -808,8 +808,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】The Verdant Queen",
-      "titleJa": "【集Ｇ★２】遺群嶺の緑の女王",
+      "titleEn": "The Verdant Queen",
+      "titleJa": "遺群嶺の緑の女王",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -1052,8 +1052,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Shredded Pride",
-      "titleJa": "【集Ｇ★２】切り裂かれた誇り",
+      "titleEn": "Shredded Pride",
+      "titleJa": "切り裂かれた誇り",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Shogun Ceanataur",
@@ -1272,8 +1272,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Smithy's Errand",
-      "titleJa": "【集Ｇ★２】武具屋のお使い",
+      "titleEn": "Smithy's Errand",
+      "titleJa": "武具屋のお使い",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Deliver 20 Phoenix Stone",
@@ -1485,8 +1485,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】3, 2, 1... Let It Rip!",
-      "titleJa": "【集Ｇ★２】転がれ！　転がせ！　赤い牙獣",
+      "titleEn": "3, 2, 1... Let It Rip!",
+      "titleJa": "転がれ！　転がせ！　赤い牙獣",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Volvidon",
@@ -1693,8 +1693,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Muddy Commercial Spirit",
-      "titleJa": "【集Ｇ★２】泥まみれの商魂！",
+      "titleEn": "Muddy Commercial Spirit",
+      "titleJa": "泥まみれの商魂！",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Barroth",
@@ -1888,8 +1888,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】Special Training",
-      "titleJa": "【集Ｇ★２】二人で特訓、成果は山分け",
+      "titleEn": "Special Training",
+      "titleJa": "二人で特訓、成果は山分け",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Nibelsnarf",
@@ -2120,8 +2120,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Beneath the Water",
-      "titleJa": "【集Ｇ★２】砂漠の水面に潜む影",
+      "titleEn": "Beneath the Water",
+      "titleJa": "砂漠の水面に潜む影",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Plesioth",
@@ -2364,8 +2364,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Congalala Mushroom Fair",
-      "titleJa": "【集Ｇ★２】ババコンガのキノコ品評会",
+      "titleEn": "Congalala Mushroom Fair",
+      "titleJa": "ババコンガのキノコ品評会",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Congalala",
@@ -2614,8 +2614,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Defend the Skies",
-      "titleJa": "【集Ｇ★２】空の家族・空路を守るッス",
+      "titleEn": "Defend the Skies",
+      "titleJa": "空の家族・空路を守るッス",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -2852,8 +2852,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Nargacua Face Off",
-      "titleJa": "【集Ｇ★２】密林のナルガクルガと対峙せよ",
+      "titleEn": "Nargacua Face Off",
+      "titleJa": "密林のナルガクルガと対峙せよ",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Nargacuga",
@@ -3108,8 +3108,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】It's too Bright!",
-      "titleJa": "【集Ｇ★２】ゆらめく光はまぶしくて",
+      "titleEn": "It's too Bright!",
+      "titleJa": "ゆらめく光はまぶしくて",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Slay 30 Great Thunderbug",
@@ -3309,8 +3309,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Shell Account",
-      "titleJa": "【集Ｇ★２】貝殻に思いをのせて",
+      "titleEn": "Shell Account",
+      "titleJa": "貝殻に思いをのせて",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Deliver 20 Beautiful Shell",
@@ -3516,8 +3516,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Royal Assassination",
-      "titleJa": "【集Ｇ★２】女王、降臨す",
+      "titleEn": "Royal Assassination",
+      "titleJa": "女王、降臨す",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -3748,8 +3748,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Nerscylla Ecological Study",
-      "titleJa": "【集Ｇ★２】ネルスキュラの生態研究",
+      "titleEn": "Nerscylla Ecological Study",
+      "titleJa": "ネルスキュラの生態研究",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Nerscylla",
@@ -4010,8 +4010,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Poison Stained Forest",
-      "titleJa": "【集Ｇ★２】原生林は毒色に染まる",
+      "titleEn": "Poison Stained Forest",
+      "titleJa": "原生林は毒色に染まる",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Slay 20 Ioprey",
@@ -4235,8 +4235,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Seeking Inspiration",
-      "titleJa": "【集Ｇ★２】閃きへの１ピースを求めて",
+      "titleEn": "Seeking Inspiration",
+      "titleJa": "閃きへの１ピースを求めて",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Zamtrios",
@@ -4449,8 +4449,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Violent Arrowheads",
-      "titleJa": "【集Ｇ★２】強暴なる矢尻たち",
+      "titleEn": "Violent Arrowheads",
+      "titleJa": "強暴なる矢尻たち",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Slay 20 Zamite",
@@ -4662,8 +4662,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Gone Fishing",
-      "titleJa": "【集Ｇ★２】たまには釣りでもいかが？",
+      "titleEn": "Gone Fishing",
+      "titleJa": "たまには釣りでもいかが？",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Deliver 6 Goldenfish",
@@ -4863,8 +4863,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Bumble Tumble Rumble",
-      "titleJa": "【集Ｇ★２】転んで跳ねて七転八倒",
+      "titleEn": "Bumble Tumble Rumble",
+      "titleJa": "転んで跳ねて七転八倒",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Volvidon and a Great Maccao",
@@ -5090,8 +5090,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Tough Mudder",
-      "titleJa": "【集Ｇ★２】土砂竜・ボルボロス！",
+      "titleEn": "Tough Mudder",
+      "titleJa": "土砂竜・ボルボロス！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Capture a Barroth",
@@ -5346,8 +5346,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Desert Cargo",
-      "titleJa": "【集Ｇ★２】砂漠の積荷は誰の物？",
+      "titleEn": "Desert Cargo",
+      "titleJa": "砂漠の積荷は誰の物？",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Nibelsnarf",
@@ -5572,8 +5572,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Going in Circles",
-      "titleJa": "【集Ｇ★２】グルグルするらしいです",
+      "titleEn": "Going in Circles",
+      "titleJa": "グルグルするらしいです",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -5816,8 +5816,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Shocked to the Core",
-      "titleJa": "【集Ｇ★２】身体の芯までビッリビリ",
+      "titleEn": "Shocked to the Core",
+      "titleJa": "身体の芯までビッリビリ",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Khezu",
@@ -6048,8 +6048,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Show your Capabilities",
-      "titleJa": "【集Ｇ★２】……欲するならば資格を示して",
+      "titleEn": "Show your Capabilities",
+      "titleJa": "……欲するならば資格を示して",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Blangonga",
@@ -6256,8 +6256,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】There are 2 Blangongas",
-      "titleJa": "【集Ｇ★２】ドドブランゴは２頭いる",
+      "titleEn": "There are 2 Blangongas",
+      "titleJa": "ドドブランゴは２頭いる",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt 2 Blangongas",
@@ -6447,8 +6447,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Emerald Splash",
-      "titleJa": "【集Ｇ★２】チコ村を脅かす水竜を狩れ！",
+      "titleEn": "Emerald Splash",
+      "titleJa": "チコ村を脅かす水竜を狩れ！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Plesioth",
@@ -6685,8 +6685,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】The Black Shadow",
-      "titleJa": "【集Ｇ★２】漆黒の影",
+      "titleEn": "The Black Shadow",
+      "titleJa": "漆黒の影",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Nargacuga",
@@ -6941,8 +6941,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】The Owl Incident",
-      "titleJa": "【集Ｇ★２】夜鳥のじけん",
+      "titleEn": "The Owl Incident",
+      "titleJa": "夜鳥のじけん",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Malfestio",
@@ -7161,8 +7161,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Moving Rock",
-      "titleJa": "【集Ｇ★２】おのずと岩は動き出す",
+      "titleEn": "Moving Rock",
+      "titleJa": "おのずと岩は動き出す",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Basarios",
@@ -7435,8 +7435,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Lurking Shadow",
-      "titleJa": "【集Ｇ★２】洞窟に潜む影",
+      "titleEn": "Lurking Shadow",
+      "titleJa": "洞窟に潜む影",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Khezu",
@@ -7667,8 +7667,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Rhapsody of the Poison Swamp",
-      "titleJa": "【集Ｇ★２】陰湿毒沼の狂想曲",
+      "titleEn": "Rhapsody of the Poison Swamp",
+      "titleJa": "陰湿毒沼の狂想曲",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -7905,8 +7905,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Interrupted Order: Congalala",
-      "titleJa": "【集Ｇ★２】割り込み受注：２頭の桃毛獣",
+      "titleEn": "Interrupted Order: Congalala",
+      "titleJa": "割り込み受注：２頭の桃毛獣",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt 2 Congalala",
@@ -8132,8 +8132,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Request: Basarios",
-      "titleJa": "【集Ｇ★２】依頼委託：火山の岩竜",
+      "titleEn": "Request: Basarios",
+      "titleJa": "依頼委託：火山の岩竜",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Basarios",
@@ -8400,8 +8400,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Hard Knock Life ☆ Afro Soul",
-      "titleJa": "【集Ｇ★２】ぶつけろ生き様☆アフロソウル",
+      "titleEn": "Hard Knock Life ☆ Afro Soul",
+      "titleJa": "ぶつけろ生き様☆アフロソウル",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Lavasioth",
@@ -8644,8 +8644,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Let Me at Him! ～Shogun～",
-      "titleJa": "【集Ｇ★２】鎌蟹の狩猟をさせてやるぜ！",
+      "titleEn": "Let Me at Him! ～Shogun～",
+      "titleJa": "鎌蟹の狩猟をさせてやるぜ！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Shogun Ceanataur",
@@ -8864,8 +8864,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Great Ore Discovery",
-      "titleJa": "【集Ｇ★２】大鉱脈、発見さる！",
+      "titleEn": "Great Ore Discovery",
+      "titleJa": "大鉱脈、発見さる！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Deliver 20 pieces of Coal",
@@ -9095,8 +9095,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Minion Mindset",
-      "titleJa": "【集Ｇ★２】子分の自覚が足りないっチャ！",
+      "titleEn": "Minion Mindset",
+      "titleJa": "子分の自覚が足りないっチャ！",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9436,8 +9436,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】☆ Notepad: ～Hermitaur～",
-      "titleJa": "【集Ｇ★２】超☆メモ帳　～獰猛化盾蟹編～",
+      "titleEn": "☆ Notepad: ～Hermitaur～",
+      "titleJa": "超☆メモ帳　～獰猛化盾蟹編～",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Daimyo Hermitaur",
@@ -9633,8 +9633,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Kutku Kounterattack",
-      "titleJa": "【集Ｇ★２】逆襲の怪鳥",
+      "titleEn": "Kutku Kounterattack",
+      "titleJa": "逆襲の怪鳥",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku",
@@ -9836,8 +9836,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Could a Monkey Fight a Man?",
-      "titleJa": "【集Ｇ★２】調査委託：獰猛な奇猿狐",
+      "titleEn": "Could a Monkey Fight a Man?",
+      "titleJa": "調査委託：獰猛な奇猿狐",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Kecha Wacha",
@@ -10051,8 +10051,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Stronger than a Demon",
-      "titleJa": "【集Ｇ★２】獰猛な蛙は鬼よりも強く",
+      "titleEn": "Stronger than a Demon",
+      "titleJa": "獰猛な蛙は鬼よりも強く",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -10254,8 +10254,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Energetic Bird Run",
-      "titleJa": "【集Ｇ★２】毒怪鳥は元気に走る",
+      "titleEn": "Energetic Bird Run",
+      "titleJa": "毒怪鳥は元気に走る",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Gypceros",
@@ -10463,8 +10463,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Aquatic Records",
-      "titleJa": "【集Ｇ★２】水獣の獰猛化観察記録",
+      "titleEn": "Aquatic Records",
+      "titleJa": "水獣の獰猛化観察記録",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Royal Ludroth",
@@ -10660,8 +10660,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★２】Jungle Vermin",
-      "titleJa": "【集Ｇ★２】原生林コンガ戦線",
+      "titleEn": "Jungle Vermin",
+      "titleJa": "原生林コンガ戦線",
       "location": "P. Forest",
       "prowler": true,
       "mainObjective": "Slay 15 Conga",
@@ -10831,8 +10831,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】A Kind Request",
-      "titleJa": "【集Ｇ★２】カンシャのお仕事",
+      "titleEn": "A Kind Request",
+      "titleJa": "カンシャのお仕事",
       "location": "V. Hills",
       "prowler": true,
       "mainObjective": "Deliver 15 Unique Mushroom",
@@ -10996,8 +10996,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★２】Royal Ludroth Headbreaker",
-      "titleJa": "【集Ｇ★２】水獣のタテガミ破壊に挑戦！",
+      "titleEn": "Royal Ludroth Headbreaker",
+      "titleJa": "水獣のタテガミ破壊に挑戦！",
       "location": "M. Peaks",
       "prowler": true,
       "mainObjective": "Wound R.Ludroth's mane",

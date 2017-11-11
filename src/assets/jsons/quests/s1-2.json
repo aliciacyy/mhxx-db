@@ -1,10 +1,10 @@
 {
   "id": "s1-2",
-  "rank": "★２",
+  "rank": "★ 2",
   "questList": [
     {
-      "titleEn": "【Hub★２】Harvest Tour: Deserted Island",
-      "titleJa": "【集★２】孤島の採集ツアー",
+      "titleEn": "Harvest Tour: Deserted Island",
+      "titleJa": "孤島の採集ツアー",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】Harvest Tour: Marshlands",
-      "titleJa": "【集★２】沼地の採集ツアー",
+      "titleEn": "Harvest Tour: Marshlands",
+      "titleJa": "沼地の採集ツアー",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -149,8 +149,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】Insomnia? Meet Hypnotism",
-      "titleJa": "【集★２】不眠のあなたに催眠療法",
+      "titleEn": "Insomnia? Meet Hypnotism",
+      "titleJa": "不眠のあなたに催眠療法",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Capture a Malfestio",
@@ -320,8 +320,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Walk 'n Roll",
-      "titleJa": "【集★２】赤甲獣ラングロトラ現る！",
+      "titleEn": "Walk 'n Roll",
+      "titleJa": "赤甲獣ラングロトラ現る！",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Volvidon",
@@ -503,8 +503,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Rocking Rhenoplos",
-      "titleJa": "【集★２】草食竜と戯れて",
+      "titleEn": "Rocking Rhenoplos",
+      "titleJa": "草食竜と戯れて",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Slay 10 before time expires or deliver a Paw Pass Ticket",
@@ -753,8 +753,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】The Desert Gourmand",
-      "titleJa": "【集★２】砂上のテーブルマナー",
+      "titleEn": "The Desert Gourmand",
+      "titleJa": "砂上のテーブルマナー",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Nibelsnarf",
@@ -924,8 +924,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Tongue-Tied",
-      "titleJa": "【集★２】マジヤベェ！　舌！",
+      "titleEn": "Tongue-Tied",
+      "titleJa": "マジヤベェ！　舌！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Capture a Volvidon",
@@ -1113,8 +1113,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】The Poison-fanged Duo",
-      "titleJa": "【集★２】２対の麻痺牙",
+      "titleEn": "The Poison-fanged Duo",
+      "titleJa": "２対の麻痺牙",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt 2 Gendrome",
@@ -1284,8 +1284,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Konchu Collector",
-      "titleJa": "【集★２】クンチュウの行動研究",
+      "titleEn": "Konchu Collector",
+      "titleJa": "クンチュウの行動研究",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Slay 20 Konchu",
@@ -1461,8 +1461,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Liver of Legend!",
-      "titleJa": "【集★２】幻のキモを追え！",
+      "titleEn": "Liver of Legend!",
+      "titleJa": "幻のキモを追え！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Deliver 8 Piscine Livers",
@@ -1626,8 +1626,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Najarala Hunt",
-      "titleJa": "【集★２】ガララアジャラの狩猟",
+      "titleEn": "Najarala Hunt",
+      "titleJa": "ガララアジャラの狩猟",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -1833,8 +1833,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】In Search of the Yian Garuga",
-      "titleJa": "【集★２】失われた黒狼を求めて",
+      "titleEn": "In Search of the Yian Garuga",
+      "titleJa": "失われた黒狼を求めて",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Yian Garuga",
@@ -2016,8 +2016,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Finishing the Job",
-      "titleJa": "【集★２】無謀な弟子の、後始末",
+      "titleEn": "Finishing the Job",
+      "titleJa": "無謀な弟子の、後始末",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt 2 Velocidrome",
@@ -2144,8 +2144,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】Fresh is Best",
-      "titleJa": "【集★２】食材の価値は鮮度なり",
+      "titleEn": "Fresh is Best",
+      "titleJa": "食材の価値は鮮度なり",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Slay 20 Bullfango",
@@ -2278,8 +2278,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】The Shadow in the Mountains",
-      "titleJa": "【集★２】雪山に潜む影",
+      "titleEn": "The Shadow in the Mountains",
+      "titleJa": "雪山に潜む影",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Khezu",
@@ -2461,8 +2461,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】The New Tenant",
-      "titleJa": "【集★２】雪山の主、ドドブランゴ",
+      "titleEn": "The New Tenant",
+      "titleJa": "雪山の主、ドドブランゴ",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Blangonga",
@@ -2614,8 +2614,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Blango Slaying Tactics",
-      "titleJa": "【集★２】ブランゴ討伐作戦",
+      "titleEn": "Blango Slaying Tactics",
+      "titleJa": "ブランゴ討伐作戦",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay 20 Blangos",
@@ -2785,8 +2785,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Operation: Secure Specimen",
-      "titleJa": "【集★２】研究サンプル捕獲作戦",
+      "titleEn": "Operation: Secure Specimen",
+      "titleJa": "研究サンプル捕獲作戦",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Capture a Nargacuga",
@@ -2980,8 +2980,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Royal Assassination",
-      "titleJa": "【集★２】女王、降臨す",
+      "titleEn": "Royal Assassination",
+      "titleJa": "女王、降臨す",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -3163,8 +3163,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Ahoy! Royal Ludroth!",
-      "titleJa": "【集★２】輸送中！　水獣の追従！",
+      "titleEn": "Ahoy! Royal Ludroth!",
+      "titleJa": "輸送中！　水獣の追従！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt 2 Royal Ludroth",
@@ -3279,8 +3279,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】Bye Bye Jaggia",
-      "titleJa": "【集★２】渓流のジャギィノス退治",
+      "titleEn": "Bye Bye Jaggia",
+      "titleJa": "渓流のジャギィノス退治",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Slay 20 Jaggia",
@@ -3474,8 +3474,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Malfestio Festival",
-      "titleJa": "【集★２】夜鳥の鱗粉を掻い潜れ",
+      "titleEn": "Malfestio Festival",
+      "titleJa": "夜鳥の鱗粉を掻い潜れ",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Malfestio",
@@ -3645,8 +3645,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Wyvern of the Wind",
-      "titleJa": "【集★２】疾風の迅竜",
+      "titleEn": "Wyvern of the Wind",
+      "titleJa": "疾風の迅竜",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Nargacuga",
@@ -3791,8 +3791,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】Tetsucabra Bounty",
-      "titleJa": "【集★２】馬力、怪力、テツカブラ！",
+      "titleEn": "Tetsucabra Bounty",
+      "titleJa": "馬力、怪力、テツカブラ！",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -3968,8 +3968,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Deserted Island Dustup",
-      "titleJa": "【集★２】孤島の相撲大会！",
+      "titleEn": "Deserted Island Dustup",
+      "titleJa": "孤島の相撲大会！",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt 2 Arzuros",
@@ -4139,8 +4139,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Bnahabra Bloodbath",
-      "titleJa": "【集★２】飛甲虫たちの饗宴",
+      "titleEn": "Bnahabra Bloodbath",
+      "titleJa": "飛甲虫たちの饗宴",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Slay 50 Bnahabra",
@@ -4328,8 +4328,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Poisonous Pest",
-      "titleJa": "【集★２】ドスイーオスの毒牙",
+      "titleEn": "Poisonous Pest",
+      "titleJa": "ドスイーオスの毒牙",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt an Iodrome",
@@ -4493,8 +4493,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Pincer through the Sky",
-      "titleJa": "【集★２】空を切り裂く鎌",
+      "titleEn": "Pincer through the Sky",
+      "titleJa": "空を切り裂く鎌",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Shogun Ceanataur",
@@ -4640,8 +4640,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Serpentine Samba",
-      "titleJa": "【集★２】絞蛇竜は踊り奏でる",
+      "titleEn": "Serpentine Samba",
+      "titleJa": "絞蛇竜は踊り奏でる",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -4859,8 +4859,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Ioprey Hunting",
-      "titleJa": "【集★２】イーオス討伐作戦！",
+      "titleEn": "Ioprey Hunting",
+      "titleJa": "イーオス討伐作戦！",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Slay 20 Ioprey",
@@ -5060,8 +5060,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Attack of the Giant Bugs!",
-      "titleJa": "【集★２】巨大昆虫、発生！",
+      "titleEn": "Attack of the Giant Bugs!",
+      "titleJa": "巨大昆虫、発生！",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Slay 50 Vespoid",
@@ -5255,8 +5255,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Collect to Combine",
-      "titleJa": "【集★２】調合素材を採取せよ！",
+      "titleEn": "Collect to Combine",
+      "titleJa": "調合素材を採取せよ！",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Deliver 20 Unique Mushrooms",
@@ -5438,8 +5438,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★２】Running with the Night",
-      "titleJa": "【集★２】闇夜を駆けるリノプロス",
+      "titleEn": "Running with the Night",
+      "titleJa": "闇夜を駆けるリノプロス",
       "location": "J. Frontier",
       "prowler": true,
       "mainObjective": "Slay 15 Rhenoplos",
@@ -5578,8 +5578,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】A Cricket to Love",
-      "titleJa": "【集★２】孤島のコオロギ恋い焦がれ",
+      "titleEn": "A Cricket to Love",
+      "titleJa": "孤島のコオロギ恋い焦がれ",
       "location": "D. Island",
       "prowler": true,
       "mainObjective": "Deliver 5 Silver Crickets",
@@ -5731,8 +5731,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★２】A Resplendent Dance",
-      "titleJa": "【集★２】絢爛豪華な武闘会",
+      "titleEn": "A Resplendent Dance",
+      "titleJa": "絢爛豪華な武闘会",
       "location": "J. Frontier",
       "prowler": true,
       "mainObjective": "Hunt a Great Maccao",

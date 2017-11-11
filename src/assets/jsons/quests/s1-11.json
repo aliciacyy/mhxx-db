@@ -1,10 +1,10 @@
 {
   "id": "s1-11",
-  "rank": "Ｇ★１",
+  "rank": "G ★ 1",
   "questList": [
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: R. Ridge",
-      "titleJa": "【集Ｇ★１】遺群嶺の採集ツアー",
+      "titleEn": "Harvest Tour: R. Ridge",
+      "titleJa": "遺群嶺の採集ツアー",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Desert",
-      "titleJa": "【集Ｇ★１】砂漠の採集ツアー",
+      "titleEn": "Harvest Tour: Desert",
+      "titleJa": "砂漠の採集ツアー",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -149,8 +149,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: A. Steppe",
-      "titleJa": "【集Ｇ★１】遺跡平原の採集ツアー",
+      "titleEn": "Harvest Tour: A. Steppe",
+      "titleJa": "遺跡平原の採集ツアー",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -222,8 +222,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Primal Forest",
-      "titleJa": "【集Ｇ★１】原生林の採集ツアー",
+      "titleEn": "Harvest Tour: Primal Forest",
+      "titleJa": "原生林の採集ツアー",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -295,8 +295,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Jurassic Frontier",
-      "titleJa": "【集Ｇ★１】古代林の採集ツアー",
+      "titleEn": "Harvest Tour: Jurassic Frontier",
+      "titleJa": "古代林の採集ツアー",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -368,8 +368,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Dunes",
-      "titleJa": "【集Ｇ★１】旧砂漠の採集ツアー",
+      "titleEn": "Harvest Tour: Dunes",
+      "titleJa": "旧砂漠の採集ツアー",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -441,8 +441,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Verdant Hills",
-      "titleJa": "【集Ｇ★１】森丘の採集ツアー",
+      "titleEn": "Harvest Tour: Verdant Hills",
+      "titleJa": "森丘の採集ツアー",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -514,8 +514,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Arctic Ridge",
-      "titleJa": "【集Ｇ★１】雪山の採集ツアー",
+      "titleEn": "Harvest Tour: Arctic Ridge",
+      "titleJa": "雪山の採集ツアー",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -587,8 +587,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Harvest Tour: Misty Peaks",
-      "titleJa": "【集Ｇ★１】渓流の採集ツアー",
+      "titleEn": "Harvest Tour: Misty Peaks",
+      "titleJa": "渓流の採集ツアー",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -660,8 +660,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Poke Peck Pick",
-      "titleJa": "【集Ｇ★１】つつかれて、またつつかれて",
+      "titleEn": "Poke Peck Pick",
+      "titleJa": "つつかれて、またつつかれて",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku",
@@ -886,8 +886,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Chase the Pickpocket",
-      "titleJa": "【集Ｇ★１】毒怪鳥が盗んだものを追って",
+      "titleEn": "Chase the Pickpocket",
+      "titleJa": "毒怪鳥が盗んだものを追って",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Gypceros",
@@ -1094,8 +1094,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Receptionist Select",
-      "titleJa": "【集Ｇ★１】看板娘セレクト：遺群嶺の水獣",
+      "titleEn": "Receptionist Select",
+      "titleJa": "看板娘セレクト：遺群嶺の水獣",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Royal Ludroth",
@@ -1314,8 +1314,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Bear Shower",
-      "titleJa": "【集Ｇ★１】牙獣の行水",
+      "titleEn": "Bear Shower",
+      "titleJa": "牙獣の行水",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt 2 Arzuros",
@@ -1535,8 +1535,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Flatulence Assembly",
-      "titleJa": "【集Ｇ★１】不潔ものの大集会",
+      "titleEn": "Flatulence Assembly",
+      "titleJa": "不潔ものの大集会",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Slay 20 Conga",
@@ -1730,8 +1730,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Hypnotic Shrooms",
-      "titleJa": "【集Ｇ★１】高層エリンギは寝て待て",
+      "titleEn": "Hypnotic Shrooms",
+      "titleJa": "高層エリンギは寝て待て",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Deliver 20 Deluxe Eryngii",
@@ -1925,8 +1925,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Crab Fishing",
-      "titleJa": "【集Ｇ★１】アツアツ砂漠の盾蟹狩猟",
+      "titleEn": "Crab Fishing",
+      "titleJa": "アツアツ砂漠の盾蟹狩猟",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Daimyo Hermitaur",
@@ -2139,8 +2139,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Taste like Money",
-      "titleJa": "【集Ｇ★１】熱帯イチゴはカネの味？",
+      "titleEn": "Taste like Money",
+      "titleJa": "熱帯イチゴはカネの味？",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Deliver 20 Tropical Berries",
@@ -2340,8 +2340,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Pursue the Kleptomaniac",
-      "titleJa": "【集Ｇ★１】奪われて、追いかけて",
+      "titleEn": "Pursue the Kleptomaniac",
+      "titleJa": "奪われて、追いかけて",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Gypceros",
@@ -2548,8 +2548,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】It's Just a Prank",
-      "titleJa": "【集Ｇ★１】人騒がせないたずら者たち",
+      "titleEn": "It's Just a Prank",
+      "titleJa": "人騒がせないたずら者たち",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt 2 Kecha Wacha",
@@ -2805,8 +2805,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Prank Monkey",
-      "titleJa": "【集Ｇ★１】イタズラ猿に制裁を",
+      "titleEn": "Prank Monkey",
+      "titleJa": "イタズラ猿に制裁を",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Kecha Wacha",
@@ -3031,8 +3031,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Ingredient Expedition",
-      "titleJa": "【集Ｇ★１】罪深きタルの食材探訪",
+      "titleEn": "Ingredient Expedition",
+      "titleJa": "罪深きタルの食材探訪",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -3270,8 +3270,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Wondrous Demon Frog",
-      "titleJa": "【集Ｇ★１】嗚呼素晴らしき也、鬼蛙",
+      "titleEn": "Wondrous Demon Frog",
+      "titleJa": "嗚呼素晴らしき也、鬼蛙",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Capture a Tetsucabra",
@@ -3490,8 +3490,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】I Can't Stand Bugs!",
-      "titleJa": "【集Ｇ★１】ムシのできない遭遇",
+      "titleEn": "I Can't Stand Bugs!",
+      "titleJa": "ムシのできない遭遇",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt 2 Seltas",
@@ -3705,8 +3705,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Sandy Surprises",
-      "titleJa": "【集Ｇ★１】砂中からのサプライズ",
+      "titleEn": "Sandy Surprises",
+      "titleJa": "砂中からのサプライズ",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Cephadrome and a Daimyo Hermitaur",
@@ -3950,8 +3950,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Forest Troublemaker",
-      "titleJa": "【集Ｇ★１】森丘の迷惑な怪鳥さん",
+      "titleEn": "Forest Troublemaker",
+      "titleJa": "森丘の迷惑な怪鳥さん",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku",
@@ -4182,8 +4182,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Dance of the Snow Flurry",
-      "titleJa": "【集Ｇ★１】氷雪に舞う白うさぎ",
+      "titleEn": "Dance of the Snow Flurry",
+      "titleJa": "氷雪に舞う白うさぎ",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Lagombi",
@@ -4396,8 +4396,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Battledrome",
-      "titleJa": "【集Ｇ★１】ドスの威信を賭けた戦い",
+      "titleEn": "Battledrome",
+      "titleJa": "ドスの威信を賭けた戦い",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Giadrome and a Bulldrome",
@@ -4617,8 +4617,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Riverside Bear",
-      "titleJa": "【集Ｇ★１】川辺のアオアシラ退治",
+      "titleEn": "Riverside Bear",
+      "titleJa": "川辺のアオアシラ退治",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt an Arzuros",
@@ -4843,8 +4843,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Splish Splash",
-      "titleJa": "【集Ｇ★１】水獣たちの争い",
+      "titleEn": "Splish Splash",
+      "titleJa": "水獣たちの争い",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt 2 Royal Ludroth",
@@ -5058,8 +5058,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★１】Swarming Menace",
-      "titleJa": "【集Ｇ★１】羽合の衆",
+      "titleEn": "Swarming Menace",
+      "titleJa": "羽合の衆",
       "location": "R. Ridge",
       "prowler": true,
       "mainObjective": "Slay 15 Bnahabra",
@@ -5217,8 +5217,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Lucky Ruins Cat",
-      "titleJa": "【集Ｇ★１】遺跡平原のポイント招きネコ",
+      "titleEn": "Lucky Ruins Cat",
+      "titleJa": "遺跡平原のポイント招きネコ",
       "location": "A. Steppe",
       "prowler": true,
       "mainObjective": "Earn 5000 Wycademy Points",
@@ -5388,8 +5388,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★１】Desert Vermin",
-      "titleJa": "【集Ｇ★１】砂漠ゲネポス戦線",
+      "titleEn": "Desert Vermin",
+      "titleJa": "砂漠ゲネポス戦線",
       "location": "Desert",
       "prowler": true,
       "mainObjective": "Slay 16 Genprey",

@@ -14,3 +14,18 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+.menu-list{
+  .menu-icons {
+    width: 30px;
+    margin-right: 10px;
+  }
+  .label-md {
+    margin-left: 8px;
+    display: flex;
+    align-items: center;
+  }
+}
+.item-md {
+  padding-left: 0px;
+}

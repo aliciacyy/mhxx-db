@@ -1,10 +1,10 @@
 {
   "id": "s1-7",
-  "rank": "★７",
+  "rank": "★ 7",
   "questList": [
     {
-      "titleEn": "【Hub★７】Stop the Wheel",
-      "titleJa": "【集★７】廻り集いて回帰せん",
+      "titleEn": "Stop the Wheel",
+      "titleJa": "廻り集いて回帰せん",
       "location": "Sanctuary",
       "prowler": false,
       "mainObjective": "Slay a Shagaru Magala",
@@ -211,8 +211,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Gathering of Wyverns",
-      "titleJa": "【集★７】熱愛発覚！？　竜達の密会！",
+      "titleEn": "A Gathering of Wyverns",
+      "titleJa": "熱愛発覚！？　竜達の密会！",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt an Astalos and a Rathian",
@@ -443,8 +443,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Song of White and Lapis",
-      "titleJa": "【集★７】白と瑠璃の輪舞曲",
+      "titleEn": "A Song of White and Lapis",
+      "titleJa": "白と瑠璃の輪舞曲",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune and a Malfestio",
@@ -663,8 +663,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Cold Set of Armor",
-      "titleJa": "【集★７】冷たき甲冑",
+      "titleEn": "A Cold Set of Armor",
+      "titleJa": "冷たき甲冑",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth and a Zamtrios",
@@ -877,8 +877,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Rocked and Rolled",
-      "titleJa": "【集★７】炸裂！　爆砕拳！",
+      "titleEn": "Rocked and Rolled",
+      "titleJa": "炸裂！　爆砕拳！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Brachydios",
@@ -1053,8 +1053,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】So Notable: Seregios",
-      "titleJa": "【集★７】超☆メモ帳　～千刃竜捕獲編～",
+      "titleEn": "So Notable: Seregios",
+      "titleJa": "超☆メモ帳　～千刃竜捕獲編～",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Capture a Seregios",
@@ -1278,8 +1278,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Hammer vs. Blade",
-      "titleJa": "【集★７】鎚と刀の鍔迫り合い",
+      "titleEn": "Hammer vs. Blade",
+      "titleJa": "鎚と刀の鍔迫り合い",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus and an Uragaan",
@@ -1510,8 +1510,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Roar to the Heavens",
-      "titleJa": "【集★７】天に吼えろ、大地を揺らせ",
+      "titleEn": "A Roar to the Heavens",
+      "titleJa": "天に吼えろ、大地を揺らせ",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre and a Tigrex",
@@ -1748,8 +1748,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Hapless Bodyguard",
-      "titleJa": "【集★７】容赦なき、金獅子相手に用心棒",
+      "titleEn": "The Hapless Bodyguard",
+      "titleJa": "容赦なき、金獅子相手に用心棒",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt 3 Rajang",
@@ -1969,8 +1969,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Seer of Swords",
-      "titleJa": "【集★７】千刃竜セルレギオス",
+      "titleEn": "Seer of Swords",
+      "titleJa": "千刃竜セルレギオス",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Seregios",
@@ -2194,8 +2194,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Rumored Talent",
-      "titleJa": "【集★７】その腕前、噂通りかしら…？",
+      "titleEn": "Rumored Talent",
+      "titleJa": "その腕前、噂通りかしら…？",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Diablos",
@@ -2346,8 +2346,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】The Yukumo Gal Special",
-      "titleJa": "【集★７】受付嬢オススメ！　雷狼竜×２",
+      "titleEn": "The Yukumo Gal Special",
+      "titleJa": "受付嬢オススメ！　雷狼竜×２",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt 2 Zinogres",
@@ -2505,8 +2505,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Repaying the Favor",
-      "titleJa": "【集★７】無理した弟子の、後始末",
+      "titleEn": "Repaying the Favor",
+      "titleJa": "無理した弟子の、後始末",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Brachydios",
@@ -2742,8 +2742,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】You Bet Your Life",
-      "titleJa": "【集★７】戦々恐々、最恐コンビ",
+      "titleEn": "You Bet Your Life",
+      "titleJa": "戦々恐々、最恐コンビ",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho and a Rajang",
@@ -2865,8 +2865,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Wyvern's Way",
-      "titleJa": "【集★７】竜のコリーダ",
+      "titleEn": "Wyvern's Way",
+      "titleJa": "竜のコリーダ",
       "location": "V. Slayground",
       "prowler": false,
       "mainObjective": "Hunt a Yian Garuga and a Tigrex",
@@ -3024,8 +3024,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Bewitching Heat",
-      "titleJa": "【集★７】灼熱と妖艶",
+      "titleEn": "Bewitching Heat",
+      "titleJa": "灼熱と妖艶",
       "location": "Forlorn Arena",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus and a Mizutsune",
@@ -3183,8 +3183,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】The Mountain God's Lightning",
-      "titleJa": "【集★７】山神と電影",
+      "titleEn": "The Mountain God's Lightning",
+      "titleJa": "山神と電影",
       "location": "Forlorn Arena",
       "prowler": false,
       "mainObjective": "Hunt an Astalos and a Gammoth",
@@ -3336,8 +3336,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】A Man's Arena is His Castle",
-      "titleJa": "【集★７】住めば都の闘技場暮らし",
+      "titleEn": "A Man's Arena is His Castle",
+      "titleJa": "住めば都の闘技場暮らし",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -3555,8 +3555,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】The Hunter Games",
-      "titleJa": "【集★７】グランド・ハンター・ゲーム",
+      "titleEn": "The Hunter Games",
+      "titleJa": "グランド・ハンター・ゲーム",
       "location": "F. Slayground",
       "prowler": false,
       "mainObjective": "Hunt all large monsters, not including Seltas",
@@ -3792,8 +3792,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】The Flames of War",
-      "titleJa": "【集★７】熱気で熱狂！　炎の軍勢！",
+      "titleEn": "The Flames of War",
+      "titleJa": "熱気で熱狂！　炎の軍勢！",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4059,8 +4059,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】A Shocking Revelation!",
-      "titleJa": "【集★７】ビリビリバリバリパニック！！",
+      "titleEn": "A Shocking Revelation!",
+      "titleJa": "ビリビリバリバリパニック！！",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4326,8 +4326,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】The Gathering Storm",
-      "titleJa": "【集★７】彼の地に集いし破滅の禍難",
+      "titleEn": "The Gathering Storm",
+      "titleJa": "彼の地に集いし破滅の禍難",
       "location": "Sanctuary",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -4557,8 +4557,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Hellfire Star",
-      "titleJa": "【集★７】奈落の妖星",
+      "titleEn": "Hellfire Star",
+      "titleJa": "奈落の妖星",
       "location": "Wyvern's End",
       "prowler": false,
       "mainObjective": "Slay Nakarkos",
@@ -4704,8 +4704,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Putting the Gore in Magala",
-      "titleJa": "【集★７】顕現せし黒蝕竜",
+      "titleEn": "Putting the Gore in Magala",
+      "titleJa": "顕現せし黒蝕竜",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -4876,8 +4876,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A. Steppe SOS",
-      "titleJa": "【集★７】遺跡平原からの伝書",
+      "titleEn": "A. Steppe SOS",
+      "titleJa": "遺跡平原からの伝書",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho",
@@ -5049,8 +5049,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Tigrex, Tigrex, Burning Bright",
-      "titleJa": "【集★７】轟虎馮海",
+      "titleEn": "Tigrex, Tigrex, Burning Bright",
+      "titleJa": "轟虎馮海",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Tigrex",
@@ -5234,8 +5234,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Thousand Blades of Wrath",
-      "titleJa": "【集★７】昂ぶる千の刃",
+      "titleEn": "A Thousand Blades of Wrath",
+      "titleJa": "昂ぶる千の刃",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Seregios",
@@ -5406,8 +5406,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Fiery Temper",
-      "titleJa": "【集★７】獰にして猛だが火でもある",
+      "titleEn": "A Fiery Temper",
+      "titleJa": "獰にして猛だが火でもある",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos",
@@ -5572,8 +5572,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Unassailable Seltas Queen",
-      "titleJa": "【集★７】難攻不落の重甲虫",
+      "titleEn": "The Unassailable Seltas Queen",
+      "titleJa": "難攻不落の重甲虫",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Seltas Queen",
@@ -5744,8 +5744,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Furious Fighting Spirit",
-      "titleJa": "【集★７】金獅子の黒き覇気",
+      "titleEn": "Furious Fighting Spirit",
+      "titleJa": "金獅子の黒き覇気",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Rajang",
@@ -5911,8 +5911,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Savage Sword of the Desert",
-      "titleJa": "【集★７】灼熱砂上の荒ぶる刀剣",
+      "titleEn": "Savage Sword of the Desert",
+      "titleJa": "灼熱砂上の荒ぶる刀剣",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus",
@@ -6077,8 +6077,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Wyvernlit Evening",
-      "titleJa": "【集★７】電光煌めく飛竜の夜",
+      "titleEn": "Wyvernlit Evening",
+      "titleJa": "電光煌めく飛竜の夜",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -6243,8 +6243,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Wyverns All Around Us",
-      "titleJa": "【集★７】空の飛竜と陸の飛竜",
+      "titleEn": "Wyverns All Around Us",
+      "titleJa": "空の飛竜と陸の飛竜",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos and a Rathian",
@@ -6434,8 +6434,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Wild Gods, Calm Rangers",
-      "titleJa": "【集★７】荒れる山神、鎮める狩人",
+      "titleEn": "Wild Gods, Calm Rangers",
+      "titleJa": "荒れる山神、鎮める狩人",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth",
@@ -6606,8 +6606,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Into the Maelstrom",
-      "titleJa": "【集★７】蒼く渦巻く登竜門",
+      "titleEn": "Into the Maelstrom",
+      "titleJa": "蒼く渦巻く登竜門",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -6784,8 +6784,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Lithe and Unbreaking",
-      "titleJa": "【集★７】柔能く剛能く狩人を制す",
+      "titleEn": "The Lithe and Unbreaking",
+      "titleJa": "柔能く剛能く狩人を制す",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -6956,8 +6956,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Peril of the Land",
-      "titleJa": "【集★７】山紫水明の破壊者",
+      "titleEn": "The Peril of the Land",
+      "titleJa": "山紫水明の破壊者",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Duramboros",
@@ -7122,8 +7122,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Wolf and the Footbath",
-      "titleJa": "【集★７】ユクモノ足湯と雷狼竜",
+      "titleEn": "The Wolf and the Footbath",
+      "titleJa": "ユクモノ足湯と雷狼竜",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre",
@@ -7301,8 +7301,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Thieving Gypceros",
-      "titleJa": "【集★７】凶賊ゲリョス狩り",
+      "titleEn": "The Thieving Gypceros",
+      "titleJa": "凶賊ゲリョス狩り",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt 3 Gypceros",
@@ -7504,8 +7504,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Steam and Smoke",
-      "titleJa": "【集★７】湯けむりと噴煙と",
+      "titleEn": "Steam and Smoke",
+      "titleJa": "湯けむりと噴煙と",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Brachydios",
@@ -7683,8 +7683,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Glowing Embers",
-      "titleJa": "【集★７】熱き闘魂、纏いし炎戈",
+      "titleEn": "The Glowing Embers",
+      "titleJa": "熱き闘魂、纏いし炎戈",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt an Agnaktor",
@@ -7849,8 +7849,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Primal Forest Defense",
-      "titleJa": "【集★７】原生林の平和を守れ",
+      "titleEn": "Primal Forest Defense",
+      "titleJa": "原生林の平和を守れ",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt all large monsters, not including Seltas",
@@ -8069,8 +8069,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The End of the Trials",
-      "titleJa": "【集★７】試練の帰結点",
+      "titleEn": "The End of the Trials",
+      "titleJa": "試練の帰結点",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8284,8 +8284,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Descending Fog",
-      "titleJa": "【集★７】森丘の黒い霧",
+      "titleEn": "The Descending Fog",
+      "titleJa": "森丘の黒い霧",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8517,8 +8517,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Searching for Secret Baths",
-      "titleJa": "【集★７】まだ見ぬ秘湯をもとめて",
+      "titleEn": "Searching for Secret Baths",
+      "titleJa": "まだ見ぬ秘湯をもとめて",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8737,8 +8737,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Show Me Your Shaka-Strength",
-      "titleJa": "【集★７】汝ノチカラヲ、見セテミヨ",
+      "titleEn": "Show Me Your Shaka-Strength",
+      "titleJa": "汝ノチカラヲ、見セテミヨ",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8957,8 +8957,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Marshlands Nightmare",
-      "titleJa": "【集★７】沼地酔夢譚",
+      "titleEn": "The Marshlands Nightmare",
+      "titleJa": "沼地酔夢譚",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9190,8 +9190,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Birds of Prey",
-      "titleJa": "【集★７】奇奇怪怪のハードビーク",
+      "titleEn": "The Birds of Prey",
+      "titleJa": "奇奇怪怪のハードビーク",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9410,8 +9410,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Fanged Beasts",
-      "titleJa": "【集★７】勇猛果敢なブレイブタスク",
+      "titleEn": "The Fanged Beasts",
+      "titleJa": "勇猛果敢なブレイブタスク",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9630,8 +9630,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Winged Wyverns",
-      "titleJa": "【集★７】震天動地なグランドウイング",
+      "titleEn": "The Winged Wyverns",
+      "titleJa": "震天動地なグランドウイング",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9850,8 +9850,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Foes of the Deep",
-      "titleJa": "【集★７】縦横無尽なフレックスフィン",
+      "titleEn": "The Foes of the Deep",
+      "titleJa": "縦横無尽なフレックスフィン",
       "location": "F. Slayground",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -10094,8 +10094,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Beasts of Brawn",
-      "titleJa": "【集★７】鎧袖一触のパワフルアームズ",
+      "titleEn": "The Beasts of Brawn",
+      "titleJa": "鎧袖一触のパワフルアームズ",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -10338,8 +10338,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Ring of the Silver Sol",
-      "titleJa": "【集★７】白銀の火輪",
+      "titleEn": "Ring of the Silver Sol",
+      "titleJa": "白銀の火輪",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos",
@@ -10539,8 +10539,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Ring of the Golden Lune",
-      "titleJa": "【集★７】黄金の月輪",
+      "titleEn": "Ring of the Golden Lune",
+      "titleJa": "黄金の月輪",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Gold Rathian",
@@ -10740,8 +10740,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Usurpers of the Throne",
-      "titleJa": "【集★７】竜王の系譜",
+      "titleEn": "Usurpers of the Throne",
+      "titleJa": "竜王の系譜",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos and a Gold Rathian",
@@ -10961,8 +10961,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Mock Sun",
-      "titleJa": "【集★７】いつか見た幻日",
+      "titleEn": "Mock Sun",
+      "titleJa": "いつか見た幻日",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos",
@@ -11128,8 +11128,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】M. Peaks Relief",
-      "titleJa": "【集★７】渓流からの救援要請",
+      "titleEn": "M. Peaks Relief",
+      "titleJa": "渓流からの救援要請",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Gold Rathian",
@@ -11295,8 +11295,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Silver and Gold",
-      "titleJa": "【集★７】金と銀の煌き",
+      "titleEn": "Silver and Gold",
+      "titleJa": "金と銀の煌き",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt a Silver Rathalos and a Gold Rathian",
@@ -11468,8 +11468,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Child of Destruction",
-      "titleJa": "【集★７】破壊と滅亡の申し子",
+      "titleEn": "Child of Destruction",
+      "titleJa": "破壊と滅亡の申し子",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Furious Rajang",
@@ -11664,8 +11664,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】A Shock in the Dark",
-      "titleJa": "【集★７】月夜に出でし阿吽の雷撃",
+      "titleEn": "A Shock in the Dark",
+      "titleJa": "月夜に出でし阿吽の雷撃",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt 2 Furious Rajang",
@@ -11811,8 +11811,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Triumphant Rage",
-      "titleJa": "【集★７】憤怒の雄叫び",
+      "titleEn": "Triumphant Rage",
+      "titleJa": "憤怒の雄叫び",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Savage Deviljho",
@@ -11983,8 +11983,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】The Frozen Dictator",
-      "titleJa": "【集★７】氷点下の支配者",
+      "titleEn": "The Frozen Dictator",
+      "titleJa": "氷点下の支配者",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kushala Daora or repel it",
@@ -12330,8 +12330,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Kushala Daora Strikes",
-      "titleJa": "【集★７】舞い降りる鋼龍",
+      "titleEn": "Kushala Daora Strikes",
+      "titleJa": "舞い降りる鋼龍",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Slay a Kushala Daora or repel it",
@@ -12677,8 +12677,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Elder Dragon of Mist",
-      "titleJa": "【集★７】古の霞龍、オオナズチ",
+      "titleEn": "The Elder Dragon of Mist",
+      "titleJa": "古の霞龍、オオナズチ",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Slay a Chameleos or repel it",
@@ -13024,8 +13024,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Beyond the Silence",
-      "titleJa": "【集★７】しじまの向こう",
+      "titleEn": "Beyond the Silence",
+      "titleJa": "しじまの向こう",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Slay a Chameleos or repel it",
@@ -13371,8 +13371,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Emperor of Flame",
-      "titleJa": "【集★７】煉獄の主、怒れる炎帝",
+      "titleEn": "Emperor of Flame",
+      "titleJa": "煉獄の主、怒れる炎帝",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Slay a Teostra or repel it",
@@ -13718,8 +13718,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Fires of Devastation",
-      "titleJa": "【集★７】吹き荒れる災厄の火",
+      "titleEn": "The Fires of Devastation",
+      "titleJa": "吹き荒れる災厄の火",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Slay a Teostra or repel it",
@@ -14065,8 +14065,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Grim Tidings",
-      "titleJa": "【集★７】獄炎に座す、覇たる者",
+      "titleEn": "Grim Tidings",
+      "titleJa": "獄炎に座す、覇たる者",
       "location": "Ingle Isle",
       "prowler": false,
       "mainObjective": "Slay an Akantor",
@@ -14273,8 +14273,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】Absolute Zero",
-      "titleJa": "【集★７】絶対零度",
+      "titleEn": "Absolute Zero",
+      "titleJa": "絶対零度",
       "location": "Polar Field",
       "prowler": false,
       "mainObjective": "Slay an Ukanlos",
@@ -14469,8 +14469,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Looming Calamity",
-      "titleJa": "【集★７】舞うは嵐、奏でるは災禍の調べ",
+      "titleEn": "The Looming Calamity",
+      "titleJa": "舞うは嵐、奏でるは災禍の調べ",
       "location": "Spirit Peak",
       "prowler": false,
       "mainObjective": "Slay an Amatsu",
@@ -14683,8 +14683,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Brilliant Darkness",
-      "titleJa": "【集★７】煌黒龍アルバトリオン",
+      "titleEn": "The Brilliant Darkness",
+      "titleJa": "煌黒龍アルバトリオン",
       "location": "Ingle Isle",
       "prowler": false,
       "mainObjective": "Slay an Alatreon",
@@ -14885,8 +14885,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★７】The Ball's in Your Court",
-      "titleJa": "【集★７】痺れる魔球",
+      "titleEn": "The Ball's in Your Court",
+      "titleJa": "痺れる魔球",
       "location": "J. Frontier",
       "prowler": true,
       "mainObjective": "Hunt a Volvidon",
@@ -15068,8 +15068,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Uragaan Shellbreaker",
-      "titleJa": "【集★７】爆鎚竜の顎破壊に挑戦！",
+      "titleEn": "Uragaan Shellbreaker",
+      "titleJa": "爆鎚竜の顎破壊に挑戦！",
       "location": "V. Hollow",
       "prowler": true,
       "mainObjective": "Wound Uragaan's jaw",
@@ -15257,8 +15257,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Poison, Poison, Go Away",
-      "titleJa": "【集★７】曇天毒雨",
+      "titleEn": "Poison, Poison, Go Away",
+      "titleJa": "曇天毒雨",
       "location": "F. Seaway",
       "prowler": true,
       "mainObjective": "Slay 20 Remobras",
@@ -15428,8 +15428,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★７】Monster Prowler",
-      "titleJa": "【集★７】モンスターニャンター",
+      "titleEn": "Monster Prowler",
+      "titleJa": "モンスターニャンター",
       "location": "Arena",
       "prowler": true,
       "mainObjective": "Hunt all large monsters",

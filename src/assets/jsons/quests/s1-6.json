@@ -1,10 +1,10 @@
 {
   "id": "s1-6",
-  "rank": "★６",
+  "rank": "★ 6",
   "questList": [
     {
-      "titleEn": "【Hub★６】The Lightning Crown",
-      "titleJa": "【集★６】素敵な素敵な電竜頭",
+      "titleEn": "The Lightning Crown",
+      "titleJa": "素敵な素敵な電竜頭",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -240,8 +240,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】What a Girl Wants",
-      "titleJa": "【集★６】轟竜狩猟は妹のため",
+      "titleEn": "What a Girl Wants",
+      "titleJa": "轟竜狩猟は妹のため",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Tigrex",
@@ -489,8 +489,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Rathalos Run",
-      "titleJa": "【集★６】空の王者・リオレウス",
+      "titleEn": "Rathalos Run",
+      "titleJa": "空の王者・リオレウス",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos",
@@ -714,8 +714,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Watch Your Steppe",
-      "titleJa": "【集★６】遺跡平原の黒蝕竜調査",
+      "titleEn": "Watch Your Steppe",
+      "titleJa": "遺跡平原の黒蝕竜調査",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -885,8 +885,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】Bug Buffet",
-      "titleJa": "【集★６】最も危険な晩餐",
+      "titleEn": "Bug Buffet",
+      "titleJa": "最も危険な晩餐",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Seltas Queen",
@@ -1092,8 +1092,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】A Bewitching Dance",
-      "titleJa": "【集★６】妖艶なる舞",
+      "titleEn": "A Bewitching Dance",
+      "titleJa": "妖艶なる舞",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -1311,8 +1311,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Dread Locked",
-      "titleJa": "【集★６】跳梁し意思を用いず悪成さば",
+      "titleEn": "Dread Locked",
+      "titleJa": "跳梁し意思を用いず悪成さば",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -1518,8 +1518,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Hunt a Barioth",
-      "titleJa": "【集★６】ベリオロスの狩猟",
+      "titleEn": "Hunt a Barioth",
+      "titleJa": "ベリオロスの狩猟",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Barioth",
@@ -1725,8 +1725,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Unshakable Mountain God",
-      "titleJa": "【集★６】不動の山神",
+      "titleEn": "The Unshakable Mountain God",
+      "titleJa": "不動の山神",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth",
@@ -1926,8 +1926,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Topple the Monarch",
-      "titleJa": "【集★６】狩られる前に狩れ！",
+      "titleEn": "Topple the Monarch",
+      "titleJa": "狩られる前に狩れ！",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre",
@@ -2163,8 +2163,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Bedevil a Deviljho",
-      "titleJa": "【集★６】恐暴竜の根城",
+      "titleEn": "Bedevil a Deviljho",
+      "titleJa": "恐暴竜の根城",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Deviljho",
@@ -2358,8 +2358,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Frozen Seaway Accounting",
-      "titleJa": "【集★６】氷海の精算アイテム納品",
+      "titleEn": "Frozen Seaway Accounting",
+      "titleJa": "氷海の精算アイテム納品",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Earn 4000 Wycademy Points",
@@ -2577,8 +2577,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Sorry Not Sorry",
-      "titleJa": "【集★６】意気地なしには鎧竜で喝！",
+      "titleEn": "Sorry Not Sorry",
+      "titleJa": "意気地なしには鎧竜で喝！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Gravios",
@@ -2784,8 +2784,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Master of the Molten Deep",
-      "titleJa": "【集★６】火の海に棲む竜！",
+      "titleEn": "Master of the Molten Deep",
+      "titleJa": "火の海に棲む竜！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt an Agnaktor",
@@ -3015,8 +3015,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Duel in the Volcanic Hollow",
-      "titleJa": "【集★６】出陣！　地底火山の果し合い！",
+      "titleEn": "Duel in the Volcanic Hollow",
+      "titleJa": "出陣！　地底火山の果し合い！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus",
@@ -3246,8 +3246,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Volcanic Hollow Accounting",
-      "titleJa": "【集★６】地底火山の精算アイテム納品",
+      "titleEn": "Volcanic Hollow Accounting",
+      "titleJa": "地底火山の精算アイテム納品",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Earn 4000 Wycademy Points",
@@ -3471,8 +3471,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Bug Bite",
-      "titleJa": "【集★６】重厚で重甲な晩餐？",
+      "titleEn": "Bug Bite",
+      "titleJa": "重厚で重甲な晩餐？",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Capture a Seltas Queen",
@@ -3672,8 +3672,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Heaven and Earth",
-      "titleJa": "【集★６】天と地の領域！",
+      "titleEn": "Heaven and Earth",
+      "titleJa": "天と地の領域！",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos and a Rathian",
@@ -3832,8 +3832,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】From Beyond the Sands",
-      "titleJa": "【集★６】砂漠の彼方から",
+      "titleEn": "From Beyond the Sands",
+      "titleJa": "砂漠の彼方から",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus",
@@ -4069,8 +4069,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Legend of the Monkey King",
-      "titleJa": "【集★６】猿王伝説！",
+      "titleEn": "Legend of the Monkey King",
+      "titleJa": "猿王伝説！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Rajang",
@@ -4270,8 +4270,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Astalos Territory",
-      "titleJa": "【集★６】ライゼクスの支配圏",
+      "titleEn": "Astalos Territory",
+      "titleJa": "ライゼクスの支配圏",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -4507,8 +4507,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Lord of the Skies",
-      "titleJa": "【集★６】リオレウス狩猟指令",
+      "titleEn": "Lord of the Skies",
+      "titleJa": "リオレウス狩猟指令",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos",
@@ -4726,8 +4726,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Rajang in the Snow",
-      "titleJa": "【集★６】吹雪に立つ金獅子",
+      "titleEn": "The Rajang in the Snow",
+      "titleJa": "吹雪に立つ金獅子",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Rajang",
@@ -4927,8 +4927,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Fury Run Afoul",
-      "titleJa": "【集★６】憤激する巨獣",
+      "titleEn": "Fury Run Afoul",
+      "titleJa": "憤激する巨獣",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth",
@@ -5152,8 +5152,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Bl-Bl-Blangongas!",
-      "titleJa": "【集★６】ドドドドブランゴ！",
+      "titleEn": "Bl-Bl-Blangongas!",
+      "titleJa": "ドドドドブランゴ！",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt 3 Blangongas",
@@ -5373,8 +5373,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Surrounded by Bubbles",
-      "titleJa": "【集★６】泡につつまれ狐につままれ",
+      "titleEn": "Surrounded by Bubbles",
+      "titleJa": "泡につつまれ狐につままれ",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -5610,8 +5610,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Moving Mountain",
-      "titleJa": "【集★６】動くこと、山の如し！",
+      "titleEn": "The Moving Mountain",
+      "titleJa": "動くこと、山の如し！",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Capture a Duramboros",
@@ -5847,8 +5847,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Fisherman's Fiend",
-      "titleJa": "【集★６】大海の王・ラギアクルス！",
+      "titleEn": "The Fisherman's Fiend",
+      "titleJa": "大海の王・ラギアクルス！",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -6096,8 +6096,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Open Season for Jaggia",
-      "titleJa": "【集★６】ジャギィノス掃討作戦",
+      "titleEn": "Open Season for Jaggia",
+      "titleJa": "ジャギィノス掃討作戦",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Slay 25 Jaggia",
@@ -6285,8 +6285,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】For Whom the Gong Tolls",
-      "titleJa": "【集★６】ドボルがために銅鑼は鳴る",
+      "titleEn": "For Whom the Gong Tolls",
+      "titleJa": "ドボルがために銅鑼は鳴る",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Duramboros",
@@ -6522,8 +6522,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Quartz Rivalry",
-      "titleJa": "【集★６】奥様は白水晶がお好き",
+      "titleEn": "Quartz Rivalry",
+      "titleJa": "奥様は白水晶がお好き",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Deliver 2 Quartz Ores",
@@ -6747,8 +6747,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】We Can Dig It",
-      "titleJa": "【集★６】熱願の穴掘り",
+      "titleEn": "We Can Dig It",
+      "titleJa": "熱願の穴掘り",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Capture an Agnaktor",
@@ -6984,8 +6984,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Coal Hearted",
-      "titleJa": "【集★６】たんと掘れ燃石炭",
+      "titleEn": "Coal Hearted",
+      "titleJa": "たんと掘れ燃石炭",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Deliver 10 pieces of Coal or a Paw Pass Ticket",
@@ -7366,8 +7366,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】River of Fire",
-      "titleJa": "【集★６】燃えさかる大河",
+      "titleEn": "River of Fire",
+      "titleJa": "燃えさかる大河",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt 2 Lavasioth",
@@ -7574,8 +7574,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Dances with Wyverns",
-      "titleJa": "【集★６】飛竜たちの乱舞",
+      "titleEn": "Dances with Wyverns",
+      "titleJa": "飛竜たちの乱舞",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -7854,8 +7854,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Bugging Out",
-      "titleJa": "【集★６】原生林の曲者たち",
+      "titleEn": "Bugging Out",
+      "titleJa": "原生林の曲者たち",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt all large monsters, not including Seltas",
@@ -8140,8 +8140,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】A Three Hour Tour",
-      "titleJa": "【集★６】スリルとショックの氷海ツアー",
+      "titleEn": "A Three Hour Tour",
+      "titleJa": "スリルとショックの氷海ツアー",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8414,8 +8414,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】A Hollow Defense",
-      "titleJa": "【集★６】地底火山に響く侵略の足音",
+      "titleEn": "A Hollow Defense",
+      "titleJa": "地底火山に響く侵略の足音",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8694,8 +8694,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Wild Gunman",
-      "titleJa": "【集★６】ワイルドバレット",
+      "titleEn": "Wild Gunman",
+      "titleJa": "ワイルドバレット",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8974,8 +8974,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Marshlands Rag",
-      "titleJa": "【集★６】沼地の狂騒楽団",
+      "titleEn": "Marshlands Rag",
+      "titleJa": "沼地の狂騒楽団",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9248,8 +9248,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Firefight to the Finish!",
-      "titleJa": "【集★６】燃えたぎれ！　火山の熱闘！！",
+      "titleEn": "Firefight to the Finish!",
+      "titleJa": "燃えたぎれ！　火山の熱闘！！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9528,8 +9528,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】At the Slayground",
-      "titleJa": "【集★６】狂乱の立体闘技場",
+      "titleEn": "At the Slayground",
+      "titleJa": "狂乱の立体闘技場",
       "location": "V. Slayground",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9735,8 +9735,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】It's Electric",
-      "titleJa": "【集★６】雷電",
+      "titleEn": "It's Electric",
+      "titleJa": "雷電",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -9870,8 +9870,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】The White Brute",
-      "titleJa": "【集★６】白き霊獣",
+      "titleEn": "The White Brute",
+      "titleJa": "白き霊獣",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -10066,8 +10066,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】A Scenic Locale",
-      "titleJa": "【集★６】山紫水明の地",
+      "titleEn": "A Scenic Locale",
+      "titleJa": "山紫水明の地",
       "location": "Forlorn Arena",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -10201,8 +10201,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】Miasma Attack",
-      "titleJa": "【集★６】どくどくパニック・毒怪鳥！！",
+      "titleEn": "Miasma Attack",
+      "titleJa": "どくどくパニック・毒怪鳥！！",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Gypceros",
@@ -10373,8 +10373,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Stop the Wacha!",
-      "titleJa": "【集★６】奇猿狐の蛮行を止めろ！",
+      "titleEn": "Stop the Wacha!",
+      "titleJa": "奇猿狐の蛮行を止めろ！",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt a Kecha Wacha",
@@ -10539,8 +10539,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】We Are Not Amused",
-      "titleJa": "【集★６】オーラ漂う陸の女王！",
+      "titleEn": "We Are Not Amused",
+      "titleJa": "オーラ漂う陸の女王！",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -10705,8 +10705,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Zamtrios Fight!",
-      "titleJa": "【集★６】クール！　ザボアザギル！",
+      "titleEn": "Zamtrios Fight!",
+      "titleJa": "クール！　ザボアザギル！",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Zamtrios",
@@ -10871,8 +10871,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Frog of War",
-      "titleJa": "【集★６】獰猛と化した鬼蛙",
+      "titleEn": "The Frog of War",
+      "titleJa": "獰猛と化した鬼蛙",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -11037,8 +11037,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Triple Toady Terror",
-      "titleJa": "【集★６】３頭寄れば獰猛蛙",
+      "titleEn": "Triple Toady Terror",
+      "titleJa": "３頭寄れば獰猛蛙",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt 3 Tetsucabras",
@@ -11228,8 +11228,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Coal Still Burns",
-      "titleJa": "【集★６】心を燃やせ、燃石炭！",
+      "titleEn": "The Coal Still Burns",
+      "titleJa": "心を燃やせ、燃石炭！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Deliver 30 pieces of Coal",
@@ -11441,8 +11441,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Woe Malfestio",
-      "titleJa": "【集★６】夜鳥の会・危機一髪！",
+      "titleEn": "Woe Malfestio",
+      "titleJa": "夜鳥の会・危機一髪！",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Malfestio",
@@ -11601,8 +11601,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Born of Darkness",
-      "titleJa": "【集★６】闇より生まれし者",
+      "titleEn": "Born of Darkness",
+      "titleJa": "闇より生まれし者",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Nargacuga",
@@ -11767,8 +11767,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Nibeling on Apples",
-      "titleJa": "【集★６】幻のハップル？",
+      "titleEn": "Nibeling on Apples",
+      "titleJa": "幻のハップル？",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Nibelsnarf",
@@ -11927,8 +11927,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Warning: Hyper Yian Garuga!",
-      "titleJa": "【集★６】黒狼鳥の獰猛警報！！",
+      "titleEn": "Warning: Hyper Yian Garuga!",
+      "titleJa": "黒狼鳥の獰猛警報！！",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Yian Garuga",
@@ -12093,8 +12093,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Hyper for Holes",
-      "titleJa": "【集★６】凍てつく牙は獰猛に",
+      "titleEn": "Hyper for Holes",
+      "titleJa": "凍てつく牙は獰猛に",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Blangonga",
@@ -12260,8 +12260,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Plesioth Adventure",
-      "titleJa": "【集★６】ガノトトス冒険記",
+      "titleEn": "The Plesioth Adventure",
+      "titleJa": "ガノトトス冒険記",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Plesioth",
@@ -12426,8 +12426,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Daimyo of the Deserted Island",
-      "titleJa": "【集★６】孤島の暴君、ダイミョウザザミ",
+      "titleEn": "Daimyo of the Deserted Island",
+      "titleJa": "孤島の暴君、ダイミョウザザミ",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Daimyo Hermitaur",
@@ -12599,8 +12599,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Where the Wild Manes Are",
-      "titleJa": "【集★６】獰猛なタテガミを求めて",
+      "titleEn": "Where the Wild Manes Are",
+      "titleJa": "獰猛なタテガミを求めて",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Royal Ludroth",
@@ -12759,8 +12759,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Hyper Investigation",
-      "titleJa": "【集★６】獰猛個体・調査依頼",
+      "titleEn": "Hyper Investigation",
+      "titleJa": "獰猛個体・調査依頼",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Yian Kut-Ku",
@@ -12925,8 +12925,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Khezu and the Shadow",
-      "titleJa": "【集★６】フルフルは黒き影と共に",
+      "titleEn": "The Khezu and the Shadow",
+      "titleJa": "フルフルは黒き影と共に",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Khezu",
@@ -13085,8 +13085,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Bring On the Shogun",
-      "titleJa": "【集★６】攻究せよ、鎌持つショウグン",
+      "titleEn": "Bring On the Shogun",
+      "titleJa": "攻究せよ、鎌持つショウグン",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Shogun Ceanataur",
@@ -13258,8 +13258,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Unnerving Najarala",
-      "titleJa": "【集★６】絞蛇竜は不気味に嗤う",
+      "titleEn": "Unnerving Najarala",
+      "titleJa": "絞蛇竜は不気味に嗤う",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -13418,8 +13418,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Eruption Embodied",
-      "titleJa": "【集★６】竜の大鎚・火山の化身",
+      "titleEn": "Eruption Embodied",
+      "titleJa": "竜の大鎚・火山の化身",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt an Uragaan",
@@ -13590,8 +13590,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】The Magma's Rage",
-      "titleJa": "【集★６】極秘依頼！　獰猛なる溶岩竜！",
+      "titleEn": "The Magma's Rage",
+      "titleJa": "極秘依頼！　獰猛なる溶岩竜！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Lavasioth",
@@ -13769,8 +13769,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Minion Audition Imposition",
-      "titleJa": "【集★６】子分・取り分・イイ気分♪",
+      "titleEn": "Minion Audition Imposition",
+      "titleJa": "子分・取り分・イイ気分♪",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -13965,8 +13965,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★６】Everywhere You Look",
-      "titleJa": "【集★６】振り返ってもヤツがいる",
+      "titleEn": "Everywhere You Look",
+      "titleJa": "振り返ってもヤツがいる",
       "location": "P. Forest",
       "prowler": true,
       "mainObjective": "Hunt 2 Iodrome",
@@ -14136,8 +14136,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】Malfestio Headbreaker",
-      "titleJa": "【集★６】夜鳥の頭部破壊に挑戦！",
+      "titleEn": "Malfestio Headbreaker",
+      "titleJa": "夜鳥の頭部破壊に挑戦！",
       "location": "D. Island",
       "prowler": true,
       "mainObjective": "Wound Malfestio's head",
@@ -14277,8 +14277,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】The Snow Must Go On",
-      "titleJa": "【集★６】スノードロップをあなたに",
+      "titleEn": "The Snow Must Go On",
+      "titleJa": "スノードロップをあなたに",
       "location": "F. Seaway",
       "prowler": true,
       "mainObjective": "Hunt a Lagombi",
@@ -14466,8 +14466,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★６】Big Bro's Benevolence",
-      "titleJa": "【集★６】メデタイお仕事",
+      "titleEn": "Big Bro's Benevolence",
+      "titleJa": "メデタイお仕事",
       "location": "Dunes",
       "prowler": true,
       "mainObjective": "Deliver 2 Meteor Chunks",

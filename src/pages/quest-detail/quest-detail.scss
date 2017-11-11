@@ -1,25 +1,46 @@
 page-quest-detail {
   font-size: 16px;
+  .quest-detail-content {
+    padding: 16px;
+  }
+  .quest-title {
+    padding: 16px;
+    background-color: #e5e5e5;
+  }
   .quest-title-ja {
     font-size: 20px;
   }
   .quest-title-en {
-    margin-bottom: 8px;
+    color: grey;
+    font-size: 14px;
   }
   .quest-sub {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
   }
   .quest-reward-label {
     font-weight: bold;
-    margin-bottom: 4px;
+    margin-bottom: 8px;
   }
   .quest-header {
     font-weight: bold;
+    margin-bottom: 8px;
   }
-  .quest-location, .quest-main, .quest-sub {
+  .quest-location, .quest-main {
     margin-bottom: 4px;
   }
+  .quest-main > div,  .quest-sub > div{
+    margin-bottom: 8px;
+  }
+  .location-list {
+    margin-bottom: 0px;
+  }
+  .item-note.quest-item-quantity {
+    margin-right: 14px;
+  }
   .list-md .input-wrapper{
+    font-size: 14px;
+  }
+  .quest-monster-area {
     font-size: 14px;
   }
 }

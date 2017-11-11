@@ -1,10 +1,10 @@
 {
   "id": "s1-13",
-  "rank": "Ｇ★３",
+  "rank": "G ★ 3",
   "questList": [
     {
-      "titleEn": "【HubＧ★３】Harvest Tour: Volcanic Hollow",
-      "titleJa": "【集Ｇ★３】地底火山の採集ツアー",
+      "titleEn": "Harvest Tour: Volcanic Hollow",
+      "titleJa": "地底火山の採集ツアー",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】The Aloof Wolf Bird",
-      "titleJa": "【集Ｇ★３】孤高の黒狼鳥",
+      "titleEn": "The Aloof Wolf Bird",
+      "titleJa": "孤高の黒狼鳥",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Yian Garuga",
@@ -320,8 +320,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Shocking Premonition",
-      "titleJa": "【集Ｇ★３】ラギアクルス襲撃の予感",
+      "titleEn": "Shocking Premonition",
+      "titleJa": "ラギアクルス襲撃の予感",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -588,8 +588,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Return to the Ruins",
-      "titleJa": "【集Ｇ★３】遺群嶺からの帰還",
+      "titleEn": "Return to the Ruins",
+      "titleJa": "遺群嶺からの帰還",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre",
@@ -826,8 +826,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hello Ruined Ridge!",
-      "titleJa": "【集Ｇ★３】ハロー遺群嶺！",
+      "titleEn": "Hello Ruined Ridge!",
+      "titleJa": "ハロー遺群嶺！",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -1082,8 +1082,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Mysteries of the Ruins",
-      "titleJa": "【集Ｇ★３】遺群嶺の難題解決",
+      "titleEn": "Mysteries of the Ruins",
+      "titleJa": "遺群嶺の難題解決",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -1296,8 +1296,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】THAT's a Knife",
-      "titleJa": "【集Ｇ★３】暑い熱い砂漠",
+      "titleEn": "THAT's a Knife",
+      "titleJa": "暑い熱い砂漠",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Glavenus",
@@ -1540,8 +1540,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】The Queen's Catwalk",
-      "titleJa": "【集Ｇ★３】女帝の花道",
+      "titleEn": "The Queen's Catwalk",
+      "titleJa": "女帝の花道",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Capture a Seltas Queen",
@@ -1766,8 +1766,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Knight's Forest Dream",
-      "titleJa": "【集Ｇ★３】騎士と密林の夢",
+      "titleEn": "Knight's Forest Dream",
+      "titleJa": "騎士と密林の夢",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -2022,8 +2022,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Double Trouble",
-      "titleJa": "【集Ｇ★３】双子の黒狼鳥",
+      "titleEn": "Double Trouble",
+      "titleJa": "双子の黒狼鳥",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt 2 Yian Garuga",
@@ -2279,8 +2279,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Status Buffet",
-      "titleJa": "【集Ｇ★３】原生林の恐怖体験",
+      "titleEn": "Status Buffet",
+      "titleJa": "原生林の恐怖体験",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Nerscylla and a Malfestio",
@@ -2524,8 +2524,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hunt-a-thon: Gravios",
-      "titleJa": "【集Ｇ★３】グラビモス連続狩猟",
+      "titleEn": "Hunt-a-thon: Gravios",
+      "titleJa": "グラビモス連続狩猟",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt 2 before time expires or deliver a Paw Pass Ticket",
@@ -2871,8 +2871,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Frozen",
-      "titleJa": "【集Ｇ★３】氷牙竜・ベリオロス！",
+      "titleEn": "Frozen",
+      "titleJa": "氷牙竜・ベリオロス！",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Barioth",
@@ -3181,8 +3181,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Amazing F.Seaway Ice",
-      "titleJa": "【集Ｇ★３】氷海のすばらしい氷",
+      "titleEn": "Amazing F.Seaway Ice",
+      "titleJa": "氷海のすばらしい氷",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Gammoth",
@@ -3413,8 +3413,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Armored Threat",
-      "titleJa": "【集Ｇ★３】鎧竜グラビモスの脅威",
+      "titleEn": "Armored Threat",
+      "titleJa": "鎧竜グラビモスの脅威",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Gravios",
@@ -3711,8 +3711,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】The Way of the Sword",
-      "titleJa": "【集Ｇ★３】斬竜流　狩人道場",
+      "titleEn": "The Way of the Sword",
+      "titleJa": "斬竜流　狩人道場",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Capture a Glavenus",
@@ -3955,8 +3955,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Allfire Seasoning",
-      "titleJa": "【集Ｇ★３】かくし味は燃石炭",
+      "titleEn": "Allfire Seasoning",
+      "titleJa": "かくし味は燃石炭",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Deliver 20 pieces of Coal",
@@ -4174,8 +4174,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】The Royal Guard",
-      "titleJa": "【集Ｇ★３】重量級の女帝",
+      "titleEn": "The Royal Guard",
+      "titleJa": "重量級の女帝",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Seltas Queen",
@@ -4412,8 +4412,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Ebon Eclipse",
-      "titleJa": "【集Ｇ★３】古代林に来たりし黒き蝕",
+      "titleEn": "Ebon Eclipse",
+      "titleJa": "古代林に来たりし黒き蝕",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Gore Magala",
@@ -4626,8 +4626,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hot Tourist Spot",
-      "titleJa": "【集Ｇ★３】ベルナ村の観光業が大炎上！",
+      "titleEn": "Hot Tourist Spot",
+      "titleJa": "ベルナ村の観光業が大炎上！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Rathian and a Glavenus",
@@ -4877,8 +4877,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Verdant Hill Predators",
-      "titleJa": "【集Ｇ★３】森丘の捕食者たち",
+      "titleEn": "Verdant Hill Predators",
+      "titleJa": "森丘の捕食者たち",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos and a Rathian",
@@ -5140,8 +5140,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Super Sherbet",
-      "titleJa": "【集Ｇ★３】氷牙竜が大発明のカギ？",
+      "titleEn": "Super Sherbet",
+      "titleJa": "氷牙竜が大発明のカギ？",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Barioth",
@@ -5450,8 +5450,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Nature of the Beast",
-      "titleJa": "【集Ｇ★３】巨獣流　狩人道場",
+      "titleEn": "Nature of the Beast",
+      "titleJa": "巨獣流　狩人道場",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Capture a Gammoth",
@@ -5682,8 +5682,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Moonlit Memories",
-      "titleJa": "【集Ｇ★３】月下雷鳴の記憶",
+      "titleEn": "Moonlit Memories",
+      "titleJa": "月下雷鳴の記憶",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Zinogre",
@@ -5938,8 +5938,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Way of the Fox",
-      "titleJa": "【集Ｇ★３】泡狐竜流　狩人道場",
+      "titleEn": "Way of the Fox",
+      "titleJa": "泡狐竜流　狩人道場",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Mizutsune",
@@ -6194,8 +6194,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hunt the Sky Champion!",
-      "titleJa": "【集Ｇ★３】空の王者を狩猟せよ！",
+      "titleEn": "Hunt the Sky Champion!",
+      "titleJa": "空の王者を狩猟せよ！",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Rathalos",
@@ -6438,8 +6438,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】The Leviathan Incident",
-      "titleJa": "【集Ｇ★３】海竜のじけん",
+      "titleEn": "The Leviathan Incident",
+      "titleJa": "海竜のじけん",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Lagiacrus",
@@ -6706,8 +6706,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】The Thunder Way",
-      "titleJa": "【集Ｇ★３】電竜流　狩人道場",
+      "titleEn": "The Thunder Way",
+      "titleJa": "電竜流　狩人道場",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt an Astalos",
@@ -6950,8 +6950,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Traumagaan Suppression",
-      "titleJa": "【集Ｇ★３】トラウマガンキンを退治せよ",
+      "titleEn": "Traumagaan Suppression",
+      "titleJa": "トラウマガンキンを退治せよ",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt an Uragaan",
@@ -7207,8 +7207,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Pincer Movement",
-      "titleJa": "【集Ｇ★３】空と地の挟撃",
+      "titleEn": "Pincer Movement",
+      "titleJa": "空と地の挟撃",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Lavasioth and a Rathalos",
@@ -7458,8 +7458,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】A Giant Dragon Invades!",
-      "titleJa": "【集Ｇ★３】巨大龍の侵攻",
+      "titleEn": "A Giant Dragon Invades!",
+      "titleJa": "巨大龍の侵攻",
       "location": "Fortress",
       "prowler": false,
       "mainObjective": "Slay a Lao-Shan Lung or repel it",
@@ -7768,8 +7768,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】Desert Combat",
-      "titleJa": "【集Ｇ★３】砂漠の死闘と希望",
+      "titleEn": "Desert Combat",
+      "titleJa": "砂漠の死闘と希望",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8049,8 +8049,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Improvement Project",
-      "titleJa": "【集Ｇ★３】遺跡平原の改善要求",
+      "titleEn": "Improvement Project",
+      "titleJa": "遺跡平原の改善要求",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8390,8 +8390,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hot Sandstorm",
-      "titleJa": "【集Ｇ★３】旧砂漠に吹く熱風！",
+      "titleEn": "Hot Sandstorm",
+      "titleJa": "旧砂漠に吹く熱風！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8701,8 +8701,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Final Test at the Arena!",
-      "titleJa": "【集Ｇ★３】闘技場での最終テストっチャ！",
+      "titleEn": "Final Test at the Arena!",
+      "titleJa": "闘技場での最終テストっチャ！",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -9000,8 +9000,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Baptism by Flatulence",
-      "titleJa": "【集Ｇ★３】桃毛獣による新人への洗礼",
+      "titleEn": "Baptism by Flatulence",
+      "titleJa": "桃毛獣による新人への洗礼",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Congalala",
@@ -9197,8 +9197,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】A Pleasant Journey",
-      "titleJa": "【集Ｇ★３】遺群嶺の楽しい旅",
+      "titleEn": "A Pleasant Journey",
+      "titleJa": "遺群嶺の楽しい旅",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Basarios",
@@ -9406,8 +9406,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hell Hath no Fury",
-      "titleJa": "【集Ｇ★３】遺群嶺の怒れるリオレイア",
+      "titleEn": "Hell Hath no Fury",
+      "titleJa": "遺群嶺の怒れるリオレイア",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -9609,8 +9609,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Unreasonable Gorger",
-      "titleJa": "【集Ｇ★３】無茶苦茶ムシャムシャ",
+      "titleEn": "Unreasonable Gorger",
+      "titleJa": "無茶苦茶ムシャムシャ",
       "location": "Desert",
       "prowler": false,
       "mainObjective": "Hunt a Nibelsnarf",
@@ -9812,8 +9812,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Hips Don't Lie",
-      "titleJa": "【集Ｇ★３】災禍の水竜",
+      "titleEn": "Hips Don't Lie",
+      "titleJa": "災禍の水竜",
       "location": "Jungle",
       "prowler": false,
       "mainObjective": "Hunt a Plesioth",
@@ -10015,8 +10015,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Arachnephobia",
-      "titleJa": "【集Ｇ★３】先生の鬼門は獰猛な影蜘蛛",
+      "titleEn": "Arachnephobia",
+      "titleJa": "先生の鬼門は獰猛な影蜘蛛",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Nerscylla",
@@ -10218,8 +10218,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Dining With the Snakes",
-      "titleJa": "【集Ｇ★３】絞蛇竜の消化能力について",
+      "titleEn": "Dining With the Snakes",
+      "titleJa": "絞蛇竜の消化能力について",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -10415,8 +10415,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Sharqnado",
-      "titleJa": "【集Ｇ★３】シャークブリザード",
+      "titleEn": "Sharqnado",
+      "titleJa": "シャークブリザード",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Zamtrios",
@@ -10618,8 +10618,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Frozen in a Nightmare",
-      "titleJa": "【集Ｇ★３】氷海の恐怖体験",
+      "titleEn": "Frozen in a Nightmare",
+      "titleJa": "氷海の恐怖体験",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Khezu",
@@ -10821,8 +10821,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Lil' Sis Records: Malfestio",
-      "titleJa": "【集Ｇ★３】妹奮闘記～夜鳥退治～",
+      "titleEn": "Lil' Sis Records: Malfestio",
+      "titleJa": "妹奮闘記～夜鳥退治～",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Malfestio",
@@ -11030,8 +11030,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Stray Cat",
-      "titleJa": "【集Ｇ★３】古代林で目撃された迅竜の報告",
+      "titleEn": "Stray Cat",
+      "titleJa": "古代林で目撃された迅竜の報告",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Nargacuga",
@@ -11239,8 +11239,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Amazing Dunes Sand",
-      "titleJa": "【集Ｇ★３】旧砂漠のすばらしい砂",
+      "titleEn": "Amazing Dunes Sand",
+      "titleJa": "旧砂漠のすばらしい砂",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Barroth",
@@ -11436,8 +11436,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Ape Avalanche",
-      "titleJa": "【集Ｇ★３】雪崩を呼ぶ遠吠え",
+      "titleEn": "Ape Avalanche",
+      "titleJa": "雪崩を呼ぶ遠吠え",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Blangonga",
@@ -11627,8 +11627,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Shogun - The Great Escape",
-      "titleJa": "【集Ｇ★３】鎌蟹は逃げ道を狩る",
+      "titleEn": "Shogun - The Great Escape",
+      "titleJa": "鎌蟹は逃げ道を狩る",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Shogun Ceanataur",
@@ -11824,8 +11824,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Mining Lamentations",
-      "titleJa": "【集Ｇ★３】鉱山哀歌",
+      "titleEn": "Mining Lamentations",
+      "titleJa": "鉱山哀歌",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Lavasioth",
@@ -12033,8 +12033,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Surprise Show at the Arena",
-      "titleJa": "【集Ｇ★３】本気の狩りは闘技場の中で",
+      "titleEn": "Surprise Show at the Arena",
+      "titleJa": "本気の狩りは闘技場の中で",
       "location": "V. Slayground",
       "prowler": false,
       "mainObjective": "Hunt a Kecha Wacha and a Nerscylla",
@@ -12242,8 +12242,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Armor Production",
-      "titleJa": "【集Ｇ★３】強い防具は素材から！",
+      "titleEn": "Armor Production",
+      "titleJa": "強い防具は素材から！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -12487,8 +12487,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】White Album",
-      "titleJa": "【集Ｇ★３】狩人のための舞台～遺群嶺～",
+      "titleEn": "White Album",
+      "titleJa": "狩人のための舞台～遺群嶺～",
       "location": "R. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -12647,8 +12647,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】Dream or Vision?",
-      "titleJa": "【集Ｇ★３】夢か現か幻か",
+      "titleEn": "Dream or Vision?",
+      "titleJa": "夢か現か幻か",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -12807,8 +12807,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】UMA Kirin Appears!",
-      "titleJa": "【集Ｇ★３】幻獣、キリン現る！",
+      "titleEn": "UMA Kirin Appears!",
+      "titleJa": "幻獣、キリン現る！",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Slay a Kirin",
@@ -13028,8 +13028,8 @@
       ]
     },
     {
-      "titleEn": "【HubＧ★３】Poisonous Baptism",
-      "titleJa": "【集Ｇ★３】毒の洗礼",
+      "titleEn": "Poisonous Baptism",
+      "titleJa": "毒の洗礼",
       "location": "Marshlands",
       "prowler": true,
       "mainObjective": "Hunt an Iodrome",
@@ -13229,8 +13229,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】Volcanic Vermin",
-      "titleJa": "【集Ｇ★３】火山ウロザミ戦線",
+      "titleEn": "Volcanic Vermin",
+      "titleJa": "火山ウロザミ戦線",
       "location": "Volcano",
       "prowler": true,
       "mainObjective": "Slay 18 in total of Ceanataur and Uroktor",
@@ -13424,8 +13424,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】Lucky Jungle Cat",
-      "titleJa": "【集Ｇ★３】密林のポイント招きネコ",
+      "titleEn": "Lucky Jungle Cat",
+      "titleJa": "密林のポイント招きネコ",
       "location": "Jungle",
       "prowler": true,
       "mainObjective": "Earn 5000 Wycademy Points",
@@ -13595,8 +13595,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【HubＧ★３】Nerscylla Backbreaker!",
-      "titleJa": "【集Ｇ★３】影蜘蛛の背中破壊に挑戦！",
+      "titleEn": "Nerscylla Backbreaker!",
+      "titleJa": "影蜘蛛の背中破壊に挑戦！",
       "location": "P. Forest",
       "prowler": true,
       "mainObjective": "Wound Nerscylla's hide",

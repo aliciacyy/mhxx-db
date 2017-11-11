@@ -1,10 +1,10 @@
 {
   "id": "s1-5",
-  "rank": "★５",
+  "rank": "★ 5",
   "questList": [
     {
-      "titleEn": "【Hub★５】Harvest Tour: Frozen Seaway",
-      "titleJa": "【集★５】氷海の採集ツアー",
+      "titleEn": "Harvest Tour: Frozen Seaway",
+      "titleJa": "氷海の採集ツアー",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -76,8 +76,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Harvest Tour: Volcanic Hollow",
-      "titleJa": "【集★５】地底火山の採集ツアー",
+      "titleEn": "Harvest Tour: Volcanic Hollow",
+      "titleJa": "地底火山の採集ツアー",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -149,8 +149,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Harvest Tour: Deserted Island",
-      "titleJa": "【集★５】孤島の採集ツアー",
+      "titleEn": "Harvest Tour: Deserted Island",
+      "titleJa": "孤島の採集ツアー",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -222,8 +222,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Harvest Tour: Marshlands",
-      "titleJa": "【集★５】沼地の採集ツアー",
+      "titleEn": "Harvest Tour: Marshlands",
+      "titleJa": "沼地の採集ツアー",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -295,8 +295,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Harvest Tour: Volcano",
-      "titleJa": "【集★５】火山の採集ツアー",
+      "titleEn": "Harvest Tour: Volcano",
+      "titleJa": "火山の採集ツアー",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
@@ -368,8 +368,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】So Notable: Kecha Wacha",
-      "titleJa": "【集★５】超☆メモ帳　～奇猿狐狩猟編～",
+      "titleEn": "So Notable: Kecha Wacha",
+      "titleJa": "超☆メモ帳　～奇猿狐狩猟編～",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Hunt 2 Kecha Wacha",
@@ -582,8 +582,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Ancestral Steppe Accounting",
-      "titleJa": "【集★５】遺跡平原の精算アイテム納品",
+      "titleEn": "Ancestral Steppe Accounting",
+      "titleJa": "遺跡平原の精算アイテム納品",
       "location": "A. Steppe",
       "prowler": false,
       "mainObjective": "Earn 4000 Wycademy Points",
@@ -789,8 +789,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Primitive in Pink",
-      "titleJa": "【集★５】桃色大将ババコンガ",
+      "titleEn": "Primitive in Pink",
+      "titleJa": "桃色大将ババコンガ",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Congalala",
@@ -954,8 +954,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Dragon Lady",
-      "titleJa": "【集★５】女王・リオレイアの狩猟",
+      "titleEn": "Dragon Lady",
+      "titleJa": "女王・リオレイアの狩猟",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Rathian",
@@ -1179,8 +1179,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】The Ioprey Leader",
-      "titleJa": "【集★５】イーオスたちの親玉",
+      "titleEn": "The Ioprey Leader",
+      "titleJa": "イーオスたちの親玉",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt an Iodrome",
@@ -1386,8 +1386,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】The Intelligent Malfestio",
-      "titleJa": "【集★５】知性溢れる？　夜鳥狩猟",
+      "titleEn": "The Intelligent Malfestio",
+      "titleJa": "知性溢れる？　夜鳥狩猟",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Malfestio",
@@ -1587,8 +1587,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Serpentine Samba",
-      "titleJa": "【集★５】絞蛇竜は踊り奏でる",
+      "titleEn": "Serpentine Samba",
+      "titleJa": "絞蛇竜は踊り奏でる",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt a Najarala",
@@ -1824,8 +1824,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Spotted Beauty",
-      "titleJa": "【集★５】マダラなアイツにご執心",
+      "titleEn": "Spotted Beauty",
+      "titleJa": "マダラなアイツにご執心",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Hunt 2 Gendrome",
@@ -1989,8 +1989,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Primal Forest Accounting",
-      "titleJa": "【集★５】原生林の精算アイテム納品",
+      "titleEn": "Primal Forest Accounting",
+      "titleJa": "原生林の精算アイテム納品",
       "location": "P. Forest",
       "prowler": false,
       "mainObjective": "Earn 4000 Wycademy Points",
@@ -2226,8 +2226,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Fin Finder",
-      "titleJa": "【集★５】ザボアザギルの狩猟依頼",
+      "titleEn": "Fin Finder",
+      "titleJa": "ザボアザギルの狩猟依頼",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Zamtrios",
@@ -2433,8 +2433,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】The Walls Have Eyes",
-      "titleJa": "【集★５】壁に耳あり、天井に目あり？",
+      "titleEn": "The Walls Have Eyes",
+      "titleJa": "壁に耳あり、天井に目あり？",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt a Khezu",
@@ -2591,8 +2591,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Must Love Lagombi",
-      "titleJa": "【集★５】お姉さまは白兎獣がお好き？",
+      "titleEn": "Must Love Lagombi",
+      "titleJa": "お姉さまは白兎獣がお好き？",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Hunt 2 Lagombi",
@@ -2756,8 +2756,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Zamite Fight",
-      "titleJa": "【集★５】獰猛なる矢尻たち",
+      "titleEn": "Zamite Fight",
+      "titleJa": "獰猛なる矢尻たち",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Slay 20 Zamite",
@@ -2945,8 +2945,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Stone-cold Stones",
-      "titleJa": "【集★５】極寒の地の採掘依頼",
+      "titleEn": "Stone-cold Stones",
+      "titleJa": "極寒の地の採掘依頼",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Deliver 10 Bloodstones",
@@ -3152,8 +3152,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Liver and Let Die",
-      "titleJa": "【集★５】キモ・キモ・キモ！！！",
+      "titleEn": "Liver and Let Die",
+      "titleJa": "キモ・キモ・キモ！！！",
       "location": "F. Seaway",
       "prowler": false,
       "mainObjective": "Deliver 5 Monster Guts",
@@ -3292,8 +3292,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Fight or Uragaan!",
-      "titleJa": "【集★５】脅威！　火山の鉄槌！",
+      "titleEn": "Fight or Uragaan!",
+      "titleJa": "脅威！　火山の鉄槌！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt an Uragaan",
@@ -3493,8 +3493,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Worst. Trip. Ever!",
-      "titleJa": "【集★５】イャンガルルガの洗礼",
+      "titleEn": "Worst. Trip. Ever!",
+      "titleJa": "イャンガルルガの洗礼",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Yian Garuga",
@@ -3700,8 +3700,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Tetsucabra Bounty",
-      "titleJa": "【集★５】馬力、怪力、テツカブラ！",
+      "titleEn": "Tetsucabra Bounty",
+      "titleJa": "馬力、怪力、テツカブラ！",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Hunt a Tetsucabra",
@@ -3907,8 +3907,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Close Coal",
-      "titleJa": "【集★５】燃石炭の納品",
+      "titleEn": "Close Coal",
+      "titleJa": "燃石炭の納品",
       "location": "V. Hollow",
       "prowler": false,
       "mainObjective": "Deliver 20 pieces of Coal",
@@ -4126,8 +4126,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Nargacuga Throwdown",
-      "titleJa": "【集★５】疾き迅竜の狩猟披露",
+      "titleEn": "Nargacuga Throwdown",
+      "titleJa": "疾き迅竜の狩猟披露",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt a Nargacuga",
@@ -4357,8 +4357,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Insomnia? Meet Hypnotism x 2",
-      "titleJa": "【集★５】不眠のあなたに催眠療法×２",
+      "titleEn": "Insomnia? Meet Hypnotism x 2",
+      "titleJa": "不眠のあなたに催眠療法×２",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt 2 Malfestio",
@@ -4553,8 +4553,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Tough Mudder",
-      "titleJa": "【集★５】土砂竜・ボルボロス！",
+      "titleEn": "Tough Mudder",
+      "titleJa": "土砂竜・ボルボロス！",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Barroth",
@@ -4724,8 +4724,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】The Desert Gourmand",
-      "titleJa": "【集★５】砂上のテーブルマナー",
+      "titleEn": "The Desert Gourmand",
+      "titleJa": "砂上のテーブルマナー",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt a Nibelsnarf",
@@ -4913,8 +4913,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Line in the Sand",
-      "titleJa": "【集★５】サンドのメシよりドスガレオス",
+      "titleEn": "Line in the Sand",
+      "titleJa": "サンドのメシよりドスガレオス",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt 2 Cephadrome",
@@ -5042,8 +5042,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Wrath of the Rathian",
-      "titleJa": "【集★５】激闘！　雌火竜リオレイア",
+      "titleEn": "Wrath of the Rathian",
+      "titleJa": "激闘！　雌火竜リオレイア",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Capture a Rathian",
@@ -5267,8 +5267,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Twin Velocidrome",
-      "titleJa": "【集★５】２頭のドスランポス",
+      "titleEn": "Twin Velocidrome",
+      "titleJa": "２頭のドスランポス",
       "location": "V. Hills",
       "prowler": false,
       "mainObjective": "Hunt 2 Velocidrome",
@@ -5432,8 +5432,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】The New Tenant",
-      "titleJa": "【集★５】雪山の主、ドドブランゴ",
+      "titleEn": "The New Tenant",
+      "titleJa": "雪山の主、ドドブランゴ",
       "location": "A. Ridge",
       "prowler": false,
       "mainObjective": "Hunt a Blangonga",
@@ -5640,8 +5640,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】A Plesioth in the Misty Peaks",
-      "titleJa": "【集★５】渓流の水竜",
+      "titleEn": "A Plesioth in the Misty Peaks",
+      "titleJa": "渓流の水竜",
       "location": "M. Peaks",
       "prowler": false,
       "mainObjective": "Hunt a Plesioth",
@@ -5859,8 +5859,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Awful Guest",
-      "titleJa": "【集★５】孤島の迷惑客",
+      "titleEn": "Awful Guest",
+      "titleJa": "孤島の迷惑客",
       "location": "D. Island",
       "prowler": false,
       "mainObjective": "Hunt a Plesioth",
@@ -6011,8 +6011,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Marshland Predator",
-      "titleJa": "【集★５】沼地の捕食者・ネルスキュラ",
+      "titleEn": "Marshland Predator",
+      "titleJa": "沼地の捕食者・ネルスキュラ",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt a Nerscylla",
@@ -6200,8 +6200,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Poisonous Pair",
-      "titleJa": "【集★５】イーオスの親玉たち",
+      "titleEn": "Poisonous Pair",
+      "titleJa": "イーオスの親玉たち",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Hunt 2 Iodrome",
@@ -6365,8 +6365,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Attack of the Giant Bugs!",
-      "titleJa": "【集★５】巨大昆虫、発生！",
+      "titleEn": "Attack of the Giant Bugs!",
+      "titleJa": "巨大昆虫、発生！",
       "location": "Marshlands",
       "prowler": false,
       "mainObjective": "Slay 50 Vespoid",
@@ -6596,8 +6596,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Volcano Adventure",
-      "titleJa": "【集★５】火山の冒険",
+      "titleEn": "Volcano Adventure",
+      "titleJa": "火山の冒険",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Basarios",
@@ -6779,8 +6779,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】You Caught This? I Caught This",
-      "titleJa": "【集★５】溶岩竜ヴォルガノス出現！",
+      "titleEn": "You Caught This? I Caught This",
+      "titleJa": "溶岩竜ヴォルガノス出現！",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Lavasioth",
@@ -6980,8 +6980,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Tumbling Troublemaker",
-      "titleJa": "【集★５】落石注意！？",
+      "titleEn": "Tumbling Troublemaker",
+      "titleJa": "落石注意！？",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Volvidon",
@@ -7205,8 +7205,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Shogun in the Flames",
-      "titleJa": "【集★５】炎の山の大将軍",
+      "titleEn": "Shogun in the Flames",
+      "titleJa": "炎の山の大将軍",
       "location": "Volcano",
       "prowler": false,
       "mainObjective": "Hunt a Shogun Ceanataur",
@@ -7406,8 +7406,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】The Most Dangerous Game",
-      "titleJa": "【集★５】ハンターと玉突き事故",
+      "titleEn": "The Most Dangerous Game",
+      "titleJa": "ハンターと玉突き事故",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Slay 30 Konchu",
@@ -7589,8 +7589,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Status: Effected",
-      "titleJa": "【集★５】毒、麻痺、混乱にご用心！",
+      "titleEn": "Status: Effected",
+      "titleJa": "毒、麻痺、混乱にご用心！",
       "location": "J. Frontier",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -7845,8 +7845,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】Desert Brawlers",
-      "titleJa": "【集★５】熱砂の喧嘩は武器の素",
+      "titleEn": "Desert Brawlers",
+      "titleJa": "熱砂の喧嘩は武器の素",
       "location": "Dunes",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8101,8 +8101,8 @@
       ]
     },
     {
-      "titleEn": "【Hub★５】The Hunter Games",
-      "titleJa": "【集★５】グレート・ハンター・ゲーム",
+      "titleEn": "The Hunter Games",
+      "titleJa": "グレート・ハンター・ゲーム",
       "location": "F. Slayground",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8290,8 +8290,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Hunt, Sweat, and Tears",
-      "titleJa": "【集★５】汗と涙の連続狩猟",
+      "titleEn": "Hunt, Sweat, and Tears",
+      "titleJa": "汗と涙の連続狩猟",
       "location": "Arena",
       "prowler": false,
       "mainObjective": "Hunt all large monsters",
@@ -8533,8 +8533,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Calm, Cool, and Collected",
-      "titleJa": "【集★５】冷徹な吸血鮫",
+      "titleEn": "Calm, Cool, and Collected",
+      "titleJa": "冷徹な吸血鮫",
       "location": "F. Seaway",
       "prowler": true,
       "mainObjective": "Slay 15 Zamite",
@@ -8692,8 +8692,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Kecha Wacha Earbreaker",
-      "titleJa": "【集★５】奇猿狐の耳破壊に挑戦！",
+      "titleEn": "Kecha Wacha Earbreaker",
+      "titleJa": "奇猿狐の耳破壊に挑戦！",
       "location": "A. Steppe",
       "prowler": true,
       "mainObjective": "Wound Kecha Wacha's ears",
@@ -8875,8 +8875,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Fish On!",
-      "titleJa": "【集★５】孤島の釣り合戦！",
+      "titleEn": "Fish On!",
+      "titleJa": "孤島の釣り合戦！",
       "location": "D. Island",
       "prowler": true,
       "mainObjective": "Deliver 3 Silverfish",
@@ -9046,8 +9046,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Lucky Volcano Cat",
-      "titleJa": "【集★５】地底火山のポイント招きネコ",
+      "titleEn": "Lucky Volcano Cat",
+      "titleJa": "地底火山のポイント招きネコ",
       "location": "V. Hollow",
       "prowler": true,
       "mainObjective": "Earn 1800 Wycademy Points",
@@ -9211,8 +9211,8 @@
       "rewardSub": []
     },
     {
-      "titleEn": "【Hub★５】Under the Blazing Sun",
-      "titleJa": "【集★５】炎天下の麻痺牙",
+      "titleEn": "Under the Blazing Sun",
+      "titleJa": "炎天下の麻痺牙",
       "location": "Dunes",
       "prowler": true,
       "mainObjective": "Hunt a Gendrome",
