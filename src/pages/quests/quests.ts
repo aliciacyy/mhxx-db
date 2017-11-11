@@ -13,16 +13,7 @@ export class QuestsPage {
   questItem: any;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, private dataProvider: DataProvider) {
-    this.quests = [];
-
-    this.dataProvider.getFromDatabase()
-    .subscribe(data => {
-      this.questItem = data.json();
-      for (let i = 0; i < this.questItem.length; i++) {
-          this.quests.push(this.questItem[i]);
-        }
-    });
-
+    this.quests = this.dataProvider.getAllHubQuests();
   }
 
   ionViewDidLoad() {

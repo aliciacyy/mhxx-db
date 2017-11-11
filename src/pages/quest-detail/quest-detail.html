@@ -1,53 +1,106 @@
 <ion-header>
 
   <ion-navbar>
-    <ion-title>Quest Detail</ion-title>
+    <ion-title>{{listQuest.titleEn}}</ion-title>
   </ion-navbar>
 
 </ion-header>
 
+<ion-content>
+  <div class="quest-title">
+    <div class="quest-title-ja">{{listQuest.titleJa}}</div>
+    <div class="quest-title-en">{{listQuest.titleEn}}</div>
+  </div>
+  <div class="quest-detail-content">
+    <div class="quest-location"><b>Location</b> <br>
+      <ion-list class="location-list">
+        <button ion-item>
+          {{listQuest.location}}
+        </button>
+      </ion-list>
+    </div>
+    <div class="quest-main"><div><b>Main quest</b></div><div>{{listQuest.mainObjective}}</div></div>
+    <div class="quest-sub"><div><b>Sub quest</b></div><div>{{listQuest.subObjective}}</div></div>
 
-<ion-content padding>
-  <div class="quest-title-ja">{{listQuest.titleJa}}</div>
-  <div class="quest-title-en">{{listQuest.titleEn}}</div>
-  <hr>
-  <div class="quest-location"><b>Location</b> <br>{{listQuest.location}}</div>
-  <div class="quest-main"><b>Main quest</b> <br>{{listQuest.main}}</div>
-  <div class="quest-sub"><b>Sub quest</b> <br>{{listQuest.sub}}</div>
-  <div class="quest-reward-label">Rewards</div>
-  <div class="quest-reward">
-    <div class="quest-header">A</div>
+    <div class="quest-reward-label">Monsters</div>
     <ion-list>
-      <button ion-item *ngFor="let item of listQuest.rewardA">
+      <button ion-item *ngFor="let item of listQuest.monsters">
         {{item.nameJa}} <br>
         {{item.nameEn}}
-        <div class="item-note" item-end>
-          {{item.chance}}%
+        <div *ngIf="item.unstable === true" class="item-note quest-monster-unstable" item-end>
+          <ion-icon name="pulse" item-end></ion-icon>
+        </div>
+        <div class="item-note quest-monster-area" item-end>
+          Area {{item.startArea}}
         </div>
       </button>
     </ion-list>
 
-    <div class="quest-header">B</div>
-    <ion-list>
-      <button ion-item *ngFor="let item of listQuest.rewardB">
-        {{item.nameJa}} <br>
-        {{item.nameEn}}
-        <div class="item-note" item-end>
-          {{item.chance}}%
-        </div>
-      </button>
-    </ion-list>
+    <div class="quest-reward-label">Rewards</div>
+    <div class="quest-reward">
+      <div class="quest-header">A</div>
+      <ion-list>
+        <button ion-item *ngFor="let item of listQuest.rewardA">
+          {{item.nameJa}} <br>
+          {{item.nameEn}}
+          <div class="item-note quest-item-quantity" item-end>
+            {{item.quantity}}
+          </div>
+          <div class="item-note" item-end>
+            {{item.chance}}
+          </div>
+        </button>
+      </ion-list>
 
-    <div class="quest-header">Sub</div>
-    <ion-list>
-      <button ion-item *ngFor="let item of listQuest.subReward">
-        {{item.nameJa}} <br>
-        {{item.nameEn}}
-        <div class="item-note" item-end>
-          {{item.chance}}%
-        </div>
-      </button>
-    </ion-list>
+      <div *ngIf="listQuest.rewardB.length > 0">
+        <div class="quest-header">B</div>
+        <ion-list *ngIf="listQuest.rewardB.length > 0">
+          <button ion-item *ngFor="let item of listQuest.rewardB">
+            {{item.nameJa}} <br>
+            {{item.nameEn}}
+            <div class="item-note quest-item-quantity" item-end>
+              {{item.quantity}}
+            </div>
+            <div class="item-note" item-end>
+              {{item.chance}}
+            </div>
+          </button>
+        </ion-list>
+      </div>
+
+      <div *ngIf="listQuest.rewardC.length > 0">
+        <div class="quest-header">C</div>
+        <ion-list *ngIf="listQuest.rewardC.length > 0">
+          <button ion-item *ngFor="let item of listQuest.rewardB">
+            {{item.nameJa}} <br>
+            {{item.nameEn}}
+            <div class="item-note quest-item-quantity" item-end>
+              {{item.quantity}}
+            </div>
+            <div class="item-note" item-end>
+              {{item.chance}}
+            </div>
+          </button>
+        </ion-list>
+      </div>
+
+      <div *ngIf="listQuest.rewardSub.length > 0">
+        <div class="quest-header">Sub</div>
+        <ion-list>
+          <button ion-item *ngFor="let item of listQuest.rewardSub">
+            {{item.nameJa}} <br>
+            {{item.nameEn}}
+            <div class="item-note quest-item-quantity" item-end>
+              {{item.quantity}}
+            </div>
+            <div class="item-note" item-end>
+              {{item.chance}}
+            </div>
+          </button>
+        </ion-list>
+      </div>
+
+    </div>
   </div>
 
 </ion-content>
