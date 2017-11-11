@@ -1,0 +1,6373 @@
+{
+  "id": "s1-4",
+  "rank": "★４",
+  "questList": [
+    {
+      "titleEn": "【Hub★４】Harvest Tour: A. Steppe",
+      "titleJa": "【集★４】遺跡平原の採集ツアー",
+      "location": "A. Steppe",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Kecha Wacha",
+          "nameJa": "ケチャワチャ",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Harvest Tour: Primal Forest",
+      "titleJa": "【集★４】原生林の採集ツアー",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "6",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Harvest Tour: Jurassic Frontier",
+      "titleJa": "【集★４】古代林の採集ツアー",
+      "location": "J. Frontier",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Yian Kut-Ku",
+          "nameJa": "イャンクック",
+          "startArea": "5",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Harvest Tour: Dunes",
+      "titleJa": "【集★４】旧砂漠の採集ツアー",
+      "location": "Dunes",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Cephadrome",
+          "nameJa": "ドスガレオス",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Harvest Tour: Verdant Hills",
+      "titleJa": "【集★４】森丘の採集ツアー",
+      "location": "V. Hills",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Gypceros",
+          "nameJa": "ゲリョス",
+          "startArea": "2",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Harvest Tour: Arctic Ridge",
+      "titleJa": "【集★４】雪山の採集ツアー",
+      "location": "A. Ridge",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Lagombi",
+          "nameJa": "ウルクスス",
+          "startArea": "8",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Harvest Tour: Misty Peaks",
+      "titleJa": "【集★４】渓流の採集ツアー",
+      "location": "M. Peaks",
+      "prowler": false,
+      "mainObjective": "Survive until time expires or deliver a Paw Pass Ticket",
+      "mainReward": "12z / 0pt / 0HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0",
+      "monsters": [
+        {
+          "nameEn": "Royal Ludroth",
+          "nameJa": "ロアルドロス",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Worm",
+          "nameJa": "釣りミミズ",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Mystery Bone",
+          "nameJa": "なぞの骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Swing into Action",
+      "titleJa": "【集★４】悪戯好きの奇猿狐を狩猟せよ",
+      "location": "A. Steppe",
+      "prowler": false,
+      "mainObjective": "Hunt a Kecha Wacha",
+      "mainReward": "5,100z / 510pt / 330HRP",
+      "subObjective": "Mount and topple monster twice",
+      "subReward": "1,200z / 120pt / 30HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Kecha Wacha",
+          "nameJa": "ケチャワチャ",
+          "startArea": "4",
+          "unstable": false
+        },
+        {
+          "nameEn": "Great Maccao",
+          "nameJa": "ドスマッカォ",
+          "startArea": "3",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Kecha Pelt+",
+          "nameJa": "奇猿狐の剛毛",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Kecha Grandbone",
+          "nameJa": "奇猿狐の堅長骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Kecha Pelt+",
+          "nameJa": "奇猿狐の剛毛",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kecha Talon",
+          "nameJa": "奇猿狐の鉤爪",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kecha Tail",
+          "nameJa": "奇猿狐の尻尾",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Kecha Ear+",
+          "nameJa": "奇猿狐の大耳",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Aqua Sac",
+          "nameJa": "水袋",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Rustshard",
+          "nameJa": "さびた塊",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Kecha Grandbone",
+          "nameJa": "奇猿狐の堅長骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Kecha Pelt+",
+          "nameJa": "奇猿狐の剛毛",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kecha Talon",
+          "nameJa": "奇猿狐の鉤爪",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kecha Tail",
+          "nameJa": "奇猿狐の尻尾",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Kecha Ear+",
+          "nameJa": "奇猿狐の大耳",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Aqua Sac",
+          "nameJa": "水袋",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Ruining the Ruins",
+      "titleJa": "【集★４】遺跡の怪鳥、お邪魔もの",
+      "location": "A. Steppe",
+      "prowler": false,
+      "mainObjective": "Hunt a Yian Kut-Ku",
+      "mainReward": "4,200z / 420pt / 280HRP",
+      "subObjective": "Deliver 1 Large Wyvern Tear",
+      "subReward": "2,700z / 270pt / 30HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Yian Kut-Ku",
+          "nameJa": "イャンクック",
+          "startArea": "3",
+          "unstable": false
+        },
+        {
+          "nameEn": "Great Maccao",
+          "nameJa": "ドスマッカォ",
+          "startArea": "3",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Kut-Ku Carapace",
+          "nameJa": "怪鳥の堅殻",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Kut-Ku Scale+",
+          "nameJa": "怪鳥の上鱗",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Inferno Sac",
+          "nameJa": "爆炎袋",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Kut-Ku Carapace",
+          "nameJa": "怪鳥の堅殻",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kut-Ku Webbing",
+          "nameJa": "怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Splendid Beak",
+          "nameJa": "立派なクチバシ",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Kut-Ku Scale",
+          "nameJa": "怪鳥の鱗",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Fang",
+          "nameJa": "竜の牙",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Claw",
+          "nameJa": "竜の爪",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "9%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Kut-Ku Scale+",
+          "nameJa": "怪鳥の上鱗",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Inferno Sac",
+          "nameJa": "爆炎袋",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Kut-Ku Carapace",
+          "nameJa": "怪鳥の堅殻",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kut-Ku Webbing",
+          "nameJa": "怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Splendid Beak",
+          "nameJa": "立派なクチバシ",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Kut-Ku Scale",
+          "nameJa": "怪鳥の鱗",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Bag the Bounding Bandit",
+      "titleJa": "【集★４】ドス来い！　遺跡平原の跳狗竜",
+      "location": "A. Steppe",
+      "prowler": false,
+      "mainObjective": "Capture a Great Maccao",
+      "mainReward": "3,600z / 360pt / 170HRP",
+      "subObjective": "Slay 12 Maccao",
+      "subReward": "1,500z / 150pt / 20HRP",
+      "fail": "Reward hits 0, time expires, or capture target slain",
+      "monsters": [
+        {
+          "nameEn": "Great Maccao",
+          "nameJa": "ドスマッカォ",
+          "startArea": "3",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "G.Maccao Hide+",
+          "nameJa": "跳狗竜の上赤皮",
+          "quantity": "x1",
+          "chance": "28%"
+        },
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Maccao Tailspike",
+          "nameJa": "跳狗竜の尾棘",
+          "quantity": "x1",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "Champion's Crest",
+          "nameJa": "王者の冠羽",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Maccao Scale+",
+          "nameJa": "マッカォの上鱗",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Godbug",
+          "nameJa": "不死虫",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bitterbug",
+          "nameJa": "にが虫",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunder Ambrosia",
+          "nameJa": "雷の蜜餌",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "32%"
+        },
+        {
+          "nameEn": "Maccao Scale+",
+          "nameJa": "マッカォの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x6",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "Maccao Hide",
+          "nameJa": "マッカォの皮",
+          "quantity": "x4",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Maccao Scale+",
+          "nameJa": "マッカォの上鱗",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x10",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Jaggi of the Steppe",
+      "titleJa": "【集★４】遺跡平原の狗竜達",
+      "location": "A. Steppe",
+      "prowler": false,
+      "mainObjective": "Slay a total of 20 Jaggia or Jaggi",
+      "mainReward": "2,700z / 270pt / 120HRP",
+      "subObjective": "Wound Kecha Wacha's ears",
+      "subReward": "1,200z / 120pt / 10HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Kecha Wacha",
+          "nameJa": "ケチャワチャ",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Jaggi Scale+",
+          "nameJa": "ジャギィの上鱗",
+          "quantity": "x2",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "24%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x10",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Jaggi Scale+",
+          "nameJa": "ジャギィの上鱗",
+          "quantity": "x4",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Jaggi Hide",
+          "nameJa": "ジャギィの皮",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x6",
+          "chance": "4%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Jaggi Scale+",
+          "nameJa": "ジャギィの上鱗",
+          "quantity": "x2",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "32%"
+        },
+        {
+          "nameEn": "Jaggi Scale+",
+          "nameJa": "ジャギィの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x6",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "Jaggi Hide",
+          "nameJa": "ジャギィの皮",
+          "quantity": "x4",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Jaggi Scale+",
+          "nameJa": "ジャギィの上鱗",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x10",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Kecha Grandbone",
+          "nameJa": "奇猿狐の堅長骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Kecha Pelt+",
+          "nameJa": "奇猿狐の剛毛",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kecha Talon",
+          "nameJa": "奇猿狐の鉤爪",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kecha Tail",
+          "nameJa": "奇猿狐の尻尾",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Kecha Ear+",
+          "nameJa": "奇猿狐の大耳",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Aqua Sac",
+          "nameJa": "水袋",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Ancestral Steppe Fungus Run",
+      "titleJa": "【集★４】遺跡平原でキノコ狩り",
+      "location": "A. Steppe",
+      "prowler": false,
+      "mainObjective": "Deliver 20 Unique Mushrooms",
+      "mainReward": "2,100z / 210pt / 120HRP",
+      "subObjective": "Hunt a Seltas",
+      "subReward": "3,000z / 300pt / 160HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "4",
+          "unstable": false
+        },
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "7",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x3",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x3",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Parashroom",
+          "nameJa": "マヒダケ",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Exciteshroom",
+          "nameJa": "ドキドキノコ",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Dragon Toadstool",
+          "nameJa": "マンドラゴラ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Toadstool",
+          "nameJa": "毒テングダケ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Parashroom",
+          "nameJa": "マヒダケ",
+          "quantity": "x3",
+          "chance": "10%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Godbug",
+          "nameJa": "不死虫",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bitterbug",
+          "nameJa": "にが虫",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunder Ambrosia",
+          "nameJa": "雷の蜜餌",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "50%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Seltas Innerwing",
+          "nameJa": "徹甲虫の薄羽",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Seltas Carapace",
+          "nameJa": "徹甲虫の堅殻",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Seltas Horn+",
+          "nameJa": "徹甲虫の尖角",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Bug Appétit",
+      "titleJa": "【集★４】美味との遭遇？",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Hunt a Seltas",
+      "mainReward": "3,000z / 300pt / 160HRP",
+      "subObjective": "Slay 10 Konchu",
+      "subReward": "900z / 90pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "5",
+          "unstable": false
+        },
+        {
+          "nameEn": "Velocidrome",
+          "nameJa": "ドスランポス",
+          "startArea": "6",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Seltas Carapace",
+          "nameJa": "徹甲虫の堅殻",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Seltas Innerwing",
+          "nameJa": "徹甲虫の薄羽",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Seltas Horn+",
+          "nameJa": "徹甲虫の尖角",
+          "quantity": "x1",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Seltas Carapace",
+          "nameJa": "徹甲虫の堅殻",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "8%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Hercudrome",
+          "nameJa": "ドスヘラクレス",
+          "quantity": "x1",
+          "chance": "11%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Flashbug",
+          "nameJa": "光蟲",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Fire Ambrosia",
+          "nameJa": "火の蜜餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Konchu Carapace",
+          "nameJa": "盾虫の堅殻",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Konchu Shell",
+          "nameJa": "盾虫の甲殻",
+          "quantity": "x3",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Konchu Carapace",
+          "nameJa": "盾虫の堅殻",
+          "quantity": "x3",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x3",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x3",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x3",
+          "chance": "6%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Gendrome Roadblock",
+      "titleJa": "【集★４】ドスゲネポスを狩れ！",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Hunt a Gendrome",
+      "mainReward": "3,000z / 300pt / 180HRP",
+      "subObjective": "Slay 12 Genprey",
+      "subReward": "1,500z / 150pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "6",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Gendrome Hide+",
+          "nameJa": "ゲネポスの大上皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Gendrome Fang+",
+          "nameJa": "ゲネポスの大尖牙",
+          "quantity": "x1",
+          "chance": "23%"
+        },
+        {
+          "nameEn": "Gendrome Hide+",
+          "nameJa": "ゲネポスの大上皮",
+          "quantity": "x1",
+          "chance": "16%"
+        },
+        {
+          "nameEn": "Omniplegia Sac",
+          "nameJa": "強力麻痺袋",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x3",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Gendrome Head",
+          "nameJa": "ドスゲネポスの頭",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Genprey Scale+",
+          "nameJa": "ゲネポスの上鱗",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Genprey Hide+",
+          "nameJa": "ゲネポスの上皮",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Omniplegia Sac",
+          "nameJa": "強力麻痺袋",
+          "quantity": "x2",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Hercudrome",
+          "nameJa": "ドスヘラクレス",
+          "quantity": "x1",
+          "chance": "11%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Flashbug",
+          "nameJa": "光蟲",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Fire Ambrosia",
+          "nameJa": "火の蜜餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Genprey Fang",
+          "nameJa": "ゲネポスの麻痺牙",
+          "quantity": "x4",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Genprey Scale+",
+          "nameJa": "ゲネポスの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x3",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Genprey Hide+",
+          "nameJa": "ゲネポスの上皮",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Genprey Fang",
+          "nameJa": "ゲネポスの麻痺牙",
+          "quantity": "x10",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Genprey Scale+",
+          "nameJa": "ゲネポスの上鱗",
+          "quantity": "x4",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Genprey Hide+",
+          "nameJa": "ゲネポスの上皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Genprey Fang",
+          "nameJa": "ゲネポスの麻痺牙",
+          "quantity": "x20",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Lost in the Primal Forest",
+      "titleJa": "【集★４】盗まれて原生林！",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Hunt a Gypceros",
+      "mainReward": "5,100z / 510pt / 330HRP",
+      "subObjective": "Mount and topple monster twice",
+      "subReward": "1,200z / 120pt / 30HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Gypceros",
+          "nameJa": "ゲリョス",
+          "startArea": "8",
+          "unstable": false
+        },
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "6",
+          "unstable": true
+        },
+        {
+          "nameEn": "Velocidrome",
+          "nameJa": "ドスランポス",
+          "startArea": "6",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Rubbery Hide+",
+          "nameJa": "ゴム質の上皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Gypceros Wing",
+          "nameJa": "毒怪鳥の翼",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Toxin Sac",
+          "nameJa": "猛毒袋",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Rubbery Hide+",
+          "nameJa": "ゴム質の上皮",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Dash Extract",
+          "nameJa": "狂走エキス",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Webbing",
+          "nameJa": "毒怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Head",
+          "nameJa": "毒怪鳥の頭",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Novacrystal",
+          "nameJa": "ノヴァクリスタル",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Fang",
+          "nameJa": "竜の牙",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Claw",
+          "nameJa": "竜の爪",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "9%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Gypceros Wing",
+          "nameJa": "毒怪鳥の翼",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Toxin Sac",
+          "nameJa": "猛毒袋",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Rubbery Hide+",
+          "nameJa": "ゴム質の上皮",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Dash Extract",
+          "nameJa": "狂走エキス",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Webbing",
+          "nameJa": "毒怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Head",
+          "nameJa": "毒怪鳥の頭",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Novacrystal",
+          "nameJa": "ノヴァクリスタル",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Hunt Down the Velocidrome!",
+      "titleJa": "【集★４】ドスランポスを狩猟せよ！",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Hunt a Velocidrome",
+      "mainReward": "2,700z / 270pt / 140HRP",
+      "subObjective": "Slay 12 Velociprey",
+      "subReward": "1,500z / 150pt / 10HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Velocidrome",
+          "nameJa": "ドスランポス",
+          "startArea": "6",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Velocidrome Hide+",
+          "nameJa": "ランポスの大上皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Velocidrome Claw+",
+          "nameJa": "ランポスの大尖爪",
+          "quantity": "x1",
+          "chance": "23%"
+        },
+        {
+          "nameEn": "Velocidrome Hide+",
+          "nameJa": "ランポスの大上皮",
+          "quantity": "x1",
+          "chance": "16%"
+        },
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Velocidrome Head",
+          "nameJa": "ドスランポスの頭",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Velociprey Scale+",
+          "nameJa": "ランポスの上鱗",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Velociprey Hide+",
+          "nameJa": "ランポスの上皮",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x4",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Hercudrome",
+          "nameJa": "ドスヘラクレス",
+          "quantity": "x1",
+          "chance": "11%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Flashbug",
+          "nameJa": "光蟲",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Fire Ambrosia",
+          "nameJa": "火の蜜餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Velociprey Scale+",
+          "nameJa": "ランポスの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Velociprey Hide+",
+          "nameJa": "ランポスの上皮",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x6",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Velociprey Scale+",
+          "nameJa": "ランポスの上鱗",
+          "quantity": "x4",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Velociprey Hide+",
+          "nameJa": "ランポスの上皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Bird Wyvern Fang",
+          "nameJa": "鳥竜種の牙",
+          "quantity": "x10",
+          "chance": "3%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Poison Paralysis Pinch",
+      "titleJa": "【集★４】ドクターの毒×麻痺毒研究",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Slay a total of 20 Ioprey or Genprey",
+      "mainReward": "2,700z / 270pt / 120HRP",
+      "subObjective": "Deliver 5 Slagtoth Oils",
+      "subReward": "600z / 60pt / 10HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Ioprey Hide+",
+          "nameJa": "イーオスの上皮",
+          "quantity": "x2",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Ioprey Fang",
+          "nameJa": "イーオスの毒牙",
+          "quantity": "x3",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Ioprey Scale+",
+          "nameJa": "イーオスの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x4",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Ioprey Hide+",
+          "nameJa": "イーオスの上皮",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Ioprey Fang",
+          "nameJa": "イーオスの毒牙",
+          "quantity": "x6",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Ioprey Scale+",
+          "nameJa": "イーオスの上鱗",
+          "quantity": "x4",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Ioprey Hide+",
+          "nameJa": "イーオスの上皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Ioprey Fang",
+          "nameJa": "イーオスの毒牙",
+          "quantity": "x15",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Genprey Hide+",
+          "nameJa": "ゲネポスの上皮",
+          "quantity": "x2",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Genprey Fang",
+          "nameJa": "ゲネポスの麻痺牙",
+          "quantity": "x4",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Genprey Scale+",
+          "nameJa": "ゲネポスの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x3",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Genprey Hide+",
+          "nameJa": "ゲネポスの上皮",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Genprey Fang",
+          "nameJa": "ゲネポスの麻痺牙",
+          "quantity": "x10",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Genprey Scale+",
+          "nameJa": "ゲネポスの上鱗",
+          "quantity": "x4",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Genprey Hide+",
+          "nameJa": "ゲネポスの上皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Genprey Fang",
+          "nameJa": "ゲネポスの麻痺牙",
+          "quantity": "x20",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Slagtoth Hide+",
+          "nameJa": "垂皮竜の上皮",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x3",
+          "chance": "22%"
+        },
+        {
+          "nameEn": "Monster Bone M",
+          "nameJa": "竜骨【中】",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Parashroom",
+          "nameJa": "マヒダケ",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Slagtoth Hide+",
+          "nameJa": "垂皮竜の上皮",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Crystal Bone Collector",
+      "titleJa": "【集★４】竜骨結晶の納品",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Deliver 10 Crystal Bones",
+      "mainReward": "2,400z / 240pt / 120HRP",
+      "subObjective": "Slay 10 Ioprey",
+      "subReward": "1,200z / 120pt / 10HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "6",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "4",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Whetstone",
+          "nameJa": "砥石",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Earth Crystal",
+          "nameJa": "大地の結晶",
+          "quantity": "x2",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Lightcrystal",
+          "nameJa": "ライトクリスタル",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Novacrystal",
+          "nameJa": "ノヴァクリスタル",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Hercudrome",
+          "nameJa": "ドスヘラクレス",
+          "quantity": "x1",
+          "chance": "11%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Flashbug",
+          "nameJa": "光蟲",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Fire Ambrosia",
+          "nameJa": "火の蜜餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Ioprey Fang",
+          "nameJa": "イーオスの毒牙",
+          "quantity": "x3",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Ioprey Scale+",
+          "nameJa": "イーオスの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x4",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Ioprey Hide+",
+          "nameJa": "イーオスの上皮",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Ioprey Fang",
+          "nameJa": "イーオスの毒牙",
+          "quantity": "x6",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Ioprey Scale+",
+          "nameJa": "イーオスの上鱗",
+          "quantity": "x4",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Ioprey Hide+",
+          "nameJa": "イーオスの上皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Ioprey Fang",
+          "nameJa": "イーオスの毒牙",
+          "quantity": "x15",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Hair of the Dog",
+      "titleJa": "【集★４】良薬作りに必要なもの",
+      "location": "P. Forest",
+      "prowler": false,
+      "mainObjective": "Deliver 10 Slagtoth Oils",
+      "mainReward": "2,700z / 270pt / 120HRP",
+      "subObjective": "Deliver 1 Drone Substance",
+      "subReward": "600z / 60pt / 10HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "5",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Slagtoth Hide+",
+          "nameJa": "垂皮竜の上皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Slagtoth Hide+",
+          "nameJa": "垂皮竜の上皮",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x3",
+          "chance": "22%"
+        },
+        {
+          "nameEn": "Monster Bone M",
+          "nameJa": "竜骨【中】",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Parashroom",
+          "nameJa": "マヒダケ",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Slagtoth Hide+",
+          "nameJa": "垂皮竜の上皮",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Hercudrome",
+          "nameJa": "ドスヘラクレス",
+          "quantity": "x1",
+          "chance": "11%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Flashbug",
+          "nameJa": "光蟲",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Fire Ambrosia",
+          "nameJa": "火の蜜餌",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Seltas Innerwing",
+          "nameJa": "徹甲虫の薄羽",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Seltas Horn+",
+          "nameJa": "徹甲虫の尖角",
+          "quantity": "x1",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Seltas Carapace",
+          "nameJa": "徹甲虫の堅殻",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "8%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Tackling the Tetsucabra",
+      "titleJa": "【集★４】鬼蛙テツカブラの狩猟",
+      "location": "J. Frontier",
+      "prowler": false,
+      "mainObjective": "Hunt a Tetsucabra",
+      "mainReward": "6,000z / 600pt / 350HRP",
+      "subObjective": "Deliver 3 Ancient Berries",
+      "subReward": "600z / 60pt / 40HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Tetsucabra",
+          "nameJa": "テツカブラ",
+          "startArea": "3",
+          "unstable": false
+        },
+        {
+          "nameEn": "Yian Kut-Ku",
+          "nameJa": "イャンクック",
+          "startArea": "5",
+          "unstable": true
+        },
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "2",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Tetsucabra Carap.",
+          "nameJa": "鬼蛙の堅殻",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Tetsucabra Scale+",
+          "nameJa": "鬼蛙の上鱗",
+          "quantity": "x1",
+          "chance": "24%"
+        },
+        {
+          "nameEn": "Tetsucabra Claw+",
+          "nameJa": "鬼蛙の尖爪",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Paddock Oil+",
+          "nameJa": "カワズの殿油",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Tetsucabra Carap.",
+          "nameJa": "鬼蛙の堅殻",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Dignified Skull",
+          "nameJa": "厳めしい頭骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Tetsucabra Tusks+",
+          "nameJa": "鬼蛙の巨大牙",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x2",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Paddock Oil",
+          "nameJa": "カワズの油",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Rustshard",
+          "nameJa": "さびた塊",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x4",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Larinoth Hide",
+          "nameJa": "首鳴竜の皮",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Larinoth Hide",
+          "nameJa": "首鳴竜の皮",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Nulberry",
+          "nameJa": "ウチケシの実",
+          "quantity": "x5",
+          "chance": "10%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】So Notable: Great Maccao",
+      "titleJa": "【集★４】超☆メモ帳　～跳狗竜狩猟編～",
+      "location": "J. Frontier",
+      "prowler": false,
+      "mainObjective": "Hunt 2 Great Maccao",
+      "mainReward": "3,900z / 390pt / 220HRP",
+      "subObjective": "Wound Great Maccao's head",
+      "subReward": "1,200z / 120pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Great Maccao",
+          "nameJa": "ドスマッカォ",
+          "startArea": "5",
+          "unstable": false
+        },
+        {
+          "nameEn": "Great Maccao",
+          "nameJa": "ドスマッカォ",
+          "startArea": "3",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "G.Maccao Hide+",
+          "nameJa": "跳狗竜の上赤皮",
+          "quantity": "x1",
+          "chance": "28%"
+        },
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Maccao Tailspike",
+          "nameJa": "跳狗竜の尾棘",
+          "quantity": "x1",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "Champion's Crest",
+          "nameJa": "王者の冠羽",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Maccao Scale+",
+          "nameJa": "マッカォの上鱗",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "G.Maccao Hide+",
+          "nameJa": "跳狗竜の上赤皮",
+          "quantity": "x1",
+          "chance": "28%"
+        },
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Maccao Tailspike",
+          "nameJa": "跳狗竜の尾棘",
+          "quantity": "x1",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "Champion's Crest",
+          "nameJa": "王者の冠羽",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Maccao Scale+",
+          "nameJa": "マッカォの上鱗",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "G.Maccao Hide+",
+          "nameJa": "跳狗竜の上赤皮",
+          "quantity": "x1",
+          "chance": "28%"
+        },
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Maccao Tailspike",
+          "nameJa": "跳狗竜の尾棘",
+          "quantity": "x1",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "Champion's Crest",
+          "nameJa": "王者の冠羽",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Maccao Scale+",
+          "nameJa": "マッカォの上鱗",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】The Land Sharq",
+      "titleJa": "【集★４】大地を泳ぐモンスター",
+      "location": "Dunes",
+      "prowler": false,
+      "mainObjective": "Hunt a Cephadrome",
+      "mainReward": "3,900z / 390pt / 200HRP",
+      "subObjective": "Deliver 5 Piscine Livers",
+      "subReward": "1,500z / 150pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Cephadrome",
+          "nameJa": "ドスガレオス",
+          "startArea": "7",
+          "unstable": false
+        },
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "10",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Cephalos Scale+",
+          "nameJa": "砂竜の上鱗",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Cephalos Scale+",
+          "nameJa": "砂竜の上鱗",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Cephalos Fang+",
+          "nameJa": "砂竜の鋭牙",
+          "quantity": "x1",
+          "chance": "22%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "16%"
+        },
+        {
+          "nameEn": "Cephalos Fin+",
+          "nameJa": "砂竜の上ヒレ",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Wyvern Fang",
+          "nameJa": "竜の牙",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Claw",
+          "nameJa": "竜の爪",
+          "quantity": "x6",
+          "chance": "10%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Fire Ambrosia",
+          "nameJa": "火の蜜餌",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Hot Pepper",
+          "nameJa": "トウガラシ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Ice Crystal",
+          "nameJa": "氷結晶",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Gloamgrass Root",
+          "nameJa": "落陽草の根",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Machalite Ore",
+          "nameJa": "マカライト鉱石",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "King Scarab",
+          "nameJa": "王族カナブン",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x2",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "40%"
+        },
+        {
+          "nameEn": "Cephalos Scale+",
+          "nameJa": "砂竜の上鱗",
+          "quantity": "x1",
+          "chance": "35%"
+        },
+        {
+          "nameEn": "Bomb Arowana",
+          "nameJa": "バクレツアロワナ",
+          "quantity": "x4",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Burst Arowana",
+          "nameJa": "ハレツアロワナ",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Cephalos Fin+",
+          "nameJa": "砂竜の上ヒレ",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Shells of Steel",
+      "titleJa": "【集★４】鉄壁の盾蟹",
+      "location": "Dunes",
+      "prowler": false,
+      "mainObjective": "Hunt a Daimyo Hermitaur",
+      "mainReward": "6,000z / 600pt / 350HRP",
+      "subObjective": "Slay 10 Hermitaurs",
+      "subReward": "1,800z / 180pt / 40HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Daimyo Hermitaur",
+          "nameJa": "ダイミョウザザミ",
+          "startArea": "3",
+          "unstable": false
+        },
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "10",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Hermitaur Carap.",
+          "nameJa": "盾蟹の堅殻",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Hermitaur Carap.",
+          "nameJa": "盾蟹の堅殻",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Black Pearl",
+          "nameJa": "黒真珠",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x2",
+          "chance": "16%"
+        },
+        {
+          "nameEn": "Hermitaur Claw+",
+          "nameJa": "盾蟹の尖爪",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Dec. Crimson Horn",
+          "nameJa": "朽ちた真紅の角",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Glutton Tuna",
+          "nameJa": "大食いマグロ",
+          "quantity": "x3",
+          "chance": "8%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Fang",
+          "nameJa": "竜の牙",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Claw",
+          "nameJa": "竜の爪",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "9%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x4",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Sm. Hermitaur Shl",
+          "nameJa": "盾蟹の小殻",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Monster Bone S",
+          "nameJa": "竜骨【小】",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Sm. Hermitaur Shl",
+          "nameJa": "盾蟹の小殻",
+          "quantity": "x4",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Black Pearl",
+          "nameJa": "黒真珠",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Birds of a Feather",
+      "titleJa": "【集★４】迷惑な怪鳥と毒怪鳥",
+      "location": "V. Hills",
+      "prowler": false,
+      "mainObjective": "Hunt a Yian Kut-Ku and a Gypceros",
+      "mainReward": "6,600z / 660pt / 490HRP",
+      "subObjective": "Deliver 1 Large Wyvern Tear",
+      "subReward": "2,700z / 270pt / 50HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Yian Kut-Ku",
+          "nameJa": "イャンクック",
+          "startArea": "9",
+          "unstable": false
+        },
+        {
+          "nameEn": "Gypceros",
+          "nameJa": "ゲリョス",
+          "startArea": "2",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Kut-Ku Carapace",
+          "nameJa": "怪鳥の堅殻",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Kut-Ku Scale+",
+          "nameJa": "怪鳥の上鱗",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Inferno Sac",
+          "nameJa": "爆炎袋",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "13%"
+        },
+        {
+          "nameEn": "Kut-Ku Carapace",
+          "nameJa": "怪鳥の堅殻",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Kut-Ku Webbing",
+          "nameJa": "怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Splendid Beak",
+          "nameJa": "立派なクチバシ",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Kut-Ku Scale",
+          "nameJa": "怪鳥の鱗",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Rubbery Hide+",
+          "nameJa": "ゴム質の上皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Gypceros Wing",
+          "nameJa": "毒怪鳥の翼",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Toxin Sac",
+          "nameJa": "猛毒袋",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Rubbery Hide+",
+          "nameJa": "ゴム質の上皮",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Dash Extract",
+          "nameJa": "狂走エキス",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Webbing",
+          "nameJa": "毒怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Head",
+          "nameJa": "毒怪鳥の頭",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Novacrystal",
+          "nameJa": "ノヴァクリスタル",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ],
+      "rewardC": [
+        {
+          "nameEn": "Commendation",
+          "nameJa": "勇気の証",
+          "quantity": "x1",
+          "chance": "100%"
+        }
+      ],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Fang",
+          "nameJa": "竜の牙",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Claw",
+          "nameJa": "竜の爪",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "9%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Bullfango Brigade",
+      "titleJa": "【集★４】ブルファンゴたちの大集会",
+      "location": "V. Hills",
+      "prowler": false,
+      "mainObjective": "Slay 20 Bullfango",
+      "mainReward": "3,000z / 300pt / 120HRP",
+      "subObjective": "Hunt a Gypceros",
+      "subReward": "5,100z / 510pt / 330HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Gypceros",
+          "nameJa": "ゲリョス",
+          "startArea": "2",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Bullfango Pelt+",
+          "nameJa": "ファンゴの上毛皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Bullfango Pelt+",
+          "nameJa": "ファンゴの上毛皮",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bullfango Head",
+          "nameJa": "ファンゴの頭",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bullfango Pelt",
+          "nameJa": "ファンゴの毛皮",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x4",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bullfango Pelt+",
+          "nameJa": "ファンゴの上毛皮",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Herb",
+          "nameJa": "薬草",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Thunder Ambrosia",
+          "nameJa": "雷の蜜餌",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Godbug",
+          "nameJa": "不死虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x2",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Gypceros Wing",
+          "nameJa": "毒怪鳥の翼",
+          "quantity": "x1",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Toxin Sac",
+          "nameJa": "猛毒袋",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Rubbery Hide+",
+          "nameJa": "ゴム質の上皮",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Dash Extract",
+          "nameJa": "狂走エキス",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Webbing",
+          "nameJa": "毒怪鳥の翼膜",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gypceros Head",
+          "nameJa": "毒怪鳥の頭",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Novacrystal",
+          "nameJa": "ノヴァクリスタル",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Delicious White Livers",
+      "titleJa": "【集★４】肴のキモはホワイトレバー",
+      "location": "V. Hills",
+      "prowler": false,
+      "mainObjective": "Deliver 3 White Livers",
+      "mainReward": "2,100z / 210pt / 120HRP",
+      "subObjective": "Slay 6 Kelbi",
+      "subReward": "600z / 60pt / 10HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Yian Kut-Ku",
+          "nameJa": "イャンクック",
+          "startArea": "9",
+          "unstable": false
+        },
+        {
+          "nameEn": "Yian Kut-Ku",
+          "nameJa": "イャンクック",
+          "startArea": "4",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Kelbi Horn",
+          "nameJa": "ケルビの角",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Kelbi Horn",
+          "nameJa": "ケルビの角",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Health Flute",
+          "nameJa": "回復笛",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Warm Pelt",
+          "nameJa": "暖かい毛皮",
+          "quantity": "x4",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Field Horn",
+          "nameJa": "角笛",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Nulberry",
+          "nameJa": "ウチケシの実",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Kelbi Horn",
+          "nameJa": "ケルビの角",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Herb",
+          "nameJa": "薬草",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Thunder Ambrosia",
+          "nameJa": "雷の蜜餌",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Godbug",
+          "nameJa": "不死虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Speed Jelly",
+          "nameJa": "速の成長餌",
+          "quantity": "x2",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "17%"
+        },
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Warm Pelt",
+          "nameJa": "暖かい毛皮",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Health Flute",
+          "nameJa": "回復笛",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Nulberry",
+          "nameJa": "ウチケシの実",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Field Horn",
+          "nameJa": "角笛",
+          "quantity": "x1",
+          "chance": "10%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】The Bulldrome Charges",
+      "titleJa": "【集★４】猪突猛進！　ドスファンゴ",
+      "location": "A. Ridge",
+      "prowler": false,
+      "mainObjective": "Hunt a Bulldrome",
+      "mainReward": "3,000z / 300pt / 160HRP",
+      "subObjective": "Slay 10 Giaprey",
+      "subReward": "1,200z / 120pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Bulldrome",
+          "nameJa": "ドスファンゴ",
+          "startArea": "7",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Bulldrome Hide+",
+          "nameJa": "大猪の硬い皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Bulldrome Tusk+",
+          "nameJa": "大猪の大牙",
+          "quantity": "x1",
+          "chance": "28%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bulldrome Hide+",
+          "nameJa": "大猪の硬い皮",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Bulldrome Tusk",
+          "nameJa": "大猪の牙",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Brute Bone",
+          "nameJa": "獣骨",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bullfango Head",
+          "nameJa": "ファンゴの頭",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Rustshard",
+          "nameJa": "さびた塊",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Giaprey Scale+",
+          "nameJa": "ギアノスの上鱗",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Giaprey Hide+",
+          "nameJa": "ギアノスの上皮",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Ice Crystal",
+          "nameJa": "氷結晶",
+          "quantity": "x6",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Paintberry",
+          "nameJa": "ペイントの実",
+          "quantity": "x8",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Giaprey Scale+",
+          "nameJa": "ギアノスの上鱗",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Giaprey Hide+",
+          "nameJa": "ギアノスの上皮",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Monster Bone S",
+          "nameJa": "竜骨【小】",
+          "quantity": "x8",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x4",
+          "chance": "4%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】A Strong Enemy Appears!",
+      "titleJa": "【集★４】強敵、ドスギアノス現る！",
+      "location": "A. Ridge",
+      "prowler": false,
+      "mainObjective": "Hunt a Giadrome",
+      "mainReward": "3,000z / 300pt / 180HRP",
+      "subObjective": "Deliver 1 Large Wyvern Tear",
+      "subReward": "2,700z / 270pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Giadrome",
+          "nameJa": "ドスギアノス",
+          "startArea": "7",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Giadrome Hide+",
+          "nameJa": "ギアノスの大上皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Giadrome Hide+",
+          "nameJa": "ギアノスの大上皮",
+          "quantity": "x1",
+          "chance": "22%"
+        },
+        {
+          "nameEn": "Giaprey Claw+",
+          "nameJa": "ギアノスの大尖爪",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Giaprey Hide+",
+          "nameJa": "ギアノスの上皮",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Giadrome Head",
+          "nameJa": "ドスギアノスの頭",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Giaprey Scale+",
+          "nameJa": "ギアノスの上鱗",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Gloamgrass Root",
+          "nameJa": "落陽草の根",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "King Scarab",
+          "nameJa": "王族カナブン",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Ice Ambrosia",
+          "nameJa": "氷の蜜餌",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Sleep Herb",
+          "nameJa": "ネムリ草",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Snow Herb",
+          "nameJa": "霜ふり草",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Ice Crystal",
+          "nameJa": "氷結晶",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Stone",
+          "nameJa": "石ころ",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Power Jelly",
+          "nameJa": "力の成長餌",
+          "quantity": "x2",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "2%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Screamer Sac",
+          "nameJa": "鳴き袋",
+          "quantity": "x2",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Giadrome Hide+",
+          "nameJa": "ギアノスの大上皮",
+          "quantity": "x1",
+          "chance": "22%"
+        },
+        {
+          "nameEn": "Giaprey Claw+",
+          "nameJa": "ギアノスの大尖爪",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Giaprey Hide+",
+          "nameJa": "ギアノスの上皮",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Giadrome Head",
+          "nameJa": "ドスギアノスの頭",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Avian Finebone",
+          "nameJa": "上質な鳥竜骨",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Giaprey Scale+",
+          "nameJa": "ギアノスの上鱗",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Snow with Occasional Lagombi",
+      "titleJa": "【集★４】雪のちウルクスス",
+      "location": "A. Ridge",
+      "prowler": false,
+      "mainObjective": "Hunt a Lagombi",
+      "mainReward": "4,200z / 420pt / 200HRP",
+      "subObjective": "Slay 8 Anteka",
+      "subReward": "900z / 90pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Lagombi",
+          "nameJa": "ウルクスス",
+          "startArea": "8",
+          "unstable": false
+        },
+        {
+          "nameEn": "Bulldrome",
+          "nameJa": "ドスファンゴ",
+          "startArea": "7",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "6",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Lagombi Pelt+",
+          "nameJa": "白兎獣の剛毛",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Lagombi Plastron+",
+          "nameJa": "白兎獣の堅腹甲",
+          "quantity": "x1",
+          "chance": "26%"
+        },
+        {
+          "nameEn": "Lagombi Frozenclaw",
+          "nameJa": "白兎獣の凍爪",
+          "quantity": "x1",
+          "chance": "22%"
+        },
+        {
+          "nameEn": "Lagombi Pelt+",
+          "nameJa": "白兎獣の剛毛",
+          "quantity": "x1",
+          "chance": "16%"
+        },
+        {
+          "nameEn": "Lagombi Ear+",
+          "nameJa": "白兎獣の大耳",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Lagombi Plastron",
+          "nameJa": "白兎獣の腹甲",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Ice Crystal",
+          "nameJa": "氷結晶",
+          "quantity": "x6",
+          "chance": "6%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Rustshard",
+          "nameJa": "さびた塊",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x2",
+          "chance": "30%"
+        },
+        {
+          "nameEn": "Anteka Antler",
+          "nameJa": "ガウシカの角",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Warm Pelt",
+          "nameJa": "暖かい毛皮",
+          "quantity": "x4",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Ice Crystal",
+          "nameJa": "氷結晶",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Snow Herb",
+          "nameJa": "霜ふり草",
+          "quantity": "x5",
+          "chance": "8%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Arzuros Encroaches",
+      "titleJa": "【集★４】アオアシラの浸食",
+      "location": "M. Peaks",
+      "prowler": false,
+      "mainObjective": "Hunt an Arzuros",
+      "mainReward": "3,000z / 300pt / 180HRP",
+      "subObjective": "Deliver 3 White Livers",
+      "subReward": "300z / 30pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Arzuros",
+          "nameJa": "アオアシラ",
+          "startArea": "5",
+          "unstable": false
+        },
+        {
+          "nameEn": "Bulldrome",
+          "nameJa": "ドスファンゴ",
+          "startArea": "5",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "8",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Arzuros Carapace",
+          "nameJa": "青熊獣の堅殻",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Arzuros Pelt+",
+          "nameJa": "青熊獣の剛毛",
+          "quantity": "x1",
+          "chance": "36%"
+        },
+        {
+          "nameEn": "Arzuros Brace+",
+          "nameJa": "青熊獣の堅腕甲",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Arzuros Carapace",
+          "nameJa": "青熊獣の堅殻",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x6",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "6%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Stoutbone",
+          "nameJa": "堅牢な骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Claw",
+          "nameJa": "とがった爪",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Rustshard",
+          "nameJa": "さびた塊",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Kelbi Horn",
+          "nameJa": "ケルビの角",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Health Flute",
+          "nameJa": "回復笛",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Warm Pelt",
+          "nameJa": "暖かい毛皮",
+          "quantity": "x4",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Field Horn",
+          "nameJa": "角笛",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Nulberry",
+          "nameJa": "ウチケシの実",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "High-quality Pelt",
+          "nameJa": "上質な毛皮",
+          "quantity": "x4",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Kelbi Horn",
+          "nameJa": "ケルビの角",
+          "quantity": "x1",
+          "chance": "5%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Royal Spit Take",
+      "titleJa": "【集★４】ロアルドロスを狩猟せよ！",
+      "location": "M. Peaks",
+      "prowler": false,
+      "mainObjective": "Hunt a Royal Ludroth",
+      "mainReward": "6,000z / 600pt / 350HRP",
+      "subObjective": "Slay 12 Ludroth",
+      "subReward": "1,800z / 180pt / 40HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Royal Ludroth",
+          "nameJa": "ロアルドロス",
+          "startArea": "7",
+          "unstable": false
+        },
+        {
+          "nameEn": "Bulldrome",
+          "nameJa": "ドスファンゴ",
+          "startArea": "5",
+          "unstable": true
+        },
+        {
+          "nameEn": "Arzuros",
+          "nameJa": "アオアシラ",
+          "startArea": "5",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "8",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "R.Ludroth Scale+",
+          "nameJa": "水獣の上鱗",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Spongy Hide+",
+          "nameJa": "海綿質の上皮",
+          "quantity": "x1",
+          "chance": "26%"
+        },
+        {
+          "nameEn": "R.Ludroth Claw+",
+          "nameJa": "水獣の鋭爪",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "R.Ludroth Crest+",
+          "nameJa": "高級なトサカ",
+          "quantity": "x1",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "R.Ludroth Scale+",
+          "nameJa": "水獣の上鱗",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "R.Ludroth Tail",
+          "nameJa": "水獣の尻尾",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Dash Extract",
+          "nameJa": "狂走エキス",
+          "quantity": "x2",
+          "chance": "8%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Monster Bone+",
+          "nameJa": "上竜骨",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Fang",
+          "nameJa": "竜の牙",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Wyvern Claw",
+          "nameJa": "竜の爪",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x12",
+          "chance": "9%"
+        },
+        {
+          "nameEn": "Monster Keenbone",
+          "nameJa": "尖竜骨",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "7%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "7%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Hydro Hide+",
+          "nameJa": "水生獣の上皮",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x4",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Monster Bone M",
+          "nameJa": "竜骨【中】",
+          "quantity": "x2",
+          "chance": "16%"
+        },
+        {
+          "nameEn": "Immature Sponge",
+          "nameJa": "未熟な海綿質",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Hydro Hide",
+          "nameJa": "水生獣の皮",
+          "quantity": "x3",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Hydro Hide+",
+          "nameJa": "水生獣の上皮",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Monster Bone S",
+          "nameJa": "竜骨【小】",
+          "quantity": "x4",
+          "chance": "8%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Netting Neopterons",
+      "titleJa": "【集★４】飛甲虫討伐ノススメ",
+      "location": "M. Peaks",
+      "prowler": false,
+      "mainObjective": "Slay 50 Bnahabra",
+      "mainReward": "4,500z / 450pt / 160HRP",
+      "subObjective": "Slay 15 Altaroth",
+      "subReward": "1,500z / 150pt / 20HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Arzuros",
+          "nameJa": "アオアシラ",
+          "startArea": "5",
+          "unstable": true
+        },
+        {
+          "nameEn": "Deviljho",
+          "nameJa": "イビルジョー",
+          "startArea": "8",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Bnahabra Carapace",
+          "nameJa": "飛甲虫の堅殻",
+          "quantity": "x4",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bnahabra Carapace",
+          "nameJa": "飛甲虫の堅殻",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bnahabra Wing",
+          "nameJa": "飛甲虫の羽",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Bnahabra Shell",
+          "nameJa": "飛甲虫の甲殻",
+          "quantity": "x4",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Bnahabra Carapace",
+          "nameJa": "飛甲虫の堅殻",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bnahabra Wing",
+          "nameJa": "飛甲虫の羽",
+          "quantity": "x4",
+          "chance": "8%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Mopeshroom",
+          "nameJa": "クタビレタケ",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Yukumo Hardwood",
+          "nameJa": "ユクモの堅木",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Water Ambrosia",
+          "nameJa": "水の蜜餌",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Felvine",
+          "nameJa": "マタタビ",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Yukumo Wood",
+          "nameJa": "ユクモの木",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Larval Extract",
+          "nameJa": "養虫エキス",
+          "quantity": "x1",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Heavy Jelly",
+          "nameJa": "重の成長餌",
+          "quantity": "x2",
+          "chance": "4%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": [
+        {
+          "nameEn": "Quality Stomach",
+          "nameJa": "上質な腹袋",
+          "quantity": "x1",
+          "chance": "40%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Altaroth Jaw",
+          "nameJa": "甲虫の大顎",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Altaroth Stomach",
+          "nameJa": "甲虫の腹袋",
+          "quantity": "x2",
+          "chance": "10%"
+        }
+      ]
+    },
+    {
+      "titleEn": "【Hub★４】Clash of Rivals",
+      "titleJa": "【集★４】ライバルの激突！！",
+      "location": "F. Slayground",
+      "prowler": false,
+      "mainObjective": "Slay a total of 30 Bullfango or Rhenoplos",
+      "mainReward": "4,500z / 450pt / 150HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [],
+      "rewardA": [
+        {
+          "nameEn": "Bullfango Pelt+",
+          "nameJa": "ファンゴの上毛皮",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Bullfango Pelt+",
+          "nameJa": "ファンゴの上毛皮",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Jumbo Bone",
+          "nameJa": "大きな骨",
+          "quantity": "x2",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Bullfango Head",
+          "nameJa": "ファンゴの頭",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bullfango Pelt",
+          "nameJa": "ファンゴの毛皮",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x4",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bullfango Pelt+",
+          "nameJa": "ファンゴの上毛皮",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Rhenoplos Carap",
+          "nameJa": "草食竜の堅殻",
+          "quantity": "x2",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Rhenoplos Carap",
+          "nameJa": "草食竜の堅殻",
+          "quantity": "x2",
+          "chance": "28%"
+        },
+        {
+          "nameEn": "Monster Bone M",
+          "nameJa": "竜骨【中】",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Rhenoplos Scalp",
+          "nameJa": "草食竜の頭殻",
+          "quantity": "x1",
+          "chance": "19%"
+        },
+        {
+          "nameEn": "Rhenoplos Shell",
+          "nameJa": "草食竜の甲殻",
+          "quantity": "x2",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x3",
+          "chance": "15%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】A Powerful Team",
+      "titleJa": "【集★４】集いし強豪",
+      "location": "Arena",
+      "prowler": false,
+      "mainObjective": "Hunt all large monsters",
+      "mainReward": "10,200z / 1,020pt / 550HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Velocidrome",
+          "nameJa": "ドスランポス",
+          "startArea": "1",
+          "unstable": false
+        },
+        {
+          "nameEn": "Great Maccao",
+          "nameJa": "ドスマッカォ",
+          "startArea": "1",
+          "unstable": false
+        },
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "1",
+          "unstable": false
+        },
+        {
+          "nameEn": "Bulldrome",
+          "nameJa": "ドスファンゴ",
+          "startArea": "1",
+          "unstable": false
+        },
+        {
+          "nameEn": "Gendrome",
+          "nameJa": "ドスゲネポス",
+          "startArea": "1",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "G.Maccao Hide+",
+          "nameJa": "跳狗竜の上赤皮",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Velocidrome Claw+",
+          "nameJa": "ランポスの大尖爪",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Gendrome Fang+",
+          "nameJa": "ゲネポスの大尖牙",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bulldrome Tusk+",
+          "nameJa": "大猪の大牙",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Seltas Innerwing",
+          "nameJa": "徹甲虫の薄羽",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Omniplegia Sac",
+          "nameJa": "強力麻痺袋",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Champion's Crest",
+          "nameJa": "王者の冠羽",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Velocidrome Head",
+          "nameJa": "ドスランポスの頭",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Bullfango Head",
+          "nameJa": "ファンゴの頭",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Seltas Horn+",
+          "nameJa": "徹甲虫の尖角",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Bird Wyvern Gem",
+          "nameJa": "鳥竜玉",
+          "quantity": "x1",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Great Maccao Scl+",
+          "nameJa": "跳狗竜の上鱗",
+          "quantity": "x2",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Velocidrome Hide+",
+          "nameJa": "ランポスの大上皮",
+          "quantity": "x2",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Gendrome Hide+",
+          "nameJa": "ゲネポスの大上皮",
+          "quantity": "x2",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Bulldrome Hide+",
+          "nameJa": "大猪の硬い皮",
+          "quantity": "x2",
+          "chance": "4%"
+        },
+        {
+          "nameEn": "Seltas Carapace",
+          "nameJa": "徹甲虫の堅殻",
+          "quantity": "x2",
+          "chance": "4%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "23%"
+        },
+        {
+          "nameEn": "Bloodrun Jewel",
+          "nameJa": "修羅原珠",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x2",
+          "chance": "9%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x3",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Silver Egg",
+          "nameJa": "銀のたまご",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Armor Stone",
+          "nameJa": "鎧石",
+          "quantity": "x1",
+          "chance": "3%"
+        }
+      ],
+      "rewardC": [],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】The Grandmeowster's Trials",
+      "titleJa": "【集★４】大師範の試練",
+      "location": "A. Steppe",
+      "prowler": true,
+      "mainObjective": "Slay 15 Konchu",
+      "mainReward": "1,500z / 150pt / 120HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [],
+      "rewardA": [
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Konchu Carapace",
+          "nameJa": "盾虫の堅殻",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Konchu Shell",
+          "nameJa": "盾虫の甲殻",
+          "quantity": "x2",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Insect Scrap+",
+          "nameJa": "虫の上端材",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Sharp Fang",
+          "nameJa": "とがった牙",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Konchu Carapace",
+          "nameJa": "盾虫の堅殻",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Handsome Scrap",
+          "nameJa": "粋な端材",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Godbug",
+          "nameJa": "不死虫",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bitterbug",
+          "nameJa": "にが虫",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "100%"
+        }
+      ],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】We Cat All Be Heroes",
+      "titleJa": "【集★４】ニャンターこそ正義のヒーロー",
+      "location": "A. Steppe",
+      "prowler": true,
+      "mainObjective": "Hunt a Seltas",
+      "mainReward": "3,000z / 300pt / 200HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Seltas",
+          "nameJa": "アルセルタス",
+          "startArea": "4",
+          "unstable": false
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Seltas Innerwing",
+          "nameJa": "徹甲虫の薄羽",
+          "quantity": "x1",
+          "chance": "20%"
+        },
+        {
+          "nameEn": "Seltas Carapace",
+          "nameJa": "徹甲虫の堅殻",
+          "quantity": "x1",
+          "chance": "15%"
+        },
+        {
+          "nameEn": "Monster Broth",
+          "nameJa": "モンスターの濃汁",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Insect Scrap+",
+          "nameJa": "虫の上端材",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Torrent Sac",
+          "nameJa": "大水袋",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Thunderbug",
+          "nameJa": "雷光虫",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Seltas Horn+",
+          "nameJa": "徹甲虫の尖角",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Monster Fluid",
+          "nameJa": "モンスターの体液",
+          "quantity": "x2",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Handsome Scrap",
+          "nameJa": "粋な端材",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Godbug",
+          "nameJa": "不死虫",
+          "quantity": "x1",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bitterbug",
+          "nameJa": "にが虫",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Adv Armor Sphere",
+          "nameJa": "尖鎧玉",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Mystery Charm",
+          "nameJa": "なぞのお守り",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Shining Charm",
+          "nameJa": "光るお守り",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "100%"
+        }
+      ],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Fois Gras Faux Pas",
+      "titleJa": "【集★４】魚竜のキモは鮮度が命",
+      "location": "Dunes",
+      "prowler": true,
+      "mainObjective": "Deliver 12 Piscine Livers",
+      "mainReward": "3,600z / 360pt / 150HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Cephadrome",
+          "nameJa": "ドスガレオス",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Monster Bone L",
+          "nameJa": "竜骨【大】",
+          "quantity": "x1",
+          "chance": "35%"
+        },
+        {
+          "nameEn": "Cephalos Scale+",
+          "nameJa": "砂竜の上鱗",
+          "quantity": "x1",
+          "chance": "25%"
+        },
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Bomb Arowana",
+          "nameJa": "バクレツアロワナ",
+          "quantity": "x4",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Burst Arowana",
+          "nameJa": "ハレツアロワナ",
+          "quantity": "x6",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Cephalos Fin+",
+          "nameJa": "砂竜の上ヒレ",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Handsome Scrap",
+          "nameJa": "粋な端材",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Carpenterbug",
+          "nameJa": "セッチャクロアリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Hot Pepper",
+          "nameJa": "トウガラシ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Mopeshroom",
+          "nameJa": "クタビレタケ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Stone",
+          "nameJa": "石ころ",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Gloamgrass Root",
+          "nameJa": "落陽草の根",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Ice Crystal",
+          "nameJa": "氷結晶",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Bone Husk",
+          "nameJa": "カラ骨",
+          "quantity": "x4",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "King Scarab",
+          "nameJa": "王族カナブン",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Sunspire Jewel",
+          "nameJa": "陽翔原珠",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "100%"
+        }
+      ],
+      "rewardD": [],
+      "rewardSub": []
+    },
+    {
+      "titleEn": "【Hub★４】Splash in the Moonlight",
+      "titleJa": "【集★４】スプラッシュパニック！",
+      "location": "M. Peaks",
+      "prowler": true,
+      "mainObjective": "Slay 15 Ludroth",
+      "mainReward": "3,600z / 360pt / 120HRP",
+      "subObjective": "(None)",
+      "subReward": "0z / 0pt / 0HRP",
+      "fail": "Reward hits 0, or time expires",
+      "monsters": [
+        {
+          "nameEn": "Royal Ludroth",
+          "nameJa": "ロアルドロス",
+          "startArea": "7",
+          "unstable": true
+        }
+      ],
+      "rewardA": [
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "100%"
+        },
+        {
+          "nameEn": "Hydro Hide+",
+          "nameJa": "水生獣の上皮",
+          "quantity": "x1",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Raw Meat",
+          "nameJa": "生肉",
+          "quantity": "x4",
+          "chance": "18%"
+        },
+        {
+          "nameEn": "Monster Bone M",
+          "nameJa": "竜骨【中】",
+          "quantity": "x2",
+          "chance": "14%"
+        },
+        {
+          "nameEn": "Immature Sponge",
+          "nameJa": "未熟な海綿質",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Hydro Hide",
+          "nameJa": "水生獣の皮",
+          "quantity": "x3",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Humble Scrap+",
+          "nameJa": "素朴な上端材",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Hydro Hide+",
+          "nameJa": "水生獣の上皮",
+          "quantity": "x2",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Handsome Scrap",
+          "nameJa": "粋な端材",
+          "quantity": "x2",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Monster Bone S",
+          "nameJa": "竜骨【小】",
+          "quantity": "x4",
+          "chance": "5%"
+        }
+      ],
+      "rewardB": [
+        {
+          "nameEn": "Mopeshroom",
+          "nameJa": "クタビレタケ",
+          "quantity": "x2",
+          "chance": "12%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Herb",
+          "nameJa": "薬草",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Nulberry",
+          "nameJa": "ウチケシの実",
+          "quantity": "x2",
+          "chance": "10%"
+        },
+        {
+          "nameEn": "Armor Sphere+",
+          "nameJa": "上鎧玉",
+          "quantity": "x1",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Honey",
+          "nameJa": "ハチミツ",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Felvine",
+          "nameJa": "マタタビ",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Blue Mushroom",
+          "nameJa": "アオキノコ",
+          "quantity": "x2",
+          "chance": "8%"
+        },
+        {
+          "nameEn": "Carbalite Ore",
+          "nameJa": "カブレライト鉱石",
+          "quantity": "x1",
+          "chance": "6%"
+        },
+        {
+          "nameEn": "Yukumo Hardwood",
+          "nameJa": "ユクモの堅木",
+          "quantity": "x1",
+          "chance": "5%"
+        },
+        {
+          "nameEn": "Lagniapple",
+          "nameJa": "アキンドングリ",
+          "quantity": "x2",
+          "chance": "5%"
+        }
+      ],
+      "rewardC": [
+        {
+          "nameEn": "Big Lagniapple",
+          "nameJa": "大アキンドングリ",
+          "quantity": "x1",
+          "chance": "100%"
+        }
+      ],
+      "rewardD": [],
+      "rewardSub": []
+    }
+  ]
+}

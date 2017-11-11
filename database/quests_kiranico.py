@@ -13,15 +13,26 @@ def isInfoRow(tag):
 	return tag.name == 'tr' and tag.parent.name != 'thead'
 
 def extract_quest_info(url):
-	sleep(1)
 	# print('extracting quest: ' + url)
-	quest_info = BeautifulSoup(requests.get(url).content, 'html.parser')
+
 	quest_json = {}
+	ja_url = url.replace('mhxxx', 'mhxx');
+
+	sleep(1)
+	quest_info = BeautifulSoup(requests.get(url).content, 'html.parser')
+	sleep(1)
+	ja_quest_info = BeautifulSoup(requests.get(ja_url).content, 'html.parser')
 
 	info_block = quest_info.find('h2').find_parent('div')
 	tags = info_block.find_all(isUsefulTag, recursive=False)
 
 	quest_json['titleEn'] = tags[0].text.strip()
+
+	ja_info_block = ja_quest_info.find('h2').find_parent('div')
+	ja_tags = ja_info_block.find_all(isUsefulTag, recursive=False)
+
+	quest_json['titleJa'] = ja_tags[0].text.strip()
+
 	# quest_json['description'] = tags[1].text
 	quest_json['location'] = tags[2].find('a').text.strip()
 	if len(tags[2].select('span.btn.btn-outline-warning.btn-sm')) > 0:
@@ -47,31 +58,31 @@ def extract_quest_info(url):
 	quest_json['rewardA'] = []
 	quest_json['rewardB'] = []
 	quest_json['rewardC'] = []
+	quest_json['rewardD'] = []
 	quest_json['rewardSub'] = []
 
 	rewards_tag = info_block.find('h5', string=re.compile('Items'))
 	if rewards_tag is not None:
 		reward_list = rewards_tag.find_next('div').find_all('div', recursive=False)
-		if len(reward_list) > 0:
-			reward_list_A = reward_list[0].find_all(isInfoRow)
-			for reward_info in reward_list_A:
-				quest_json['rewardA'].append(extract_reward_data(reward_info))
-
-		if len(reward_list) > 1:
-			reward_list_B = reward_list[1].find_all(isInfoRow)
-			for reward_info in reward_list_B:
-				quest_json['rewardB'].append(extract_reward_data(reward_info))
-
-		if len(reward_list) > 2:
-			reward_list_C = reward_list[2].find_all(isInfoRow)
-			for reward_info in reward_list_C:
-				quest_json['rewardC'].append(extract_reward_data(reward_info))
-
-		if len(reward_list) > 3:
-			reward_list_Sub = reward_list[3].find_all(isInfoRow)
-			for reward_info in reward_list_Sub:
-				quest_json['rewardSub'].append(extract_reward_data(reward_info))
-	# print(quest_json)
+		for i in range(len(reward_list)):
+			reward_list_text = reward_list[i].find('th').text.strip()
+			reward_list_details = reward_list[i].find_all(isInfoRow)
+			if reward_list_text == 'Reward1':
+				for reward_info in reward_list_details:
+					quest_json['rewardA'].append(extract_reward_data(reward_info))
+			elif reward_list_text == 'Reward2':
+				for reward_info in reward_list_details:
+					quest_json['rewardB'].append(extract_reward_data(reward_info))
+			elif reward_list_text == 'Reward3':
+				for reward_info in reward_list_details:
+					quest_json['rewardC'].append(extract_reward_data(reward_info))
+			elif reward_list_text == 'Reward4':
+				for reward_info in reward_list_details:
+					quest_json['rewardD'].append(extract_reward_data(reward_info))
+			elif reward_list_text == 'Sub':
+				for reward_info in reward_list_details:
+					quest_json['rewardSub'].append(extract_reward_data(reward_info))
+	# print(json.dumps(quest_json, indent=4))
 	return quest_json
 
 def extract_reward_data(reward_info):
@@ -99,8 +110,26 @@ def extract_monster_data(monster_info):
 	monster_data['unstable'] = monster_info.find('td').text.strip() != ''
 	return monster_data
 
+def extract_all_hub_quest_info(quest_rank_ids):
+	for id in quest_rank_ids:
+		print('Starting quests: ' + id)
+		quest_id_info = {}
+		quest_id_info['id'] = id
+		quest_id_info['rank'] = hub_quest_info.find(href=re.compile('#' + id)).text.strip()
+		quest_id_info['questList'] = []
+		quest_tags = hub_quest_info.find(id=id).find_all(href=re.compile('/quest/'))
+		for tag in quest_tags:
+			quest_id_info['questList'].append(extract_quest_info(tag.attrs['href']))
+		quests.append(quest_id_info)
+		with io.open(id + '.json', 'w', encoding='utf8') as f:
+			json.dump(quest_id_info, f, ensure_ascii=False, indent=2)
+
+	# print(json.dumps(quests, indent=4))
+
+	# with io.open('quest_data.json', 'w', encoding='utf8') as f:
+	# 	json.dump(quests, f, ensure_ascii=False, indent=2)
+
 kiranico_url_en = 'https://mhxxx.kiranico.com'
-kiranico_url_ja = 'https://mhxx.kiranico.com'
 
 response = requests.get(kiranico_url_en + '/quest')
 
@@ -112,17 +141,7 @@ hub_quest_info = BeautifulSoup(response.content, 'html.parser', parse_only=only_
 
 quests = []
 
-for id in quest_rank_ids:
-	quest_id_info = {}
-	quest_id_info['id'] = id
-	quest_id_info['rank'] = hub_quest_info.find(href=re.compile('#' + id)).text.strip()
-	quest_id_info['questList'] = []
-	quest_tags = hub_quest_info.find(id=id).find_all(href=re.compile('/quest/'))
-	for tag in quest_tags:
-		quest_id_info['questList'].append(extract_quest_info(tag.attrs['href']))
-	quests.append(quest_id_info)
+#test = 'https://mhxxx.kiranico.com/quest/0a05d'
+#extract_quest_info(test)
 
-print(json.dumps(quests, indent=4))
-
-with io.open('out', 'w', encoding='utf8') as f:
-	json.dump(quests, f, ensure_ascii=False, indent=2)
+extract_all_hub_quest_info(quest_rank_ids)
