@@ -6,6 +6,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
 import { QuestsPage } from '../pages/quests/quests';
+import { FoodSkillsPage } from '../pages/food-skills/food-skills';
 
 @Component({
   templateUrl: 'app.html'
@@ -24,7 +25,8 @@ export class MyApp {
     this.pages = [
       { title: 'Home', component: HomePage },
       { title: 'List', component: ListPage },
-      { title: 'Hub Quests', component: QuestsPage }
+      { title: 'Hub Quests', component: QuestsPage },
+      { title: 'Food Skills', component: FoodSkillsPage }
     ];
 
   }
@@ -36,6 +38,16 @@ export class MyApp {
       this.statusBar.styleDefault();
       this.splashScreen.hide();
     });
+  }
+
+  iconPic(page) {
+    if (page.title == 'Hub Quests') {
+      return "./assets/imgs/menu-icons/menu-quest.png"
+    } else if (page.title == 'Food Skills') {
+      return "./assets/imgs/menu-icons/menu-food.png"
+    } else {
+      return "./assets/imgs/menu-icons/menu-sword.png"
+    }
   }
 
   openPage(page) {
