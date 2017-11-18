@@ -9,7 +9,7 @@
     <ion-list class="menu-list">
       <button menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)">
         <!-- <ion-icon name="menu-quest" item-start></ion-icon> -->
-        <img class="menu-icons" src="./assets/imgs/menu-icons/menu-quest.png">
+        <img class="menu-icons" [src]="iconPic(p)">
         {{p.title}}
       </button>
     </ion-list>

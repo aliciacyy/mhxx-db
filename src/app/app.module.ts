@@ -9,6 +9,7 @@ import { ListPage } from '../pages/list/list';
 import { QuestsPage } from '../pages/quests/quests';
 import { QuestsListPage } from '../pages/quests-list/quests-list';
 import { QuestDetailPage } from '../pages/quest-detail/quest-detail';
+import { FoodSkillsPage } from '../pages/food-skills/food-skills';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -21,7 +22,8 @@ import { DataProvider } from '../providers/data/data';
     ListPage,
     QuestsPage,
     QuestsListPage,
-    QuestDetailPage
+    QuestDetailPage,
+    FoodSkillsPage
   ],
   imports: [
     BrowserModule,
@@ -35,7 +37,8 @@ import { DataProvider } from '../providers/data/data';
     ListPage,
     QuestsPage,
     QuestsListPage,
-    QuestDetailPage
+    QuestDetailPage,
+    FoodSkillsPage
   ],
   providers: [
     StatusBar,

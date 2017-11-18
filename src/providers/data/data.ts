@@ -6,11 +6,15 @@ import 'rxjs/add/operator/map';
 export class DataProvider {
   hubKeyQuests: any;
   allHubQuests: any;
+  foodSkills: any;
 
   constructor(public http: Http) {
     console.log('Hello DataProvider Provider');
     this.http.get("./assets/jsons/quests/HubKeyQuests.json").subscribe(data => {
       this.hubKeyQuests = data.json();
+    });
+    this.http.get("./assets/jsons/FoodSkills.json").subscribe(data => {
+      this.foodSkills = data.json();
     });
   }
 
@@ -49,6 +53,10 @@ export class DataProvider {
   getHubKeyQuests(){
     console.log('Getting key quests');
     return this.hubKeyQuests;
+  }
+
+  getFoodSkills() {
+    return this.foodSkills;
   }
 
 }

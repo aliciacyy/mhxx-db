@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Food Skills</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+    <div *ngFor="let food of foodSkills">
+      <button ion-item class="item-stable"
+                (click)="toggleGroup(food)"
+                [class.active]="isGroupShown(food)">
+          <ion-icon [name]="isGroupShown(food) ? 'remove' : 'add'"></ion-icon>
+        {{food.heading}}
+      </button>
+        <ion-item text-wrap *ngFor="let item of food.list" class="item-accordion" [class.show]="isGroupShown(food)">
+          <div class="food-skill-ja">{{item.nameJa}}</div>
+          <div class="food-skill-en">{{item.nameEn}}</div>
+          <div class="food-skill-description">{{item.description}}</div>
+        </ion-item>
+    </div>
+  </ion-list>
+</ion-content>

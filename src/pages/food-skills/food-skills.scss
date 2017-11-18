@@ -1,0 +1,24 @@
+page-food-skills {
+  .item-accordion.show {
+    max-height: 1000px;
+    transition: 2.00s all linear;
+  }
+  .item-accordion {
+    max-height: 0px;
+    min-height: 0px;
+  }
+  .icon-md.item-icon {
+    margin-right: 10px;
+    margin-left: 4px;
+  }
+  .food-skill-description {
+    font-size: 12px;
+    margin-top: 4px;
+  }
+  .label-md {
+    margin: 4px 0px 4px 0px;
+  }
+  .active {
+    background-color: #e5e5e5;
+  }
+}

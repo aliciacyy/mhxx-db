@@ -1,0 +1,375 @@
+[
+  {
+    "heading": "2-3 術",
+    "list": [
+      {
+        "nameJa": "ネコの体術",
+        "nameEn": "Felyne Black Belt",
+        "description": "Slows down Stamina depletion when evading, blocking, etc."
+      },
+      {
+        "nameJa": "ネコの医療術",
+        "nameEn": "Felyne Medic",
+        "description": "Increased Health recovery from items, and Antidote Herb and Bitterbug always work."
+      },
+      {
+        "nameJa": "ネコの火薬術",
+        "nameEn": "Felyne Pyro",
+        "description": "Increases damage for all types of Barrel Bombs, and increases the power of Blast attacks."
+      },
+      {
+        "nameJa": "ネコの採取術",
+        "nameEn": "Felyne Gatherer",
+        "description": "Sometimes increases the number of times items can be gathered at Gathering Points."
+      },
+      {
+        "nameJa": "ネコの射撃術",
+        "nameEn": "Felyne Sharpshooter",
+        "description": "Increases the power of Normal shots (Normal S)."
+      },
+      {
+        "nameJa": "ネコの吹奏術",
+        "nameEn": "Felyne Hornblower",
+        "description": "Decreases the likelihood of Horn/Flute items breaking."
+      },
+      {
+        "nameJa": "ネコの逃走術",
+        "nameEn": "Felyne Escape Artist",
+        "description": "Decreases Stamina depletion when fleeing from large monsters."
+      },
+      {
+        "nameJa": "ネコの投擲術",
+        "nameEn": "Felyne Hurler",
+        "description": "Increases damage of projectiles such as Stones, Throwing Knives, and Boomerangs."
+      },
+      {
+        "nameJa": "ネコの換算術",
+        "nameEn": "Felyne Exchanger",
+        "description": "Increases the number of Hunter Rank Points received for completing a Quest."
+      },
+      {
+        "nameJa": "ネコの蹴脚術",
+        "nameEn": "Felyne Kickboxer",
+        "description": "Strengthens kicks."
+      },
+      {
+        "nameJa": "ネコの拳闘術",
+        "nameEn": "Felyne Fighter",
+        "description": "Increases damage inflicted by the Shadowbox gesture."
+      },
+      {
+        "nameJa": "ネコの着地術",
+        "nameEn": "Felyne Lander",
+        "description": "Prevents stumbling when jumping down from high places."
+      },
+      {
+        "nameJa": "ネコの休憩術",
+        "nameEn": "Cool Cat",
+        "description": "Grants a temporary Attack boost when you use the Kick Back gesture for a while."
+      },
+      {
+        "nameJa": "ネコのＫＯ術",
+        "nameEn": "Felyne Slugger",
+        "description": "Makes it easier to stun monsters."
+      },
+      {
+        "nameJa": "ネコの砲撃術",
+        "nameEn": "Felyne Bombardier",
+        "description": "Increases Ballista, Crag shot (Crag S), Gunlance, Cannon and Demolisher ammo damage."
+      },
+      {
+        "nameJa": "ネコの長靴術",
+        "nameEn": "Felyne Fur Coating",
+        "description": "Prevents damage from environmental effects."
+      },
+      {
+        "nameJa": "ネコの会計術",
+        "nameEn": "Felyne Accounting",
+        "description": "Increases the amount of Wycademy Points received at the end of a Quest."
+      },
+      {
+        "nameJa": "ネコの不眠術",
+        "nameEn": "Felyne Insomniac",
+        "description": "Prevents you from sleeping during a Quest, even on the base camp bed."
+      },
+      {
+        "nameJa": "ネコの研磨術",
+        "nameEn": "Felyne Polisher",
+        "description": "Often speeds up sharpening time."
+      }
+    ]
+  },
+
+  {
+    "heading": ">=4 術",
+    "list": [
+      {
+        "nameJa": "ネコのおまけ術",
+        "nameEn": "Felyne Foodie",
+        "description": "Causes food effects to remain even after you faint in battle."
+      },
+      {
+        "nameJa": "ネコの受け身術",
+        "nameEn": "Felyne Acrobat",
+        "description": "Grants a quick recovery when sent flying by a monster."
+      },
+      {
+        "nameJa": "ネコの特殊攻撃術",
+        "nameEn": "Felyne Specialist",
+        "description": "Increases the potency of abnormal status attacks."
+      },
+      {
+        "nameJa": "ネコの道具倹約術",
+        "nameEn": "Felyne Woodsman",
+        "description": "Decreases the likelihood of Pickaxes and Bug Nets breaking."
+      },
+      {
+        "nameJa": "ネコの秘境探索術",
+        "nameEn": "Felyne Explorer",
+        "description": "Ensures you always begin in Hidden Areas during Quests with random starting points."
+      },
+      {
+        "nameJa": "ネコのゴリ押し術",
+        "nameEn": "Felyne Bulldozer",
+        "description": "Increases Sharpness when you strike right after an attack is deflected."
+      },
+      {
+        "nameJa": "ネコのすり抜け術",
+        "nameEn": "Felyne Slider",
+        "description": "Makes it easier to escape when pinned down by a large monster."
+      },
+      {
+        "nameJa": "ネコの千里眼の術",
+        "nameEn": "Felyne Oracle",
+        "description": "Displays large monsters on the Map at the start of a Quest for a limited amount of time."
+      },
+      {
+        "nameJa": "ネコの短期催眠術",
+        "nameEn": "Felyne Booster",
+        "description": "Increases Attack and Defense at the start of a Quest for a limited amount of time."
+      },
+      {
+        "nameJa": "ネコの乗り支援術",
+        "nameEn": "Felyne Hostler",
+        "description": "Fills gauge faster when attacking a monster mounted by another player."
+      },
+      {
+        "nameJa": "ネコのふんばり術",
+        "nameEn": "Felyne Feet",
+        "description": "Prevents you from getting knocked on your butt."
+      },
+      {
+        "nameJa": "ネコのオトモ指導術",
+        "nameEn": "Felyne Trainer",
+        "description": "Speeds up Palico growth."
+      }
+    ]
+  },
+
+  {
+    "heading": "【大】【小】",
+    "list": [
+      {
+        "nameJa": "ネコの解体術【大】",
+        "nameEn": "Felyne Carver (Hi)",
+        "description": "Often increases the number of times you can carve."
+      },
+      {
+        "nameJa": "ネコの解体術【小】",
+        "nameEn": "Felyne Carver (Lo)",
+        "description": "Sometimes increases the number of times you can carve."
+      },
+      {
+        "nameJa": "ネコの防御術【大】",
+        "nameEn": "Felyne Defender (Hi)",
+        "description": "Often decreases damage taken."
+      },
+      {
+        "nameJa": "ネコの防御術【小】",
+        "nameEn": "Felyne Defender (Lo)",
+        "description": "Sometimes decreases damage taken."
+      },
+      {
+        "nameJa": "ネコの調合術【大】",
+        "nameEn": "Felyne Combiner (Hi)",
+        "description": "Increases Combination success rate by 20%."
+      },
+      {
+        "nameJa": "ネコの調合術【小】",
+        "nameEn": "Felyne Combiner (Lo)",
+        "description": "Increases Combination success rate by 10%."
+      },
+      {
+        "nameJa": "ネコの起上り術【大】",
+        "nameEn": "Felyne Riser (Hi)",
+        "description": "Greatly extends the invulnerability period when getting up."
+      },
+      {
+        "nameJa": "ネコの起上り術【小】",
+        "nameEn": "Felyne Riser (Lo)",
+        "description": "Extends the invulnerability period when getting up."
+      }
+    ]
+  },
+
+  {
+    "heading": "上手",
+    "list": [
+      {
+        "nameJa": "ネコの憎まれ上手",
+        "nameEn": "Felyne Provoker",
+        "description": "Draws monsters' attention, increasing the likelihood of being targeted."
+      },
+      {
+        "nameJa": "ネコの乗り上手",
+        "nameEn": "Felyne Rider",
+        "description": "Makes it easier to mount monsters."
+      },
+      {
+        "nameJa": "ネコの釣り上手",
+        "nameEn": "Felyne Fisher",
+        "description": "Increases the likelihood fish will bite when fishing."
+      },
+      {
+        "nameJa": "ネコの手配上手",
+        "nameEn": "Felyne Supplier",
+        "description": "Causes additional Supply Items to be delivered immediately."
+      },
+      {
+        "nameJa": "ネコのはじかれ上手",
+        "nameEn": "Felyne Deflector",
+        "description": "Helps your weapon retain Sharpness when attacks are deflected."
+      },
+      {
+        "nameJa": "ネコの毛づくろい上手",
+        "nameEn": "Felyne Groomer",
+        "description": "Halves the effect durations of Defense Down and Resistance Down, and speeds Blight recovery."
+      }
+    ]
+  },
+
+  {
+    "heading": "人",
+    "list": [
+      {
+        "nameJa": "ネコの解体の鉄人",
+        "nameEn": "Felyne Supercarver",
+        "description": "Prevents knockbacks from attacks while carving."
+      },
+      {
+        "nameJa": "ネコの運搬の超人",
+        "nameEn": "Felyne Supercat",
+        "description": "Slows Stamina depletion from dashing and prevents knockbacks when transporting an item."
+      },
+      {
+        "nameJa": "ネコの運搬の鉄人",
+        "nameEn": "Felyne Strongcat",
+        "description": "Prevents being knocked back when transporting an item."
+      },
+      {
+        "nameJa": "ネコのはりつき超人",
+        "nameEn": "Felyne Cliffhanger",
+        "description": "Decreases Stamina loss on walls or icicles. Also withstands some attacks."
+      },
+      {
+        "nameJa": "ネコのはりつき鉄人",
+        "nameEn": "Felyne Gripper",
+        "description": "Allows you to withstand some attacks while on walls or icicles."
+      },
+      {
+        "nameJa": "ネコのこやし玉達人",
+        "nameEn": "Felyne Dungmaster",
+        "description": "Guarantees Dung Bombs will be effective, and ensures their Combinations will succeed."
+      }
+    ]
+  },
+
+  {
+    "heading": "力 / い",
+    "list": [
+      {
+        "nameJa": "ネコの胆力",
+        "nameEn": "Felyne Courage",
+        "description": "Prevents flinching when discovered by a monster."
+      },
+      {
+        "nameJa": "ネコの火事場力",
+        "nameEn": "Felyne Heroics",
+        "description": "Greatly increases Attack when Health is very low."
+      },
+      {
+        "nameJa": "ネコの弱いの来い！",
+        "nameEn": "Felyne Weakener",
+        "description": "Large monsters encountered on Quests have an increased chance of being weaker than normal."
+      },
+      {
+        "nameJa": "ネコのかかってこい",
+        "nameEn": "Felyne Gamechanger",
+        "description": "Guarantees a large monster will appear when the hunting environment is unstable."
+      }
+    ]
+  },
+
+  {
+    "heading": "運",
+    "list": [
+      {
+        "nameJa": "招きネコの幸運",
+        "nameEn": "Lucky Cat",
+        "description": "Sometimes increases the number of Reward Items received at the end of a Quest."
+      },
+      {
+        "nameJa": "招きネコの金運",
+        "nameEn": "Crazy Lucky Cat",
+        "description": "Increases the amount of zenny received at the end of a Quest."
+      },
+      {
+        "nameJa": "招きネコの激運",
+        "nameEn": "Ultra Lucky Cat",
+        "description": "Often increases the number of Reward Items received at the end of a Quest."
+      },
+      {
+        "nameJa": "招きネコの不運",
+        "nameEn": "Bad Luck Cat",
+        "description": "Slight unfortunate events to occur at the start of a Quest..."
+      },
+      {
+        "nameJa": "招きネコの悪運",
+        "nameEn": "Unlucky Cat",
+        "description": "Causes unfortunate events to occur at the start of a Quest..."
+      }
+    ]
+  },
+
+  {
+    "heading": "Others",
+    "list": [
+      {
+        "nameJa": "ネコのド根性",
+        "nameEn": "Felyne Moxie",
+        "description": "Prevents fainting one time when damage taken exceeds your remaining Health."
+      },
+      {
+        "nameJa": "ネコの暴れ撃ち",
+        "nameEn": "Felyne Temper",
+        "description": "Increases Bowgun damage, but also increases Deviation."
+      },
+      {
+        "nameJa": "ネコのカリスマ",
+        "nameEn": "Felyne Charisma",
+        "description": "Maximizes the number of times you can talk to the Veggie Elder."
+      },
+      {
+        "nameJa": "ネコの報酬金保険",
+        "nameEn": "Felyne Insurance",
+        "description": "Prevents your group from being penalized the first time a member faints."
+      },
+      {
+        "nameJa": "ネコのあとは任せた！",
+        "nameEn": "Felyne Will",
+        "description": "When you faint, you will recover the health of party members in the same area."
+      }
+    ]
+  }
+
+]
